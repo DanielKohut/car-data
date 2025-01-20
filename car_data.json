@@ -1,0 +1,64 @@
+{
+    "brands": {
+        "Audi": [
+            "A3",
+            "A4",
+            "Q5"
+        ],
+        "BMW": [
+            "3 Series",
+            "5 Series",
+            "X5"
+        ],
+        "Chevrolet": [
+            "Equinox",
+            "Malibu",
+            "Silverado"
+        ],
+        "Ford": [
+            "Fiesta",
+            "Focus",
+            "Mustang"
+        ],
+        "Honda": [
+            "Accord",
+            "CR-V",
+            "Civic"
+        ],
+        "Hyundai": [
+            "Elantra",
+            "Sonata",
+            "Tucson"
+        ],
+        "Kia": [
+            "Rio",
+            "Sorento",
+            "Sportage"
+        ],
+        "Mercedes-Benz": [
+            "C-Class",
+            "E-Class",
+            "GLC"
+        ],
+        "Nissan": [
+            "Altima",
+            "Rogue",
+            "Sentra"
+        ],
+        "Tesla": [
+            "Model 3",
+            "Model S",
+            "Model X"
+        ],
+        "Toyota": [
+            "Camry",
+            "Corolla",
+            "RAV4"
+        ],
+        "Volkswagen": [
+            "Golf",
+            "Passat",
+            "Tiguan"
+        ]
+    }
+}
