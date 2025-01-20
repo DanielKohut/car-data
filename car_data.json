@@ -1,64 +1,59 @@
 {
-    "brands": {
-        "Audi": [
-            "A3",
-            "A4",
-            "Q5"
-        ],
-        "BMW": [
-            "3 Series",
-            "5 Series",
-            "X5"
-        ],
-        "Chevrolet": [
-            "Equinox",
-            "Malibu",
-            "Silverado"
-        ],
-        "Ford": [
-            "Fiesta",
-            "Focus",
-            "Mustang"
-        ],
-        "Honda": [
-            "Accord",
-            "CR-V",
-            "Civic"
-        ],
-        "Hyundai": [
-            "Elantra",
-            "Sonata",
-            "Tucson"
-        ],
-        "Kia": [
-            "Rio",
-            "Sorento",
-            "Sportage"
-        ],
-        "Mercedes-Benz": [
-            "C-Class",
-            "E-Class",
-            "GLC"
-        ],
-        "Nissan": [
-            "Altima",
-            "Rogue",
-            "Sentra"
-        ],
-        "Tesla": [
-            "Model 3",
-            "Model S",
-            "Model X"
-        ],
-        "Toyota": [
-            "Camry",
-            "Corolla",
-            "RAV4"
-        ],
-        "Volkswagen": [
-            "Golf",
-            "Passat",
-            "Tiguan"
-        ]
-    }
+  "brands": {
+    "Abarth": [
+      "204A",
+      "205A Berlinetta",
+      "207A Spyder Corsa Boano",
+      "208A Spyder Boano",
+      "209A Coupé Boano",
+      "210A Spyder Boano",
+      "215A Coupé Bertone",
+      "216A Spyder Bertone",
+      "Fiat Abarth 1000 SP",
+      "1100 Scorpione Spider (Boano)",
+      "1500 Biposto",
+      "3000 Prototipo",
+      "Fiat-Abarth 750",
+      "Fiat-Abarth 750 Zagato",
+      "Fiat-Abarth 750 Spider Allemano",
+      "Fiat-Abarth 1000 OTR Berlinetta Bertone",
+      "OT 1300",
+      "Monomille",
+      "500",
+      "595"
+    ],
+    "Alfa Romeo": [
+      "145",
+      "147",
+      "156",
+      "159",
+      "166",
+      "4C",
+      "8C Competizione",
+      "Alfasud",
+      "Brera",
+      "Giulia",
+      "Giulietta",
+      "GTV",
+      "MiTo",
+      "Spider",
+      "Stelvio",
+      "Tonale"
+    ],
+    "Ford": [
+      "Fiesta",
+      "Focus",
+      "Mustang"
+    ],
+    "Honda": [
+      "Accord",
+      "Civic",
+      "CR-V"
+    ],
+    "Toyota": [
+      "Camry",
+      "Corolla",
+      "RAV4"
+    ]
+  }
 }
