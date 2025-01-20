@@ -1,6 +1,10 @@
 {
   "brands": {
     "Abarth": [
+      "1000 OTR Berlinetta Bertone",
+      "1000 SP",
+      "1100 Scorpione Spider (Boano)",
+      "1500 Biposto",
       "204A",
       "205A Berlinetta",
       "207A Spyder Corsa Boano",
@@ -9,18 +13,14 @@
       "210A Spyder Boano",
       "215A Coupé Bertone",
       "216A Spyder Bertone",
-      "Fiat Abarth 1000 SP",
-      "1100 Scorpione Spider (Boano)",
-      "1500 Biposto",
       "3000 Prototipo",
-      "Fiat-Abarth 750",
-      "Fiat-Abarth 750 Zagato",
-      "Fiat-Abarth 750 Spider Allemano",
-      "Fiat-Abarth 1000 OTR Berlinetta Bertone",
-      "OT 1300",
-      "Monomille",
       "500",
-      "595"
+      "595",
+      "750",
+      "750 Spider Allemano",
+      "Monomille",
+      "OT 1300",
+      "Zagato"
     ],
     "Alfa Romeo": [
       "145",
