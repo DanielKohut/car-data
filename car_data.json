@@ -284,7 +284,62 @@
       "Seven",
       "Ten",
       "Twelve"
-    ],      
+    ],
+    "Austin-Healey": [
+      "100",
+      "100-4 BN1",
+      "100-4 BN2",
+      "100M",
+      "100S",
+      "100-6 BN4",
+      "100-6 BN6",
+      "3000 Mk I BN7",
+      "3000 Mk I BT7",
+      "3000 Mk II BN7",
+      "3000 Mk II BT7",
+      "3000 Mk II BJ7",
+      "3000 Mk III BJ8",
+      "Sprite Mk I",
+      "Sprite Mk II",
+      "Sprite Mk III",
+      "Sprite Mk IV"
+    ],
+    "Autobianchi": [
+      "A111",
+      "A112",
+      "Bianchina",
+      "Bianchina Berlina",
+      "Bianchina Cabriolet",
+      "Bianchina Panoramica",
+      "Bianchina Special",
+      "Giardiniera",
+      "Primula",
+      "Stellina"
+    ],
+    "Auto Union": [
+      "1000",
+      "1000 S",
+      "1000 Sp",
+      "DKW F102",
+      "DKW F103",
+      "DKW Munga",
+      "Type A",
+      "Type B",
+      "Type C",
+      "Type D"
+    ],
+    "BAC": [
+      "Mono",
+      "Other"
+    ],
+    "BAIC": [
+      "Arcfox",
+      "BAIC BJ Series",
+      "Beijing X Series",
+      "EU Series",
+      "Foton",
+      "Senova Series"
+    ],
     "Ford": [
       "Fiesta",
       "Focus",
