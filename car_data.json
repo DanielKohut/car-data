@@ -1,4 +1,4 @@
-2{
+{
   "brands": {
     "Abarth": [
       "1000 OTR Berlinetta Bertone",
@@ -108,7 +108,7 @@
       "XD3",
       "XD4",
       "Z8"
-      ],
+    ],
     "Alpine": [
       "A110",
       "A290",
@@ -118,7 +118,7 @@
       "Alpine Vision Gran Turismo",
       "A110 Rally",
       "X-Over"
-      ],
+    ],
     "Alvis": [
       "12/50",
       "14/40",
@@ -134,7 +134,7 @@
       "TC 21/100",
       "TD 21",
       "TE 21"
-      ],
+    ],
     "Ariel": [
       "Ace",
       "Atom",
@@ -145,7 +145,7 @@
       "Andere",
       "500",
       "Twite"
-      ],
+    ],
     "Aro": [
       "10",
       "10.4",
@@ -160,12 +160,12 @@
       "240 4x4",
       "330 4x4",
       "M461"
-      ],
+    ],
     "Artega": [
       "GT", 
       "Scalo",
       "Andere"
-      ],
+    ],
     "Asia Motors": [
       "Andere",
       "Patron",
@@ -260,7 +260,7 @@
       "S e-tron",
       "Q4 Sportback e-tron",
       "RS e-tron GT"
-      ],
+    ],
     "Austin": [
       "7",
       "A30",
@@ -284,7 +284,7 @@
       "Seven",
       "Ten",
       "Twelve"
-    ],      
+    ],
     "Ford": [
       "Fiesta",
       "Focus",
@@ -299,8 +299,7 @@
       "Camry",
       "Corolla",
       "RAV4",
-      "RAV5",
+      "RAV5"
     ]
   }
-}}
 }
