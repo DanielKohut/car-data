@@ -323,6 +323,28 @@
       "Type C",
       "Type D"
     ],
+    "BAC": [
+      "Mono",
+      "Mono F",
+      "Mono One",
+      "Mono R",
+      "Mono X"
+    ],
+    "BAIC": [
+      "Beijing BJ20",
+      "Beijing BJ30",
+      "Beijing BJ40",
+      "Beijing BJ60",
+      "Beijing X35",
+      "Beijing X55",
+      "Beijing X75",
+      "Senova D20",
+      "Senova X25",
+      "Senova X35",
+      "Senova X55",
+      "Senova X65",
+      "X55"
+    ],
     "Ford": [
       "Fiesta",
       "Focus",
