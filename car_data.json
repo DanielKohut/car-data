@@ -3474,11 +3474,142 @@
       "X3",
       "X7"
     ],
+    "Talbot": [
+      "Alpine",
+      "Avenger",
+      "Horizon",
+      "Matra Murena",
+      "Matra Rancho",
+      "Samba",
+      "Solara",
+      "Tagora"
+    ],
+    "Tata": [
+      "Altroz",
+      "Aria",
+      "Harrier",
+      "Hexa",
+      "Indica",
+      "Indigo",
+      "Nano",
+      "Nexon",
+      "Punch",
+      "Safari",
+      "Sierra",
+      "Sumo",
+      "Tiago",
+      "Tigor",
+      "Vista",
+      "Zest"
+    ],
+    "Tatra": [
+      "T57",
+      "T77",
+      "T87",
+      "T97",
+      "T600 Tatraplan",
+      "T603",
+      "T613",
+      "T700"
+    ],
+    "Techart": [
+      "911 Carrera",
+      "911 Carrera S",
+      "911 Turbo",
+      "911 Turbo S",
+      "Cayenne Turbo",
+      "Macan Turbo",
+      "Panamera Turbo",
+      "Taycan Turbo S",
+      "GTstreet R"
+    ],
+    "Tesla": [
+      "Model 3",
+      "Model S",
+      "Model X",
+      "Model Y",
+      "Roadster",
+      "Cybertruck",
+      "Semi"
+    ],
+    "Tiger": [
+      "Avon",
+      "B6",
+      "RS6",
+      "Z100"
+    ],
     "Toyota": [
+      "4Runner",
+      "86",
+      "Auris",
+      "Avensis",
+      "Aygo",
+      "bZ4X",
+      "C-HR",
       "Camry",
+      "Celica",
+      "C-HR",
       "Corolla",
+      "Corolla Cross",
+      "FJ Cruiser",
+      "GR86",
+      "GR Corolla",
+      "GR Supra",
+      "GR Yaris",
+      "GT86",
+      "Highlander",
+      "Hilux",
+      "iQ",
+      "Land Cruiser",
+      "MR2",
+      "Prius",
       "RAV4",
-      "RAV5"
+      "Sequoia",
+      "Sienna",
+      "Supra",
+      "Tacoma",
+      "Tundra",
+      "Urban Cruiser",
+      "Verso",
+      "Yaris",
+      "Yaris Cross"
+    ],
+    "Trabant": [
+      "P50",
+      "P60",
+      "P601",
+      "1.1"
+    ],
+    "Triumph": [
+      "2000",
+      "2500",
+      "Acclaim",
+      "Dolomite",
+      "Herald",
+      "Spitfire",
+      "Stag",
+      "Toledo",
+      "TR2",
+      "TR3",
+      "TR4",
+      "TR5",
+      "TR6",
+      "TR7",
+      "TR8",
+      "Vitesse"
+    ],
+    "TVR": [
+      "Cerbera",
+      "Chimaera",
+      "Griffith",
+      "Sagaris",
+      "Tamora",
+      "T350",
+      "Tuscan",
+      "Tuscan Speed Six"
+    ],
+    "TYN-e": [
+      "City"
     ]
   }
 }
