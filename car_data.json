@@ -3811,6 +3811,42 @@
       "XC60",
       "XC70",
       "XC90"
+    ],
+      "Wartburg": [
+      "311",
+      "312",
+      "353",
+      "1.3"
+    ],
+    "Westfield": [
+      "SE",
+      "SEi",
+      "SEight",
+      "Sport 1600",
+      "Sport 2000",
+      "XTR2",
+      "XTR4",
+      "MegaBusa",
+      "Sport Turbo",
+      "FW400"
+    ],
+    "WEY": [
+      "Coffee 01",
+      "Coffee 02",
+      "Macchiato",
+      "Mocha",
+      "VV5",
+      "VV6",
+      "VV7"
+    ],
+    "Wiesmann": [
+      "GT MF3",
+      "GT MF4",
+      "GT MF4-S",
+      "GT MF5",
+      "Roadster MF3",
+      "Roadster MF4",
+      "Project Thunderball"
     ]
   }
 }
