@@ -53,6 +53,23 @@
   {
     "id": 4,
     "brand": "Abarth",
+    "model": "124 Spider",
+    "production_year_start": 2016,
+    "production_year_end": 2020,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L MultiAir Turbo",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Abarth",
     "model": "1500 Biposto",
     "production_year_start": 1950,
     "production_year_end": 1952,
@@ -68,7 +85,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "brand": "Abarth",
     "model": "204A",
     "production_year_start": 1950,
@@ -85,7 +102,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "brand": "Abarth",
     "model": "205A Berlinetta",
     "production_year_start": 1951,
@@ -102,7 +119,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "brand": "Abarth",
     "model": "207A Spyder Corsa Boano",
     "production_year_start": 1955,
@@ -119,7 +136,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "brand": "Abarth",
     "model": "208A Spyder Boano",
     "production_year_start": 1955,
@@ -136,7 +153,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "brand": "Abarth",
     "model": "209A Coupé Boano",
     "production_year_start": 1955,
@@ -153,7 +170,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "brand": "Abarth",
     "model": "210A Spyder Boano",
     "production_year_start": 1955,
@@ -170,7 +187,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "brand": "Abarth",
     "model": "215A Coupé Bertone",
     "production_year_start": 1957,
@@ -187,7 +204,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 13,
     "brand": "Abarth",
     "model": "216A Spyder Bertone",
     "production_year_start": 1957,
@@ -204,7 +221,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 14,
     "brand": "Abarth",
     "model": "3000 Prototipo",
     "production_year_start": 1968,
@@ -221,7 +238,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 15,
     "brand": "Abarth",
     "model": "500",
     "production_year_start": 2008,
@@ -238,7 +255,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 16,
     "brand": "Abarth",
     "model": "595",
     "production_year_start": 2012,
@@ -255,7 +272,24 @@
     ]
   },
   {
-    "id": 16,
+    "id": 17,
+    "brand": "Abarth",
+    "model": "695",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Hatchback", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L T-Jet",
+        "power_hp": 180,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 18,
     "brand": "Abarth",
     "model": "750",
     "production_year_start": 1956,
@@ -272,7 +306,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 19,
     "brand": "Abarth",
     "model": "750 Spider Allemano",
     "production_year_start": 1957,
@@ -289,7 +323,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 20,
     "brand": "Abarth",
     "model": "Monomille",
     "production_year_start": 1961,
@@ -306,7 +340,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 21,
     "brand": "Abarth",
     "model": "OT 1300",
     "production_year_start": 1965,
@@ -323,7 +357,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 22,
     "brand": "Abarth",
     "model": "Zagato",
     "production_year_start": 1956,
