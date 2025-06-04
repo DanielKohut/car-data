@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "brand": "Abarth",
+    "model": "1000 OTR Berlinetta Bertone",
+    "production_year_start": 1965,
+    "production_year_end": 1966,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Abarth",
+    "model": "1000 SP",
+    "production_year_start": 1966,
+    "production_year_end": 1970,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Abarth",
+    "model": "1100 Scorpione Spider (Boano)",
+    "production_year_start": 1959,
+    "production_year_end": 1961,
+    "body_styles": ["Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 80,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Abarth",
+    "model": "1500 Biposto",
+    "production_year_start": 1950,
+    "production_year_end": 1952,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 90,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Abarth",
+    "model": "204A",
+    "production_year_start": 1950,
+    "production_year_end": 1951,
+    "body_styles": ["Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 83,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "brand": "Abarth",
+    "model": "205A Berlinetta",
+    "production_year_start": 1951,
+    "production_year_end": 1953,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 75,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "brand": "Abarth",
+    "model": "207A Spyder Corsa Boano",
+    "production_year_start": 1955,
+    "production_year_end": 1957,
+    "body_styles": ["Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 95,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "brand": "Abarth",
+    "model": "208A Spyder Boano",
+    "production_year_start": 1955,
+    "production_year_end": 1957,
+    "body_styles": ["Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.7L Inline-4",
+        "power_hp": 115,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "brand": "Abarth",
+    "model": "209A Coupé Boano",
+    "production_year_start": 1955,
+    "production_year_end": 1957,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.7L Inline-4",
+        "power_hp": 115,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "brand": "Abarth",
+    "model": "210A Spyder Boano",
+    "production_year_start": 1955,
+    "production_year_end": 1957,
+    "body_styles": ["Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 130,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "brand": "Abarth",
+    "model": "215A Coupé Bertone",
+    "production_year_start": 1957,
+    "production_year_end": 1958,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 135,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "brand": "Abarth",
+    "model": "216A Spyder Bertone",
+    "production_year_start": 1957,
+    "production_year_end": 1958,
+    "body_styles": ["Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 135,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "brand": "Abarth",
+    "model": "3000 Prototipo",
+    "production_year_start": 1968,
+    "production_year_end": 1971,
+    "body_styles": ["Prototype"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L V8",
+        "power_hp": 350,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "brand": "Abarth",
+    "model": "500",
+    "production_year_start": 2008,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L T-Jet",
+        "power_hp": 135,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "brand": "Abarth",
+    "model": "595",
+    "production_year_start": 2012,
+    "production_year_end": null,
+    "body_styles": ["Hatchback", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L T-Jet",
+        "power_hp": 145,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "brand": "Abarth",
+    "model": "750",
+    "production_year_start": 1956,
+    "production_year_end": 1960,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.75L Inline-4",
+        "power_hp": 47,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "brand": "Abarth",
+    "model": "750 Spider Allemano",
+    "production_year_start": 1957,
+    "production_year_end": 1959,
+    "body_styles": ["Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.75L Inline-4",
+        "power_hp": 47,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "brand": "Abarth",
+    "model": "Monomille",
+    "production_year_start": 1961,
+    "production_year_end": 1965,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 60,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "brand": "Abarth",
+    "model": "OT 1300",
+    "production_year_start": 1965,
+    "production_year_end": 1968,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "brand": "Abarth",
+    "model": "Zagato",
+    "production_year_start": 1956,
+    "production_year_end": 1960,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.75L Inline-4",
+        "power_hp": 50,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+]
