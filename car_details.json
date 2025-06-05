@@ -372,5 +372,267 @@
         "transmissions": ["Manual"]
       }
     ]
+  },
+  {
+    "id": 23,
+    "brand": "AC",
+    "model": "2-Litre",
+    "production_year_start": 1947,
+    "production_year_end": 1956,
+    "body_styles": ["Saloon", "Drophead Coupe", "Tourer"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-6",
+        "power_hp": 74,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "brand": "AC",
+    "model": "3000ME",
+    "production_year_start": 1979,
+    "production_year_end": 1985,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L V6",
+        "power_hp": 138,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "brand": "AC",
+    "model": "Ace",
+    "production_year_start": 1953,
+    "production_year_end": 1963,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-6",
+        "power_hp": 85,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.6L Inline-6",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "brand": "AC",
+    "model": "Aceca",
+    "production_year_start": 1954,
+    "production_year_end": 1963,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-6",
+        "power_hp": 85,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.6L Inline-6",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "brand": "AC",
+    "model": "Brooklands Ace",
+    "production_year_start": 1993,
+    "production_year_end": 2000,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8",
+        "power_hp": 240,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "4.6L V8",
+        "power_hp": 320,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "brand": "AC",
+    "model": "Cobra",
+    "production_year_start": 1962,
+    "production_year_end": 1967,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L V8",
+        "power_hp": 271,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "7.0L V8",
+        "power_hp": 425,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "brand": "AC",
+    "model": "Dax Cobra",
+    "production_year_start": 1980,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "Various V8 Engines",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "brand": "AC",
+    "model": "Frua",
+    "production_year_start": 1965,
+    "production_year_end": 1973,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "7.0L V8",
+        "power_hp": 345,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "brand": "AC",
+    "model": "GT Zagato",
+    "production_year_start": 1964,
+    "production_year_end": 1965,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.7L V8",
+        "power_hp": 306,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "brand": "AC",
+    "model": "Greyhound",
+    "production_year_start": 1959,
+    "production_year_end": 1963,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.6L Inline-6",
+        "power_hp": 120,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "brand": "AC",
+    "model": "Mark IV",
+    "production_year_start": 1983,
+    "production_year_end": 1996,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8",
+        "power_hp": 250,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "brand": "AC",
+    "model": "MK VI",
+    "production_year_start": 2009,
+    "production_year_end": 2015,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.2L V8",
+        "power_hp": 437,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "brand": "AC",
+    "model": "Petite",
+    "production_year_start": 1952,
+    "production_year_end": 1958,
+    "body_styles": ["Microcar"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "350cc Single-cylinder",
+        "power_hp": 9,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "brand": "AC",
+    "model": "Sociable",
+    "production_year_start": 1907,
+    "production_year_end": 1914,
+    "body_styles": ["Three-wheeler"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "631cc Single-cylinder",
+        "power_hp": 5,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
   }
 ]
