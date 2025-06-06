@@ -634,5 +634,295 @@
         "transmissions": ["Manual"]
       }
     ]
+  },
+  {
+    "id": 37,
+    "brand": "Acura",
+    "model": "ILX",
+    "production_year_start": 2013,
+    "production_year_end": 2022,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.4L Inline-4",
+        "power_hp": 201,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "brand": "Acura",
+    "model": "Integra - Gen1",
+    "production_year_start": 1986,
+    "production_year_end": 1989,
+    "body_styles": ["Hatchback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 113,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "brand": "Acura",
+    "model": "Integra - Gen2",
+    "production_year_start": 1990,
+    "production_year_end": 1993,
+    "body_styles": ["Hatchback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Inline-4",
+        "power_hp": 140,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "brand": "Acura",
+    "model": "Integra - Gen3",
+    "production_year_start": 1994,
+    "production_year_end": 2001,
+    "body_styles": ["Hatchback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Inline-4",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "brand": "Acura",
+    "model": "Integra - Gen4",
+    "production_year_start": 2002,
+    "production_year_end": 2006,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "brand": "Acura",
+    "model": "Integra - Gen5",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "CVT"]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "brand": "Acura",
+    "model": "Legend - Gen1",
+    "production_year_start": 1986,
+    "production_year_end": 1990,
+    "body_styles": ["Sedan", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L V6",
+        "power_hp": 151,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "brand": "Acura",
+    "model": "Legend - Gen2",
+    "production_year_start": 1991,
+    "production_year_end": 1995,
+    "body_styles": ["Sedan", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.2L V6",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "brand": "Acura",
+    "model": "MDX - Gen1",
+    "production_year_start": 2001,
+    "production_year_end": 2006,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 265,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "brand": "Acura",
+    "model": "MDX - Gen2",
+    "production_year_start": 2007,
+    "production_year_end": 2013,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.7L V6",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "brand": "Acura",
+    "model": "MDX - Gen3",
+    "production_year_start": 2014,
+    "production_year_end": 2020,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 290,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0L V6 Hybrid",
+        "power_hp": 321,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "brand": "Acura",
+    "model": "MDX - Gen4",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 290,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "brand": "Acura",
+    "model": "MDX Type S",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Turbo V6",
+        "power_hp": 355,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "brand": "Acura",
+    "model": "NSX - Gen1",
+    "production_year_start": 1990,
+    "production_year_end": 2005,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L V6",
+        "power_hp": 270,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.2L V6",
+        "power_hp": 290,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "brand": "Acura",
+    "model": "NSX - Gen2",
+    "production_year_start": 2016,
+    "production_year_end": 2022,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Hybrid"],
+    "engines": [
+      {
+        "name": "3.5L Twin-Turbo V6 Hybrid",
+        "power_hp": 573,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "brand": "Acura",
+    "model": "NSX Type S",
+    "production_year_start": 2022,
+    "production_year_end": 2022,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Hybrid"],
+    "engines": [
+      {
+        "name": "3.5L Twin-Turbo V6 Hybrid",
+        "power_hp": 600,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
   }
 ]
