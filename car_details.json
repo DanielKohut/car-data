@@ -924,5 +924,596 @@
         "transmissions": ["Automatic"]
       }
     ]
-  }
-]
+  },
+  {
+    "id": 53,
+    "brand": "Acura",
+    "model": "RDX - Gen1",
+    "production_year_start": 2007,
+    "production_year_end": 2012,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.3L Turbo Inline-4",
+        "power_hp": 240,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "brand": "Acura",
+    "model": "RDX - Gen2",
+    "production_year_start": 2013,
+    "production_year_end": 2018,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 273,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "brand": "Acura",
+    "model": "RDX - Gen3",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 272,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "brand": "Acura",
+    "model": "RL - Gen1",
+    "production_year_start": 1996,
+    "production_year_end": 2004,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 210,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "brand": "Acura",
+    "model": "RL - Gen2",
+    "production_year_start": 2005,
+    "production_year_end": 2012,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "brand": "Acura",
+    "model": "RLX - Gen1",
+    "production_year_start": 2013,
+    "production_year_end": 2020,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.5L V6 Hybrid",
+        "power_hp": 377,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "brand": "Acura",
+    "model": "TL - Gen1",
+    "production_year_start": 1995,
+    "production_year_end": 1998,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L Inline-5",
+        "power_hp": 176,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.2L V6",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "brand": "Acura",
+    "model": "TL - Gen2",
+    "production_year_start": 1999,
+    "production_year_end": 2003,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.2L V6",
+        "power_hp": 225,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "brand": "Acura",
+    "model": "TL - Gen3",
+    "production_year_start": 2004,
+    "production_year_end": 2008,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.2L V6",
+        "power_hp": 270,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "brand": "Acura",
+    "model": "TL - Gen4",
+    "production_year_start": 2009,
+    "production_year_end": 2014,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.7L V6",
+        "power_hp": 305,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "brand": "Acura",
+    "model": "TLX - Gen1",
+    "production_year_start": 2015,
+    "production_year_end": 2020,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.4L Inline-4",
+        "power_hp": 206,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.5L V6",
+        "power_hp": 290,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "brand": "Acura",
+    "model": "TLX - Gen2",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 272,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "brand": "Acura",
+    "model": "TLX Type S",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Turbo V6",
+        "power_hp": 355,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "brand": "Acura",
+    "model": "TSX - Gen1",
+    "production_year_start": 2004,
+    "production_year_end": 2008,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.4L Inline-4",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "brand": "Acura",
+    "model": "TSX - Gen2",
+    "production_year_start": 2009,
+    "production_year_end": 2014,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.4L Inline-4",
+        "power_hp": 201,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.5L V6",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "brand": "Acura",
+    "model": "ZDX - Gen1",
+    "production_year_start": 2009,
+    "production_year_end": 2013,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.7L V6",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "brand": "Acura",
+    "model": "ZDX - Gen2",
+    "production_year_start": 2024,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor (Single/Twin)",
+        "power_hp": 340,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "brand": "Acura",
+    "model": "ZDX Type S",
+    "production_year_start": 2024,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor Dual",
+        "power_hp": 500,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  [
+  {
+    "id": 71,
+    "brand": "Aixam",
+    "model": "400",
+    "production_year_start": 1997,
+    "production_year_end": 2004,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.4L Inline-2 Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "brand": "Aixam",
+    "model": "500",
+    "production_year_start": 1997,
+    "production_year_end": 2004,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "brand": "Aixam",
+    "model": "500.4",
+    "production_year_start": 2000,
+    "production_year_end": 2004,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "brand": "Aixam",
+    "model": "A721",
+    "production_year_start": 2004,
+    "production_year_end": 2010,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "brand": "Aixam",
+    "model": "A741",
+    "production_year_start": 2004,
+    "production_year_end": 2010,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "brand": "Aixam",
+    "model": "City",
+    "production_year_start": 2010,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "brand": "Aixam",
+    "model": "Coupé",
+    "production_year_start": 2010,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "brand": "Aixam",
+    "model": "Crossline",
+    "production_year_start": 2010,
+    "production_year_end": 2017,
+    "body_styles": ["Hatchback", "Crossover"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "brand": "Aixam",
+    "model": "eCity",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 6,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "brand": "Aixam",
+    "model": "eCoupé",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 6,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "brand": "Aixam",
+    "model": "GTO",
+    "production_year_start": 2010,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "brand": "Aixam",
+    "model": "Mega",
+    "production_year_start": 1992,
+    "production_year_end": null,
+    "body_styles": ["Pickup", "Van"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "brand": "Aixam",
+    "model": "Pro D-Truck",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Van", "Pickup"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "brand": "Aixam",
+    "model": "Pro D-Truck Electric",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Van", "Pickup"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 6,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "brand": "Aixam",
+    "model": "Scouty",
+    "production_year_start": 2005,
+    "production_year_end": 2010,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2 Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
