@@ -1517,3 +1517,55 @@
       }
     ]
   },
+[
+  {
+    "id": 86,
+    "brand": "Aiways",
+    "model": "U5",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 150 kW",
+        "power_hp": 204,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "brand": "Aiways",
+    "model": "U6",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 160 kW",
+        "power_hp": 218,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "brand": "Aiways",
+    "model": "U7",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Concept Electric Motor (Estimated)",
+        "power_hp": null,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
