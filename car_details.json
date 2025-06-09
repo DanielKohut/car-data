@@ -1569,3 +1569,55 @@
       }
     ]
   },
+[
+  {
+    "id": 89,
+    "brand": "AK",
+    "model": "Cobra 289",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "brand": "AK",
+    "model": "Cobra 427",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "7.0L V8",
+        "power_hp": 425,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "brand": "AK",
+    "model": "Cobra 427 S/C",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "7.0L V8 Semi-Competition",
+        "power_hp": 485,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
