@@ -1621,3 +1621,354 @@
       }
     ]
   },
+[
+  {
+    "id": 92,
+    "brand": "Alfa Romeo",
+    "model": "145",
+    "production_year_start": 1994,
+    "production_year_end": 2001,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.4L Boxer",
+        "power_hp": 90,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.9L JTD",
+        "power_hp": 105,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "brand": "Alfa Romeo",
+    "model": "147",
+    "production_year_start": 2000,
+    "production_year_end": 2010,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.6L Twin Spark",
+        "power_hp": 120,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.9L JTD",
+        "power_hp": 150,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "brand": "Alfa Romeo",
+    "model": "156",
+    "production_year_start": 1997,
+    "production_year_end": 2007,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Twin Spark",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.4L JTD",
+        "power_hp": 175,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "brand": "Alfa Romeo",
+    "model": "159",
+    "production_year_start": 2005,
+    "production_year_end": 2011,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.8L TBi",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.4L JTDM",
+        "power_hp": 210,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "brand": "Alfa Romeo",
+    "model": "166",
+    "production_year_start": 1998,
+    "production_year_end": 2007,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.5L V6",
+        "power_hp": 188,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.4L JTD",
+        "power_hp": 150,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "brand": "Alfa Romeo",
+    "model": "4C",
+    "production_year_start": 2013,
+    "production_year_end": 2020,
+    "body_styles": ["Coupe", "Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.75L Turbo",
+        "power_hp": 240,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "brand": "Alfa Romeo",
+    "model": "8C Competizione",
+    "production_year_start": 2007,
+    "production_year_end": 2010,
+    "body_styles": ["Coupe", "Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.7L V8",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "brand": "Alfa Romeo",
+    "model": "Alfasud",
+    "production_year_start": 1971,
+    "production_year_end": 1989,
+    "body_styles": ["Saloon", "Estate", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Boxer",
+        "power_hp": 79,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "brand": "Alfa Romeo",
+    "model": "Brera",
+    "production_year_start": 2005,
+    "production_year_end": 2010,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.2L JTS",
+        "power_hp": 185,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.4L JTDM",
+        "power_hp": 210,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "brand": "Alfa Romeo",
+    "model": "Giulia",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Turbo",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.9L V6 Quadrifoglio",
+        "power_hp": 510,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "brand": "Alfa Romeo",
+    "model": "Giulietta",
+    "production_year_start": 2010,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.4L MultiAir",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0L JTDM",
+        "power_hp": 170,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "brand": "Alfa Romeo",
+    "model": "GTV",
+    "production_year_start": 1995,
+    "production_year_end": 2006,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Twin Spark",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "3.0L V6",
+        "power_hp": 220,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "brand": "Alfa Romeo",
+    "model": "MiTo",
+    "production_year_start": 2008,
+    "production_year_end": 2018,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "0.9L TwinAir",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.3L JTDM",
+        "power_hp": 95,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "brand": "Alfa Romeo",
+    "model": "Spider",
+    "production_year_start": 1966,
+    "production_year_end": 2010,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Twin Spark",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "3.2L V6",
+        "power_hp": 260,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "brand": "Alfa Romeo",
+    "model": "Stelvio",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Turbo",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.9L V6 Quadrifoglio",
+        "power_hp": 510,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "brand": "Alfa Romeo",
+    "model": "Tonale",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Plug-in Hybrid"],
+    "engines": [
+      {
+        "name": "1.5L MHEV",
+        "power_hp": 160,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "1.3L PHEV",
+        "power_hp": 280,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
