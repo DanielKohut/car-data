@@ -1972,3 +1972,255 @@
       }
     ]
   },
+  {
+    "id": 108,
+    "brand": "Alpina",
+    "model": "B3 E30",
+    "production_year_start": 1987,
+    "production_year_end": 1992,
+    "body_styles": ["Sedan", "Coupe", "Convertible", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "2.7L Inline-6", "power_hp": 204, "fuel": "Petrol", "transmissions": ["Manual"]}]
+  },
+  {
+    "id": 109,
+    "brand": "Alpina",
+    "model": "B3 E36",
+    "production_year_start": 1993,
+    "production_year_end": 1996,
+    "body_styles": ["Sedan", "Coupe", "Convertible", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "3.0L Inline-6", "power_hp": 250, "fuel": "Petrol", "transmissions": ["Manual"]}]
+  },
+  {
+    "id": 110,
+    "brand": "Alpina",
+    "model": "B3 E46",
+    "production_year_start": 1999,
+    "production_year_end": 2002,
+    "body_styles": ["Sedan", "Coupe", "Convertible", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "3.3L Inline-6", "power_hp": 280, "fuel": "Petrol", "transmissions": ["Manual", "All-wheel-drive"]}]
+  },
+  {
+    "id": 111,
+    "brand": "Alpina",
+    "model": "B3 E90/E91/E92/E93",
+    "production_year_start": 2007,
+    "production_year_end": 2013,
+    "body_styles": ["Sedan", "Coupe", "Convertible", "Wagon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {"name": "3.0L Twin‑Turbo I6", "power_hp": 360, "fuel": "Petrol", "transmissions": ["Automatic"]},
+      {"name": "2.0L Twin‑Turbo I4 Diesel", "power_hp": 200, "fuel": "Diesel", "transmissions": ["Automatic"]}
+    ]
+  },
+  {
+    "id": 112,
+    "brand": "Alpina",
+    "model": "B3 F30/F31",
+    "production_year_start": 2013,
+    "production_year_end": 2019,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "3.0L Bi‑Turbo I6", "power_hp": 410, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 113,
+    "brand": "Alpina",
+    "model": "B3 G20/G21",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "3.0L Bi‑Turbo I6", "power_hp": 462, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 114,
+    "brand": "Alpina",
+    "model": "B4 F32/F33",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "3.0L Bi‑Turbo I6", "power_hp": 440, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 115,
+    "brand": "Alpina",
+    "model": "B5 E60/E61",
+    "production_year_start": 2005,
+    "production_year_end": 2010,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {"name": "4.4L V8 Supercharged", "power_hp": 500, "fuel": "Petrol", "transmissions": ["Automatic"]},
+      {"name": "3.0L Bi‑Turbo I6 Diesel", "power_hp": 350, "fuel": "Diesel", "transmissions": ["Automatic"]}
+    ]
+  },
+  {
+    "id": 116,
+    "brand": "Alpina",
+    "model": "B5 F10/F11",
+    "production_year_start": 2010,
+    "production_year_end": 2017,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {"name": "4.4L V8 Supercharged", "power_hp": 540, "fuel": "Petrol", "transmissions": ["Automatic"]},
+      {"name": "3.0L Bi‑Turbo I6 Diesel", "power_hp": 350, "fuel": "Diesel", "transmissions": ["Automatic"]}
+    ]
+  },
+  {
+    "id": 117,
+    "brand": "Alpina",
+    "model": "B5 G30/G31",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {"name": "4.4L V8 Bi‑Turbo", "power_hp": 608, "fuel": "Petrol", "transmissions": ["Automatic"]},
+      {"name": "3.0L Bi‑Turbo I6 Diesel", "power_hp": 388, "fuel": "Diesel", "transmissions": ["Automatic"]}
+    ]
+  },
+  {
+    "id": 118,
+    "brand": "Alpina",
+    "model": "B6 E63/E64",
+    "production_year_start": 2006,
+    "production_year_end": 2008,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "2.8L V8 Supercharged", "power_hp": 500, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 119,
+    "brand": "Alpina",
+    "model": "B6 F12",
+    "production_year_start": 2009,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Gran Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "4.4L V8 Bi‑Turbo", "power_hp": 540, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 120,
+    "brand": "Alpina",
+    "model": "B7 E65/E66",
+    "production_year_start": 2003,
+    "production_year_end": 2008,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "4.4L V8 Supercharged", "power_hp": 500, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 121,
+    "brand": "Alpina",
+    "model": "B7 F01/F02",
+    "production_year_start": 2009,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "4.4L V8 Bi‑Turbo", "power_hp": 540, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 122,
+    "brand": "Alpina",
+    "model": "B8 E31",
+    "production_year_start": 1990,
+    "production_year_end": 1996,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "5.0–5.7L V8", "power_hp": 313, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 123,
+    "brand": "Alpina",
+    "model": "B10 E34",
+    "production_year_start": 1985,
+    "production_year_end": 1996,
+    "body_styles": ["Sedan", "Coupe", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "3.0–4.6L V8/Twin‑Turbo", "power_hp": 346, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"]}]
+  },
+  {
+    "id": 124,
+    "brand": "Alpina",
+    "model": "B12 E32/E38",
+    "production_year_start": 1988,
+    "production_year_end": 2001,
+    "body_styles": ["Sedan", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "5.0–6.0L V12", "power_hp": 470, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 125,
+    "brand": "Alpina",
+    "model": "C1 E21/E30",
+    "production_year_start": 1980,
+    "production_year_end": 1985,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "2.3–2.5L Inline‑6", "power_hp": 211, "fuel": "Petrol", "transmissions": ["Manual"]}]
+  },
+  {
+    "id": 126,
+    "brand": "Alpina",
+    "model": "D3 F30",
+    "production_year_start": 2013,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Diesel"],
+    "engines": [{"name": "3.0L Bi‑Turbo I6 Diesel", "power_hp": 350, "fuel": "Diesel", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 127,
+    "brand": "Alpina",
+    "model": "XD3 G01",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [{"name": "3.0L Quad‑Turbo I6 Diesel", "power_hp": 388, "fuel": "Diesel", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 128,
+    "brand": "Alpina",
+    "model": "XD4 G02",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [{"name": "3.0L Quad‑Turbo I6 Diesel", "power_hp": 388, "fuel": "Diesel", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 129,
+    "brand": "Alpina",
+    "model": "XB7 G07",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "4.4L V8 Bi‑Turbo", "power_hp": 600, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 130,
+    "brand": "Alpina",
+    "model": "Roadster S E85",
+    "production_year_start": 2003,
+    "production_year_end": 2005,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "3.4L V8", "power_hp": 300, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
+  {
+    "id": 131,
+    "brand": "Alpina",
+    "model": "Z8 E52 Roadster V8",
+    "production_year_start": 2002,
+    "production_year_end": 2003,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [{"name": "4.8L V8", "power_hp": 380, "fuel": "Petrol", "transmissions": ["Automatic"]}]
+  },
