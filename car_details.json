@@ -2224,3 +2224,298 @@
     "fuel_types": ["Petrol"],
     "engines": [{"name": "4.8L V8", "power_hp": 380, "fuel": "Petrol", "transmissions": ["Automatic"]}]
   },
+  {
+    "id": 132,
+    "brand": "Alpine",
+    "model": "A106",
+    "production_year_start": 1955,
+    "production_year_end": 1961,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.7L Inline-4",
+        "power_hp": 21,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "brand": "Alpine",
+    "model": "A108",
+    "production_year_start": 1958,
+    "production_year_end": 1965,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "brand": "Alpine",
+    "model": "A110",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 252,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "brand": "Alpine",
+    "model": "A110 (1962–1977)",
+    "production_year_start": 1962,
+    "production_year_end": 1977,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 138,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "brand": "Alpine",
+    "model": "A110 Rally",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "brand": "Alpine",
+    "model": "A110 GT4",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 330,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "brand": "Alpine",
+    "model": "A110-50 Concept",
+    "production_year_start": 2012,
+    "production_year_end": 2012,
+    "body_styles": ["Concept Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "brand": "Alpine",
+    "model": "A110 E-ternité Concept",
+    "production_year_start": 2022,
+    "production_year_end": 2022,
+    "body_styles": ["Concept Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 178 hp",
+        "power_hp": 178,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "brand": "Alpine",
+    "model": "A290",
+    "production_year_start": 2024,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 215 hp",
+        "power_hp": 215,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "brand": "Alpine",
+    "model": "A290_β Concept",
+    "production_year_start": 2023,
+    "production_year_end": 2023,
+    "body_styles": ["Concept Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor (Concept)",
+        "power_hp": null,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "brand": "Alpine",
+    "model": "A310",
+    "production_year_start": 1971,
+    "production_year_end": 1984,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 127,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.7L V6",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "brand": "Alpine",
+    "model": "GTA",
+    "production_year_start": 1984,
+    "production_year_end": 1991,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L V6 Turbo",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "brand": "Alpine",
+    "model": "A610",
+    "production_year_start": 1991,
+    "production_year_end": 1995,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L V6 Turbo",
+        "power_hp": 250,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "brand": "Alpine",
+    "model": "A390",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Concept Electric Motor",
+        "power_hp": null,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "brand": "Alpine",
+    "model": "A390_β Concept",
+    "production_year_start": 2024,
+    "production_year_end": 2024,
+    "body_styles": ["Concept SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Concept Electric Motor",
+        "power_hp": null,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "brand": "Alpine",
+    "model": "Alpine Vision Gran Turismo",
+    "production_year_start": 2015,
+    "production_year_end": 2015,
+    "body_styles": ["Concept Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.5L V8",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "brand": "Alpine",
+    "model": "Alpenglow Concept",
+    "production_year_start": 2022,
+    "production_year_end": 2022,
+    "body_styles": ["Concept Hypercar"],
+    "fuel_types": ["Hydrogen"],
+    "engines": [
+      {
+        "name": "Hydrogen Combustion Engine",
+        "power_hp": null,
+        "fuel": "Hydrogen",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
