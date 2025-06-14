@@ -2519,3 +2519,242 @@
       }
     ]
   },
+[
+  {
+    "id": 149,
+    "brand": "Alvis",
+    "model": "12/50",
+    "production_year_start": 1923,
+    "production_year_end": 1932,
+    "body_styles": ["Tourer", "Saloon", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 50,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "brand": "Alvis",
+    "model": "14/40",
+    "production_year_start": 1922,
+    "production_year_end": 1924,
+    "body_styles": ["Tourer", "Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "brand": "Alvis",
+    "model": "3 Litre",
+    "production_year_start": 1950,
+    "production_year_end": 1967,
+    "body_styles": ["Saloon", "Drophead Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "brand": "Alvis",
+    "model": "3 Litre Series 2",
+    "production_year_start": 1956,
+    "production_year_end": 1960,
+    "body_styles": ["Saloon", "Drophead Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 115,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "brand": "Alvis",
+    "model": "4.0 Litre",
+    "production_year_start": 1937,
+    "production_year_end": 1940,
+    "body_styles": ["Saloon", "Tourer"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.4L Inline-6",
+        "power_hp": 137,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "brand": "Alvis",
+    "model": "4.3 Litre",
+    "production_year_start": 1936,
+    "production_year_end": 1940,
+    "body_styles": ["Saloon", "Tourer", "Drophead Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.3L Inline-6",
+        "power_hp": 137,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "brand": "Alvis",
+    "model": "Saracen",
+    "production_year_start": 1952,
+    "production_year_end": 1976,
+    "body_styles": ["Armoured Personnel Carrier"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L Rolls-Royce B80",
+        "power_hp": 160,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "brand": "Alvis",
+    "model": "Speed 20",
+    "production_year_start": 1932,
+    "production_year_end": 1936,
+    "body_styles": ["Tourer", "Saloon", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L Inline-6",
+        "power_hp": 87,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "brand": "Alvis",
+    "model": "Speed 25",
+    "production_year_start": 1936,
+    "production_year_end": 1940,
+    "body_styles": ["Saloon", "Tourer", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L Inline-6",
+        "power_hp": 106,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "brand": "Alvis",
+    "model": "Stalwart",
+    "production_year_start": 1966,
+    "production_year_end": 1971,
+    "body_styles": ["Amphibious Military Truck"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L Rolls-Royce B81",
+        "power_hp": 220,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "brand": "Alvis",
+    "model": "TA 14",
+    "production_year_start": 1946,
+    "production_year_end": 1950,
+    "body_styles": ["Saloon", "Drophead Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.9L Inline-4",
+        "power_hp": 65,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "brand": "Alvis",
+    "model": "TC 21/100",
+    "production_year_start": 1954,
+    "production_year_end": 1955,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "brand": "Alvis",
+    "model": "TD 21",
+    "production_year_start": 1958,
+    "production_year_end": 1963,
+    "body_styles": ["Saloon", "Drophead Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 115,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "brand": "Alvis",
+    "model": "TE 21",
+    "production_year_start": 1963,
+    "production_year_end": 1966,
+    "body_styles": ["Saloon", "Drophead Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 130,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
