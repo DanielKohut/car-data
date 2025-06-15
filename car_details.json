@@ -2758,3 +2758,258 @@
       }
     ]
   },
+  {
+    "id": 163,
+    "brand": "Ariel",
+    "model": "Ace",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.2L V8",
+        "power_hp": 500,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "brand": "Ariel",
+    "model": "Atom",
+    "production_year_start": 2000,
+    "production_year_end": 2003,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Rover K-series",
+        "power_hp": 120,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "brand": "Ariel",
+    "model": "Atom 2",
+    "production_year_start": 2003,
+    "production_year_end": 2007,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Honda i-VTEC",
+        "power_hp": 220,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "brand": "Ariel",
+    "model": "Atom 3",
+    "production_year_start": 2007,
+    "production_year_end": 2013,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Honda K20Z",
+        "power_hp": 245,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "brand": "Ariel",
+    "model": "Atom 3.5",
+    "production_year_start": 2013,
+    "production_year_end": 2018,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Honda K20Z Turbo",
+        "power_hp": 350,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "brand": "Ariel",
+    "model": "Atom 3.5R",
+    "production_year_start": 2014,
+    "production_year_end": 2018,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Honda Turbo (Race-spec)",
+        "power_hp": 365,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "brand": "Ariel",
+    "model": "Atom 3S",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.4L Honda Turbo",
+        "power_hp": 365,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "brand": "Ariel",
+    "model": "Atom 4",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Honda K20C1 Turbo",
+        "power_hp": 320,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "brand": "Ariel",
+    "model": "Atom 4R",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Honda K20C1 Turbo (Race)",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "brand": "Ariel",
+    "model": "Atom V8",
+    "production_year_start": 2010,
+    "production_year_end": 2013,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L V8",
+        "power_hp": 500,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "brand": "Ariel",
+    "model": "Nomad",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Buggy"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.4L Honda K24",
+        "power_hp": 235,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "brand": "Ariel",
+    "model": "Nomad R",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Buggy"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Honda K20C1 Turbo",
+        "power_hp": 335,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "brand": "Ariel",
+    "model": "Andere",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Unknown"],
+    "fuel_types": ["Unknown"],
+    "engines": [
+      {
+        "name": "Unknown",
+        "power_hp": null,
+        "fuel": "Unknown",
+        "transmissions": ["Unknown"]
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "brand": "Ariel",
+    "model": "500",
+    "production_year_start": 2013,
+    "production_year_end": 2014,
+    "body_styles": ["Open-wheel"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L V8",
+        "power_hp": 500,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "brand": "Ariel",
+    "model": "Twite",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Concept"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Concept",
+        "power_hp": null,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
