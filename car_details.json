@@ -3012,4 +3012,398 @@
         "transmissions": ["Automatic"]
       }
     ]
+  }
+],
+[
+  {
+    "id": 178,
+    "brand": "Aro",
+    "model": "10",
+    "production_year_start": 1964,
+    "production_year_end": 1975,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.5L I4",
+        "power_hp": 83,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
   },
+  {
+    "id": 179,
+    "brand": "Aro",
+    "model": "10.4",
+    "production_year_start": 1970,
+    "production_year_end": 1975,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L I4",
+        "power_hp": 90,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "brand": "Aro",
+    "model": "240",
+    "production_year_start": 1975,
+    "production_year_end": 2006,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel",
+        "power_hp": 70,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "brand": "Aro",
+    "model": "240 Special",
+    "production_year_start": 1980,
+    "production_year_end": 2000,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel Turbo",
+        "power_hp": 95,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "brand": "Aro",
+    "model": "242",
+    "production_year_start": 1977,
+    "production_year_end": 2003,
+    "body_styles": ["Pickup"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.4L Diesel",
+        "power_hp": 72,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "brand": "Aro",
+    "model": "243",
+    "production_year_start": 1980,
+    "production_year_end": 2006,
+    "body_styles": ["Van"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel",
+        "power_hp": 69,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "brand": "Aro",
+    "model": "244",
+    "production_year_start": 1980,
+    "production_year_end": 2006,
+    "body_styles": ["Minibus"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel",
+        "power_hp": 75,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "brand": "Aro",
+    "model": "240 4x4",
+    "production_year_start": 1980,
+    "production_year_end": 2006,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel 4x4",
+        "power_hp": 80,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "brand": "Aro",
+    "model": "310",
+    "production_year_start": 1997,
+    "production_year_end": 2006,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.7L Diesel",
+        "power_hp": 110,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "brand": "Aro",
+    "model": "330",
+    "production_year_start": 1999,
+    "production_year_end": 2006,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.8L Diesel",
+        "power_hp": 120,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "brand": "Aro",
+    "model": "330 4x4",
+    "production_year_start": 1999,
+    "production_year_end": 2006,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.8L Diesel 4x4",
+        "power_hp": 123,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "brand": "Aro",
+    "model": "332",
+    "production_year_start": 2000,
+    "production_year_end": 2006,
+    "body_styles": ["Pickup"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.8L Diesel",
+        "power_hp": 115,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "brand": "Aro",
+    "model": "M461",
+    "production_year_start": 1964,
+    "production_year_end": 1975,
+    "body_styles": ["Military SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L Petrol",
+        "power_hp": 70,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "brand": "Aro",
+    "model": "244 Dacia",
+    "production_year_start": 1985,
+    "production_year_end": 2000,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "Dacia 2.5L Diesel",
+        "power_hp": 85,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "brand": "Aro",
+    "model": "Dragon",
+    "production_year_start": 1999,
+    "production_year_end": 2006,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.8L Turbo Diesel",
+        "power_hp": 125,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "brand": "Aro",
+    "model": "Spartana",
+    "production_year_start": 1995,
+    "production_year_end": 2006,
+    "body_styles": ["Off-Road Buggy"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L Petrol",
+        "power_hp": 65,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "brand": "Aro",
+    "model": "243 Doka",
+    "production_year_start": 1985,
+    "production_year_end": 2003,
+    "body_styles": ["Double Cab Pickup"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel",
+        "power_hp": 74,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "brand": "Aro",
+    "model": "320",
+    "production_year_start": 1998,
+    "production_year_end": 2004,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel",
+        "power_hp": 100,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "brand": "Aro",
+    "model": "244 Military",
+    "production_year_start": 1980,
+    "production_year_end": 1999,
+    "body_styles": ["Military SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.4L Diesel",
+        "power_hp": 80,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "brand": "Aro",
+    "model": "243 Van",
+    "production_year_start": 1983,
+    "production_year_end": 2002,
+    "body_styles": ["Van"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel",
+        "power_hp": 78,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "brand": "Aro",
+    "model": "320 Pick-Up",
+    "production_year_start": 1999,
+    "production_year_end": 2004,
+    "body_styles": ["Pickup"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.5L Diesel",
+        "power_hp": 105,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "brand": "Aro",
+    "model": "310 Military",
+    "production_year_start": 1998,
+    "production_year_end": 2006,
+    "body_styles": ["Military SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.7L Diesel",
+        "power_hp": 115,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "brand": "Aro",
+    "model": "330 Van",
+    "production_year_start": 2000,
+    "production_year_end": 2006,
+    "body_styles": ["Van"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.8L Diesel",
+        "power_hp": 118,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
