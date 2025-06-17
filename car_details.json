@@ -3407,3 +3407,100 @@
     ]
   }
 ],
+[
+  {
+    "id": 201,
+    "brand": "Artega",
+    "model": "GT",
+    "production_year_start": 2010,
+    "production_year_end": 2012,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.6L V6",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "brand": "Artega",
+    "model": "SE",
+    "production_year_start": 2011,
+    "production_year_end": 2012,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 280 kW",
+        "power_hp": 380,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "brand": "Artega",
+    "model": "Scalo",
+    "production_year_start": 2015,
+    "production_year_end": 2017,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 300 kW",
+        "power_hp": 408,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "brand": "Artega",
+    "model": "Scalo Superelletra",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Quad-Motor",
+        "power_hp": 1020,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "brand": "Artega",
+    "model": "Karo-Isetta",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Microcar"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 15 kW",
+        "power_hp": 20,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "brand": "Artega",
+    "model": "Andere",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": [],
+    "fuel_types": [],
+    "engines": []
+  }
+],
