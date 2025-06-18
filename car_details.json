@@ -3504,3 +3504,271 @@
     "engines": []
   }
 ],
+[
+  {
+    "id": 207,
+    "brand": "Asia Motors",
+    "model": "Andere",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": [],
+    "fuel_types": [],
+    "engines": []
+  },
+  {
+    "id": 208,
+    "brand": "Asia Motors",
+    "model": "Ceres",
+    "production_year_start": 1978,
+    "production_year_end": 2002,
+    "body_styles": ["Pickup"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.4L Diesel",
+        "power_hp": 70,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "brand": "Asia Motors",
+    "model": "Combi",
+    "production_year_start": 1980,
+    "production_year_end": 1999,
+    "body_styles": ["Minibus"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.7L Diesel",
+        "power_hp": 80,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "brand": "Asia Motors",
+    "model": "Cosmos",
+    "production_year_start": 1986,
+    "production_year_end": 1996,
+    "body_styles": ["Minibus"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "3.0L Diesel",
+        "power_hp": 90,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "brand": "Asia Motors",
+    "model": "F-Series",
+    "production_year_start": 1976,
+    "production_year_end": 1998,
+    "body_styles": ["Pickup"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.4L Diesel",
+        "power_hp": 70,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "brand": "Asia Motors",
+    "model": "Fiat 124",
+    "production_year_start": 1970,
+    "production_year_end": 1974,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 65,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "brand": "Asia Motors",
+    "model": "Gran Bird",
+    "production_year_start": 1994,
+    "production_year_end": 2002,
+    "body_styles": ["Coach (bus)"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "12.7L Diesel",
+        "power_hp": 380,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "brand": "Asia Motors",
+    "model": "Granto",
+    "production_year_start": 1987,
+    "production_year_end": 2000,
+    "body_styles": ["Truck"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "3.3L Diesel",
+        "power_hp": 110,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "brand": "Asia Motors",
+    "model": "Hillux",
+    "production_year_start": 1978,
+    "production_year_end": 1990,
+    "body_styles": ["Pickup"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Diesel",
+        "power_hp": 61,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "brand": "Asia Motors",
+    "model": "KM900 APC",
+    "production_year_start": 1997,
+    "production_year_end": 2002,
+    "body_styles": ["Armored Personnel Carrier"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "6.0L Diesel",
+        "power_hp": 215,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "brand": "Asia Motors",
+    "model": "Retona",
+    "production_year_start": 1998,
+    "production_year_end": 2003,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Petrol",
+        "power_hp": 128,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.0L Diesel",
+        "power_hp": 83,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "brand": "Asia Motors",
+    "model": "Rocsta",
+    "production_year_start": 1990,
+    "production_year_end": 1997,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.8L Petrol",
+        "power_hp": 85,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.2L Diesel",
+        "power_hp": 72,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "brand": "Asia Motors",
+    "model": "Tiger",
+    "production_year_start": 1978,
+    "production_year_end": 2000,
+    "body_styles": ["Pickup", "SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.2L Diesel",
+        "power_hp": 70,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "brand": "Asia Motors",
+    "model": "Topic",
+    "production_year_start": 1987,
+    "production_year_end": 2002,
+    "body_styles": ["Minivan"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.0L Petrol",
+        "power_hp": 44,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.3L Diesel",
+        "power_hp": 46,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "brand": "Asia Motors",
+    "model": "Towner",
+    "production_year_start": 1992,
+    "production_year_end": 2002,
+    "body_styles": ["Microvan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.8L Petrol",
+        "power_hp": 38,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
