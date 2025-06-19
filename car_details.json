@@ -3772,3 +3772,754 @@
     ]
   }
 ],
+[
+  {
+    "id": 222,
+    "brand": "Aston Martin",
+    "model": "AR1",
+    "production_year_start": 2003,
+    "production_year_end": 2004,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 435,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "brand": "Aston Martin",
+    "model": "Bulldog",
+    "production_year_start": 1979,
+    "production_year_end": 1979,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.3L V8 Twin-Turbo",
+        "power_hp": 700,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "brand": "Aston Martin",
+    "model": "Cygnet",
+    "production_year_start": 2011,
+    "production_year_end": 2013,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 98,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "CVT"]
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "brand": "Aston Martin",
+    "model": "DB1",
+    "production_year_start": 1948,
+    "production_year_end": 1950,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 90,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "brand": "Aston Martin",
+    "model": "DB2",
+    "production_year_start": 1950,
+    "production_year_end": 1953,
+    "body_styles": ["Coupe", "Drophead Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.6L Inline-6",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "brand": "Aston Martin",
+    "model": "DB2/4",
+    "production_year_start": 1953,
+    "production_year_end": 1959,
+    "body_styles": ["Coupe", "Drophead Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9L Inline-6",
+        "power_hp": 140,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "brand": "Aston Martin",
+    "model": "DB3",
+    "production_year_start": 1951,
+    "production_year_end": 1953,
+    "body_styles": ["Racecar"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.6L Inline-6",
+        "power_hp": 133,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "brand": "Aston Martin",
+    "model": "DB3S",
+    "production_year_start": 1953,
+    "production_year_end": 1956,
+    "body_styles": ["Racecar"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9L Inline-6",
+        "power_hp": 180,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "brand": "Aston Martin",
+    "model": "DB4",
+    "production_year_start": 1958,
+    "production_year_end": 1963,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.7L Inline-6",
+        "power_hp": 240,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "brand": "Aston Martin",
+    "model": "DB5",
+    "production_year_start": 1963,
+    "production_year_end": 1965,
+    "body_styles": ["Coupe", "Convertible", "Shooting Brake"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Inline-6",
+        "power_hp": 282,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "brand": "Aston Martin",
+    "model": "DB6",
+    "production_year_start": 1965,
+    "production_year_end": 1971,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Inline-6",
+        "power_hp": 282,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "brand": "Aston Martin",
+    "model": "DB7",
+    "production_year_start": 1994,
+    "production_year_end": 2004,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.2L Supercharged I6",
+        "power_hp": 335,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "5.9L V12",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "brand": "Aston Martin",
+    "model": "DB7 Vantage",
+    "production_year_start": 1999,
+    "production_year_end": 2003,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "brand": "Aston Martin",
+    "model": "DB7 Zagato",
+    "production_year_start": 2002,
+    "production_year_end": 2003,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 435,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "brand": "Aston Martin",
+    "model": "DB9",
+    "production_year_start": 2004,
+    "production_year_end": 2016,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 470,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "brand": "Aston Martin",
+    "model": "DB9 Volante",
+    "production_year_start": 2004,
+    "production_year_end": 2016,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 470,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "brand": "Aston Martin",
+    "model": "DB11",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Twin-Turbo V8",
+        "power_hp": 503,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "5.2L Twin-Turbo V12",
+        "power_hp": 630,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "brand": "Aston Martin",
+    "model": "DB12",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Twin-Turbo V8",
+        "power_hp": 680,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "brand": "Aston Martin",
+    "model": "DBS (Classic)",
+    "production_year_start": 1967,
+    "production_year_end": 1972,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Inline-6",
+        "power_hp": 282,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "brand": "Aston Martin",
+    "model": "DBS (2007–2012)",
+    "production_year_start": 2007,
+    "production_year_end": 2012,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 517,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "brand": "Aston Martin",
+    "model": "DBS Superleggera",
+    "production_year_start": 2018,
+    "production_year_end": 2023,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.2L Twin-Turbo V12",
+        "power_hp": 725,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "brand": "Aston Martin",
+    "model": "DBS Volante",
+    "production_year_start": 2009,
+    "production_year_end": 2012,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 517,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "brand": "Aston Martin",
+    "model": "DBX",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Twin-Turbo V8",
+        "power_hp": 550,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "brand": "Aston Martin",
+    "model": "Lagonda",
+    "production_year_start": 1974,
+    "production_year_end": 1990,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.3L V8",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "brand": "Aston Martin",
+    "model": "Lagonda Taraf",
+    "production_year_start": 2015,
+    "production_year_end": 2016,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L V12",
+        "power_hp": 540,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "brand": "Aston Martin",
+    "model": "Lagonda Vision Concept",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Concept Electric Motor",
+        "power_hp": null,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "brand": "Aston Martin",
+    "model": "One-77",
+    "production_year_start": 2009,
+    "production_year_end": 2012,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "7.3L V12",
+        "power_hp": 750,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "brand": "Aston Martin",
+    "model": "Rapide",
+    "production_year_start": 2010,
+    "production_year_end": 2020,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 477,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "brand": "Aston Martin",
+    "model": "Rapide S",
+    "production_year_start": 2013,
+    "production_year_end": 2020,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 558,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "brand": "Aston Martin",
+    "model": "Valhalla",
+    "production_year_start": 2024,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Hybrid"],
+    "engines": [
+      {
+        "name": "4.0L Twin-Turbo V8 Hybrid",
+        "power_hp": 950,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "brand": "Aston Martin",
+    "model": "Valkyrie",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Hybrid"],
+    "engines": [
+      {
+        "name": "6.5L V12 Hybrid",
+        "power_hp": 1140,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "brand": "Aston Martin",
+    "model": "Vanquish (2001–2007)",
+    "production_year_start": 2001,
+    "production_year_end": 2007,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 460,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "brand": "Aston Martin",
+    "model": "Vanquish (2012–2018)",
+    "production_year_start": 2012,
+    "production_year_end": 2018,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 568,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "brand": "Aston Martin",
+    "model": "Vanquish Zagato",
+    "production_year_start": 2017,
+    "production_year_end": 2019,
+    "body_styles": ["Coupe", "Convertible", "Shooting Brake", "Speedster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "brand": "Aston Martin",
+    "model": "Vantage (Classic)",
+    "production_year_start": 1972,
+    "production_year_end": 1989,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.3L V8",
+        "power_hp": 390,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "brand": "Aston Martin",
+    "model": "V8 Vantage (1977–1989)",
+    "production_year_start": 1977,
+    "production_year_end": 1989,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.3L V8",
+        "power_hp": 390,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "brand": "Aston Martin",
+    "model": "V8 Vantage (2005–2017)",
+    "production_year_start": 2005,
+    "production_year_end": 2017,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.3L V8",
+        "power_hp": 380,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "4.7L V8",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "brand": "Aston Martin",
+    "model": "V8 Vantage (2018–)",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Twin-Turbo V8",
+        "power_hp": 510,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "brand": "Aston Martin",
+    "model": "V12 Vantage",
+    "production_year_start": 2009,
+    "production_year_end": 2022,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 510,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "brand": "Aston Martin",
+    "model": "Virage",
+    "production_year_start": 1989,
+    "production_year_end": 1996,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.3L V8",
+        "power_hp": 330,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "brand": "Aston Martin",
+    "model": "Virage (2011–2012)",
+    "production_year_start": 2011,
+    "production_year_end": 2012,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.9L V12",
+        "power_hp": 497,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "brand": "Aston Martin",
+    "model": "Vulcan",
+    "production_year_start": 2015,
+    "production_year_end": 2016,
+    "body_styles": ["Racecar"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "7.0L V12",
+        "power_hp": 820,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "brand": "Aston Martin",
+    "model": "Victor",
+    "production_year_start": 2020,
+    "production_year_end": 2020,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "7.3L V12",
+        "power_hp": 836,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
