@@ -4523,3 +4523,2667 @@
     ]
   }
 ],
+[
+  // --- A5 ---
+  {
+    "id": 287,
+    "brand": "Audi",
+    "model": "A5 8T (B8)",
+    "production_year_start": 2007,
+    "production_year_end": 2016,
+    "body_styles": ["Coupe", "Sportback", "Cabriolet"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.8 TFSI",
+        "power_hp": 160,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "brand": "Audi",
+    "model": "A5 F5 (B9)",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Sportback", "Cabriolet"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 190,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+
+  // --- S5 & RS5 ---
+  {
+    "id": 289,
+    "brand": "Audi",
+    "model": "S5 8T (B8)",
+    "production_year_start": 2007,
+    "production_year_end": 2016,
+    "body_styles": ["Coupe", "Cabriolet", "Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L V8",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.0 TFSI V6",
+        "power_hp": 333,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "brand": "Audi",
+    "model": "S5 F5 (B9)",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Cabriolet", "Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0 TFSI V6",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "brand": "Audi",
+    "model": "RS5 8T (B8)",
+    "production_year_start": 2010,
+    "production_year_end": 2015,
+    "body_styles": ["Coupe", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L V8",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "brand": "Audi",
+    "model": "RS5 F5 (B9)",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9 TFSI V6 Biturbo",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- A6 ---
+  {
+    "id": 293,
+    "brand": "Audi",
+    "model": "A6 C4",
+    "production_year_start": 1994,
+    "production_year_end": 1997,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.5 TDI",
+        "power_hp": 140,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "brand": "Audi",
+    "model": "A6 C5",
+    "production_year_start": 1997,
+    "production_year_end": 2004,
+    "body_styles": ["Sedan", "Avant", "Allroad"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.8T",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "brand": "Audi",
+    "model": "A6 C6",
+    "production_year_start": 2004,
+    "production_year_end": 2011,
+    "body_styles": ["Sedan", "Avant", "Allroad"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "brand": "Audi",
+    "model": "A6 C7",
+    "production_year_start": 2011,
+    "production_year_end": 2018,
+    "body_styles": ["Sedan", "Avant", "Allroad"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 180,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "brand": "Audi",
+    "model": "A6 C8",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Avant", "Allroad"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 204,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- S6 & RS6 ---
+  {
+    "id": 298,
+    "brand": "Audi",
+    "model": "S6 C4",
+    "production_year_start": 1994,
+    "production_year_end": 1997,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.2 Turbo I5",
+        "power_hp": 230,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "brand": "Audi",
+    "model": "S6 C5",
+    "production_year_start": 1999,
+    "production_year_end": 2003,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L V8",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "brand": "Audi",
+    "model": "S6 C6",
+    "production_year_start": 2006,
+    "production_year_end": 2011,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.2 FSI V10",
+        "power_hp": 435,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "brand": "Audi",
+    "model": "S6 C7",
+    "production_year_start": 2012,
+    "production_year_end": 2018,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "brand": "Audi",
+    "model": "S6 C8",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.9 TFSI V6",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0 TDI",
+        "power_hp": 349,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "brand": "Audi",
+    "model": "RS6 C5",
+    "production_year_start": 2002,
+    "production_year_end": 2004,
+    "body_styles": ["Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L V8 BiTurbo",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "brand": "Audi",
+    "model": "RS6 C6",
+    "production_year_start": 2008,
+    "production_year_end": 2010,
+    "body_styles": ["Avant", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V10 BiTurbo",
+        "power_hp": 580,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "brand": "Audi",
+    "model": "RS6 C7",
+    "production_year_start": 2013,
+    "production_year_end": 2018,
+    "body_styles": ["Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8 BiTurbo",
+        "power_hp": 560,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "brand": "Audi",
+    "model": "RS6 C8",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Avant"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8 BiTurbo",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+],
+[
+  // --- A7 ---
+  {
+    "id": 307,
+    "brand": "Audi",
+    "model": "A7 4G8 (C7)",
+    "production_year_start": 2010,
+    "production_year_end": 2017,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0 TFSI",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "brand": "Audi",
+    "model": "A7 4K8 (C8)",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0 TFSI",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- S7 & RS7 ---
+  {
+    "id": 309,
+    "brand": "Audi",
+    "model": "S7 4G8 (C7)",
+    "production_year_start": 2012,
+    "production_year_end": 2017,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "brand": "Audi",
+    "model": "S7 4K8 (C8)",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Diesel", "Petrol"],
+    "engines": [
+      {
+        "name": "3.0 TDI V6",
+        "power_hp": 349,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.9 TFSI V6",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "brand": "Audi",
+    "model": "RS7 4G8 (C7)",
+    "production_year_start": 2013,
+    "production_year_end": 2018,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8 BiTurbo",
+        "power_hp": 560,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "brand": "Audi",
+    "model": "RS7 4K8 (C8)",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8 BiTurbo",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- A8 ---
+  {
+    "id": 313,
+    "brand": "Audi",
+    "model": "A8 D2",
+    "production_year_start": 1994,
+    "production_year_end": 2002,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "4.2L V8",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "brand": "Audi",
+    "model": "A8 D3",
+    "production_year_start": 2002,
+    "production_year_end": 2009,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "4.2L V8",
+        "power_hp": 335,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "brand": "Audi",
+    "model": "A8 D4",
+    "production_year_start": 2010,
+    "production_year_end": 2017,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 250,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "brand": "Audi",
+    "model": "A8 D5",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 286,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- S8 ---
+  {
+    "id": 317,
+    "brand": "Audi",
+    "model": "S8 D2",
+    "production_year_start": 1996,
+    "production_year_end": 2002,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L V8",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "brand": "Audi",
+    "model": "S8 D3",
+    "production_year_start": 2006,
+    "production_year_end": 2009,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.2L V10",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "brand": "Audi",
+    "model": "S8 D4",
+    "production_year_start": 2012,
+    "production_year_end": 2017,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 520,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "brand": "Audi",
+    "model": "S8 D5",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 571,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- Q2, Q3 ---
+  {
+    "id": 321,
+    "brand": "Audi",
+    "model": "Q2 GA",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.0 TFSI",
+        "power_hp": 116,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "brand": "Audi",
+    "model": "SQ2 GA",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "brand": "Audi",
+    "model": "Q3 8U",
+    "production_year_start": 2011,
+    "production_year_end": 2018,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TDI",
+        "power_hp": 150,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "brand": "Audi",
+    "model": "Q3 F3",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.5 TFSI",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "brand": "Audi",
+    "model": "RS Q3 8U",
+    "production_year_start": 2013,
+    "production_year_end": 2018,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "brand": "Audi",
+    "model": "RS Q3 F3",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- Q5, Q7, Q8 ---
+  {
+    "id": 327,
+    "brand": "Audi",
+    "model": "Q5 8R",
+    "production_year_start": 2008,
+    "production_year_end": 2017,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TDI",
+        "power_hp": 170,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 252,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "brand": "Audi",
+    "model": "SQ5 8R",
+    "production_year_start": 2013,
+    "production_year_end": 2017,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TFSI V6",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "brand": "Audi",
+    "model": "SQ5 FY",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TFSI V6",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "brand": "Audi",
+    "model": "Q7 4L",
+    "production_year_start": 2005,
+    "production_year_end": 2015,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 240,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 286,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "brand": "Audi",
+    "model": "SQ7 4M",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel", "Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TDI V8",
+        "power_hp": 435,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 507,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- Q8, RSQ8 ---
+  {
+    "id": 334,
+    "brand": "Audi",
+    "model": "Q8 4M",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 286,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "brand": "Audi",
+    "model": "SQ8 4M",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel", "Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TDI V8",
+        "power_hp": 435,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 507,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "brand": "Audi",
+    "model": "RS Q8 4M",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- TT, TTS, TTRS ---
+  {
+    "id": 337,
+    "brand": "Audi",
+    "model": "TT 8N (Mk1)",
+    "production_year_start": 1998,
+    "production_year_end": 2006,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8T",
+        "power_hp": 180,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "brand": "Audi",
+    "model": "TT 8J (Mk2)",
+    "production_year_start": 2006,
+    "production_year_end": 2014,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "brand": "Audi",
+    "model": "TT FV/8S (Mk3)",
+    "production_year_start": 2014,
+    "production_year_end": 2023,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 230,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "brand": "Audi",
+    "model": "TTS 8J (Mk2)",
+    "production_year_start": 2008,
+    "production_year_end": 2014,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 272,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "brand": "Audi",
+    "model": "TTS FV/8S (Mk3)",
+    "production_year_start": 2014,
+    "production_year_end": 2023,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "brand": "Audi",
+    "model": "TT RS 8J (Mk2)",
+    "production_year_start": 2009,
+    "production_year_end": 2014,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "brand": "Audi",
+    "model": "TT RS FV/8S (Mk3)",
+    "production_year_start": 2016,
+    "production_year_end": 2023,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- R8 ---
+  {
+    "id": 344,
+    "brand": "Audi",
+    "model": "R8 42 (Gen1)",
+    "production_year_start": 2006,
+    "production_year_end": 2015,
+    "body_styles": ["Coupe", "Spyder"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 FSI V8",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "5.2 FSI V10",
+        "power_hp": 525,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "brand": "Audi",
+    "model": "R8 4S (Gen2)",
+    "production_year_start": 2015,
+    "production_year_end": 2023,
+    "body_styles": ["Coupe", "Spyder"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.2 FSI V10",
+        "power_hp": 570,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- e-tron (SUV/GT/Q4) ---
+  {
+    "id": 346,
+    "brand": "Audi",
+    "model": "e-tron (SUV)",
+    "production_year_start": 2018,
+    "production_year_end": 2023,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Quattro",
+        "power_hp": 313,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "brand": "Audi",
+    "model": "e-tron Sportback",
+    "production_year_start": 2020,
+    "production_year_end": 2023,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Quattro",
+        "power_hp": 313,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "brand": "Audi",
+    "model": "Q4 e-tron",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor RWD/AWD",
+        "power_hp": 204,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "brand": "Audi",
+    "model": "Q4 Sportback e-tron",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor RWD/AWD",
+        "power_hp": 204,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "brand": "Audi",
+    "model": "e-tron GT",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric AWD",
+        "power_hp": 530,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "brand": "Audi",
+    "model": "RS e-tron GT",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric AWD",
+        "power_hp": 646,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
+[
+  // --- Avant & Cabriolet ---
+  {
+    "id": 352,
+    "brand": "Audi",
+    "model": "A4 Avant B5",
+    "production_year_start": 1994,
+    "production_year_end": 2001,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.8T",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "brand": "Audi",
+    "model": "A4 Avant B6",
+    "production_year_start": 2001,
+    "production_year_end": 2005,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.9 TDI",
+        "power_hp": 130,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "brand": "Audi",
+    "model": "A4 Avant B7",
+    "production_year_start": 2005,
+    "production_year_end": 2008,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "brand": "Audi",
+    "model": "A4 Avant B8",
+    "production_year_start": 2008,
+    "production_year_end": 2015,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TDI",
+        "power_hp": 143,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "brand": "Audi",
+    "model": "A4 Avant B9",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 190,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+
+  // --- Allroad Quattro ---
+  {
+    "id": 357,
+    "brand": "Audi",
+    "model": "A4 Allroad B8",
+    "production_year_start": 2009,
+    "production_year_end": 2016,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TDI",
+        "power_hp": 170,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "brand": "Audi",
+    "model": "A4 Allroad B9",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 252,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "brand": "Audi",
+    "model": "A6 Allroad C5",
+    "production_year_start": 2000,
+    "production_year_end": 2005,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.5 TDI",
+        "power_hp": 180,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "brand": "Audi",
+    "model": "A6 Allroad C6",
+    "production_year_start": 2006,
+    "production_year_end": 2011,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 233,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "brand": "Audi",
+    "model": "A6 Allroad C7",
+    "production_year_start": 2012,
+    "production_year_end": 2018,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 245,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "brand": "Audi",
+    "model": "A6 Allroad C8",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 286,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // --- Cabriolet ---
+  {
+    "id": 363,
+    "brand": "Audi",
+    "model": "A4 Cabriolet B6/B7",
+    "production_year_start": 2002,
+    "production_year_end": 2009,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.8T",
+        "power_hp": 163,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "brand": "Audi",
+    "model": "A3 Cabriolet 8P",
+    "production_year_start": 2008,
+    "production_year_end": 2013,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.6",
+        "power_hp": 102,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "brand": "Audi",
+    "model": "A3 Cabriolet 8V",
+    "production_year_start": 2014,
+    "production_year_end": 2020,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.4 TFSI",
+        "power_hp": 125,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+
+  // --- Classic ---
+  {
+    "id": 366,
+    "brand": "Audi",
+    "model": "50",
+    "production_year_start": 1974,
+    "production_year_end": 1978,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1",
+        "power_hp": 50,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "brand": "Audi",
+    "model": "Audi Quattro",
+    "production_year_start": 1980,
+    "production_year_end": 1991,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.1 20V Turbo",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "brand": "Audi",
+    "model": "V8 D11",
+    "production_year_start": 1988,
+    "production_year_end": 1994,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.6 V8",
+        "power_hp": 250,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "brand": "Audi",
+    "model": "S4 Avant B5",
+    "production_year_start": 1997,
+    "production_year_end": 2001,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.7 V6 Biturbo",
+        "power_hp": 265,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "brand": "Audi",
+    "model": "RS4 Avant B5",
+    "production_year_start": 2000,
+    "production_year_end": 2001,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.7 V6 Biturbo",
+        "power_hp": 380,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "brand": "Audi",
+    "model": "RS4 Avant B7",
+    "production_year_start": 2006,
+    "production_year_end": 2008,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8 FSI",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "brand": "Audi",
+    "model": "RS4 Avant B8",
+    "production_year_start": 2012,
+    "production_year_end": 2015,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8 FSI",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "brand": "Audi",
+    "model": "RS4 Avant B9",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9 V6 Biturbo",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "brand": "Audi",
+    "model": "RS Q5",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9 V6 Biturbo",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
+[
+  {
+    "id": 375,
+    "brand": "Audi",
+    "model": "S3 (8L)",
+    "production_year_start": 1999,
+    "production_year_end": 2003,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8T",
+        "power_hp": 210,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "brand": "Audi",
+    "model": "S3 (8P)",
+    "production_year_start": 2006,
+    "production_year_end": 2013,
+    "body_styles": ["Hatchback", "Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 265,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "brand": "Audi",
+    "model": "S3 (8V)",
+    "production_year_start": 2013,
+    "production_year_end": 2020,
+    "body_styles": ["Sportback", "Sedan", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "brand": "Audi",
+    "model": "S3 (8Y)",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sportback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "brand": "Audi",
+    "model": "RS3 (8P)",
+    "production_year_start": 2011,
+    "production_year_end": 2012,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "brand": "Audi",
+    "model": "RS3 (8V)",
+    "production_year_start": 2015,
+    "production_year_end": 2020,
+    "body_styles": ["Sportback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "brand": "Audi",
+    "model": "RS3 (8Y)",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sportback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "brand": "Audi",
+    "model": "S4 (B6)",
+    "production_year_start": 2003,
+    "production_year_end": 2005,
+    "body_styles": ["Sedan", "Avant", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8",
+        "power_hp": 344,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "brand": "Audi",
+    "model": "S4 (B8)",
+    "production_year_start": 2009,
+    "production_year_end": 2016,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0 TFSI V6",
+        "power_hp": 333,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "brand": "Audi",
+    "model": "S4 (B9)",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TFSI V6",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0 TDI V6",
+        "power_hp": 347,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "brand": "Audi",
+    "model": "RS4 Avant (B8)",
+    "production_year_start": 2012,
+    "production_year_end": 2015,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8 FSI",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "brand": "Audi",
+    "model": "RS4 Avant (B9)",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9 V6 Biturbo",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "brand": "Audi",
+    "model": "RS5 (B8)",
+    "production_year_start": 2010,
+    "production_year_end": 2016,
+    "body_styles": ["Coupe", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8 FSI",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "brand": "Audi",
+    "model": "RS5 (B9)",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9 V6 Biturbo",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "brand": "Audi",
+    "model": "S5 (B8)",
+    "production_year_start": 2007,
+    "production_year_end": 2016,
+    "body_styles": ["Coupe", "Cabriolet", "Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "brand": "Audi",
+    "model": "S5 (B9)",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Cabriolet", "Sportback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TFSI V6",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0 TDI V6",
+        "power_hp": 347,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "brand": "Audi",
+    "model": "S6 (C5)",
+    "production_year_start": 1999,
+    "production_year_end": 2003,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "brand": "Audi",
+    "model": "S6 (C6)",
+    "production_year_start": 2006,
+    "production_year_end": 2011,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.2 V10",
+        "power_hp": 435,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "brand": "Audi",
+    "model": "S6 (C7)",
+    "production_year_start": 2012,
+    "production_year_end": 2018,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "brand": "Audi",
+    "model": "S6 (C8)",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Avant"],
+    "fuel_types": ["Diesel", "Petrol"],
+    "engines": [
+      {
+        "name": "3.0 TDI V6",
+        "power_hp": 349,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.9 TFSI V6",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "brand": "Audi",
+    "model": "RS6 Avant (C5)",
+    "production_year_start": 2002,
+    "production_year_end": 2004,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8 Biturbo",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "brand": "Audi",
+    "model": "RS6 Avant (C6)",
+    "production_year_start": 2008,
+    "production_year_end": 2010,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0 V10 Biturbo",
+        "power_hp": 580,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "brand": "Audi",
+    "model": "RS6 Avant (C7)",
+    "production_year_start": 2013,
+    "production_year_end": 2018,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 V8 Biturbo",
+        "power_hp": 560,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "brand": "Audi",
+    "model": "RS6 Avant (C8)",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "4.0 V8 Biturbo",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "brand": "Audi",
+    "model": "S7 (C7)",
+    "production_year_start": 2012,
+    "production_year_end": 2018,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "brand": "Audi",
+    "model": "RS7 (C7)",
+    "production_year_start": 2013,
+    "production_year_end": 2018,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 560,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "brand": "Audi",
+    "model": "RS7 (C8)",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Sportback"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "4.0 TFSI V8",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+
+  // Q5, Q7, Q8, SQ7, RSQ8, E-tron, TT, R8
+],
+[
+  {
+    "id": 402,
+    "brand": "Audi",
+    "model": "Q2 (GA)",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.0 TFSI",
+        "power_hp": 116,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "1.4 TFSI",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "1.6 TDI",
+        "power_hp": 116,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "brand": "Audi",
+    "model": "Q3 (8U)",
+    "production_year_start": 2011,
+    "production_year_end": 2018,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.4 TFSI",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 180,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.0 TDI",
+        "power_hp": 140,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "brand": "Audi",
+    "model": "Q3 (F3)",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Sportback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.5 TFSI",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 230,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.0 TDI",
+        "power_hp": 150,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "brand": "Audi",
+    "model": "Q4 e-tron",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Sportback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Q4 35 e-tron",
+        "power_hp": 170,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "Q4 40 e-tron",
+        "power_hp": 204,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "Q4 50 e-tron quattro",
+        "power_hp": 299,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "brand": "Audi",
+    "model": "Q5 (8R)",
+    "production_year_start": 2008,
+    "production_year_end": 2017,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 211,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.2 FSI",
+        "power_hp": 270,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.0 TDI",
+        "power_hp": 170,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "Hybrid 2.0 TFSI",
+        "power_hp": 245,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "brand": "Audi",
+    "model": "Q5 (FY)",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Sportback"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 252,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0 TDI",
+        "power_hp": 286,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "55 TFSI e quattro",
+        "power_hp": 367,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "brand": "Audi",
+    "model": "SQ5 (8R)",
+    "production_year_start": 2012,
+    "production_year_end": 2017,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TFSI",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0 TDI",
+        "power_hp": 313,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "brand": "Audi",
+    "model": "SQ5 (FY)",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TFSI",
+        "power_hp": 354,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0 TDI",
+        "power_hp": 347,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "brand": "Audi",
+    "model": "Q7 (4L)",
+    "production_year_start": 2005,
+    "production_year_end": 2015,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0 TDI",
+        "power_hp": 240,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.2 V8 TDI",
+        "power_hp": 340,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "6.0 V12 TDI",
+        "power_hp": 500,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "brand": "Audi",
+    "model": "Q7 (4M)",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 252,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0 TDI",
+        "power_hp": 286,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "60 TFSI e quattro",
+        "power_hp": 456,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "brand": "Audi",
+    "model": "SQ7 (4M)",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel", "Petrol"],
+    "engines": [
+      {
+        "name": "4.0 V8 TDI",
+        "power_hp": 435,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.0 V8 TFSI",
+        "power_hp": 507,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "brand": "Audi",
+    "model": "Q8 (4M)",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0 TFSI",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0 TDI",
+        "power_hp": 286,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "60 TFSI e quattro",
+        "power_hp": 462,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "brand": "Audi",
+    "model": "SQ8 (4M)",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel", "Petrol"],
+    "engines": [
+      {
+        "name": "4.0 V8 TDI",
+        "power_hp": 435,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.0 V8 TFSI",
+        "power_hp": 507,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "brand": "Audi",
+    "model": "RS Q3 (8U)",
+    "production_year_start": 2013,
+    "production_year_end": 2018,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "brand": "Audi",
+    "model": "RS Q3 (F3)",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Sportback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TFSI",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "brand": "Audi",
+    "model": "RS Q5 (Concept)",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9 TFSI V6",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "brand": "Audi",
+    "model": "RS Q8 (4M)",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "4.0 V8 TFSI",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "brand": "Audi",
+    "model": "e-tron (GE)",
+    "production_year_start": 2018,
+    "production_year_end": 2022,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "55 quattro",
+        "power_hp": 408,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "brand": "Audi",
+    "model": "Q8 e-tron",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Q8 55 e-tron quattro",
+        "power_hp": 408,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "brand": "Audi",
+    "model": "e-tron GT",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Gran Turismo"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "RS e-tron GT",
+        "power_hp": 646,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "brand": "Audi",
+    "model": "Q4 Sportback e-tron",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Sportback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Q4 40 e-tron",
+        "power_hp": 204,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "brand": "Audi",
+    "model": "TT (8N)",
+    "production_year_start": 1998,
+    "production_year_end": 2006,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.8T",
+        "power_hp": 180,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.2 V6",
+        "power_hp": 250,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "brand": "Audi",
+    "model": "TT (8J)",
+    "production_year_start": 2006,
+    "production_year_end": 2014,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.2 V6",
+        "power_hp": 250,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "brand": "Audi",
+    "model": "TT (FV/8S)",
+    "production_year_start": 2014,
+    "production_year_end": 2023,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0 TFSI",
+        "power_hp": 230,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "TTS 2.0 TFSI",
+        "power_hp": 306,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "TTRS 2.5 TFSI",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "brand": "Audi",
+    "model": "R8 (Type 42)",
+    "production_year_start": 2006,
+    "production_year_end": 2015,
+    "body_styles": ["Coupe", "Spyder"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2 V8 FSI",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "5.2 V10 FSI",
+        "power_hp": 525,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "brand": "Audi",
+    "model": "R8 (Type 4S)",
+    "production_year_start": 2015,
+    "production_year_end": 2023,
+    "body_styles": ["Coupe", "Spyder"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.2 V10 FSI",
+        "power_hp": 610,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
