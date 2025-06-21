@@ -7187,3 +7187,909 @@
     ]
   }
 ],
+[
+  {
+    "id": 428,
+    "brand": "Austin",
+    "model": "7",
+    "production_year_start": 1922,
+    "production_year_end": 1939,
+    "body_styles": ["Saloon", "Tourer", "Van", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.7L Inline-4",
+        "power_hp": 10,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "brand": "Austin",
+    "model": "8",
+    "production_year_start": 1939,
+    "production_year_end": 1948,
+    "body_styles": ["Saloon", "Tourer", "Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L Inline-4",
+        "power_hp": 24,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "brand": "Austin",
+    "model": "10",
+    "production_year_start": 1932,
+    "production_year_end": 1947,
+    "body_styles": ["Saloon", "Tourer", "Estate", "Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 30,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "brand": "Austin",
+    "model": "12",
+    "production_year_start": 1921,
+    "production_year_end": 1939,
+    "body_styles": ["Saloon", "Tourer", "Taxi", "Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Inline-4",
+        "power_hp": 27,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "brand": "Austin",
+    "model": "16",
+    "production_year_start": 1945,
+    "production_year_end": 1949,
+    "body_styles": ["Saloon", "Tourer"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.2L Inline-4",
+        "power_hp": 67,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "brand": "Austin",
+    "model": "18",
+    "production_year_start": 1937,
+    "production_year_end": 1948,
+    "body_styles": ["Saloon", "Tourer", "Taxi"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L Inline-4",
+        "power_hp": 56,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "brand": "Austin",
+    "model": "20",
+    "production_year_start": 1919,
+    "production_year_end": 1930,
+    "body_styles": ["Saloon", "Tourer", "Limousine"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.6L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "brand": "Austin",
+    "model": "28",
+    "production_year_start": 1919,
+    "production_year_end": 1930,
+    "body_styles": ["Saloon", "Tourer"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.4L Inline-6",
+        "power_hp": 65,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "brand": "Austin",
+    "model": "A30",
+    "production_year_start": 1951,
+    "production_year_end": 1956,
+    "body_styles": ["Saloon", "Van", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.8L Inline-4",
+        "power_hp": 28,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "brand": "Austin",
+    "model": "A35",
+    "production_year_start": 1956,
+    "production_year_end": 1959,
+    "body_styles": ["Saloon", "Van", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L Inline-4",
+        "power_hp": 34,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "brand": "Austin",
+    "model": "A40",
+    "production_year_start": 1947,
+    "production_year_end": 1967,
+    "body_styles": ["Saloon", "Estate", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "brand": "Austin",
+    "model": "A40 Devon",
+    "production_year_start": 1947,
+    "production_year_end": 1951,
+    "body_styles": ["Saloon", "Tourer"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
+[
+  {
+    "id": 440,
+    "brand": "Austin",
+    "model": "A40 Somerset",
+    "production_year_start": 1952,
+    "production_year_end": 1954,
+    "body_styles": ["Saloon", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 42,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "brand": "Austin",
+    "model": "A40 Sports",
+    "production_year_start": 1950,
+    "production_year_end": 1953,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 46,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "brand": "Austin",
+    "model": "A40 Farina",
+    "production_year_start": 1958,
+    "production_year_end": 1967,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.95L Inline-4",
+        "power_hp": 34,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "brand": "Austin",
+    "model": "A50 Cambridge",
+    "production_year_start": 1954,
+    "production_year_end": 1957,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 50,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 444,
+    "brand": "Austin",
+    "model": "A55 Cambridge",
+    "production_year_start": 1957,
+    "production_year_end": 1961,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 55,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "brand": "Austin",
+    "model": "A60 Cambridge",
+    "production_year_start": 1961,
+    "production_year_end": 1969,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 61,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "brand": "Austin",
+    "model": "A70 Hampshire",
+    "production_year_start": 1948,
+    "production_year_end": 1950,
+    "body_styles": ["Saloon", "Estate", "Pick-up"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.2L Inline-4",
+        "power_hp": 67,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "brand": "Austin",
+    "model": "A70 Hereford",
+    "production_year_start": 1950,
+    "production_year_end": 1954,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.2L Inline-4",
+        "power_hp": 68,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "brand": "Austin",
+    "model": "A90 Atlantic",
+    "production_year_start": 1949,
+    "production_year_end": 1952,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.7L Inline-4",
+        "power_hp": 88,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "brand": "Austin",
+    "model": "A99 Westminster",
+    "production_year_start": 1959,
+    "production_year_end": 1961,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9L Inline-6",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "brand": "Austin",
+    "model": "A110 Westminster",
+    "production_year_start": 1961,
+    "production_year_end": 1968,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9L Inline-6",
+        "power_hp": 120,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "brand": "Austin",
+    "model": "Allegro",
+    "production_year_start": 1973,
+    "production_year_end": 1982,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 49,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 60,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 68,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.7L Inline-4",
+        "power_hp": 76,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "brand": "Austin",
+    "model": "Ambassador",
+    "production_year_start": 1982,
+    "production_year_end": 1984,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.7L Inline-4",
+        "power_hp": 72,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 92,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "brand": "Austin",
+    "model": "Cambridge",
+    "production_year_start": 1954,
+    "production_year_end": 1969,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 50,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "brand": "Austin",
+    "model": "Countryman",
+    "production_year_start": 1948,
+    "production_year_end": 1956,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 34,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "brand": "Austin",
+    "model": "Devon",
+    "production_year_start": 1947,
+    "production_year_end": 1951,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
+[
+  {
+    "id": 456,
+    "brand": "Austin",
+    "model": "Healey 100",
+    "production_year_start": 1953,
+    "production_year_end": 1956,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.7L Inline-4",
+        "power_hp": 90,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "brand": "Austin",
+    "model": "Healey 3000",
+    "production_year_start": 1959,
+    "production_year_end": 1967,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.9L Inline-6",
+        "power_hp": 124,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "brand": "Austin",
+    "model": "Healey Sprite",
+    "production_year_start": 1958,
+    "production_year_end": 1971,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.95L Inline-4",
+        "power_hp": 43,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 59,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "brand": "Austin",
+    "model": "Maestro",
+    "production_year_start": 1983,
+    "production_year_end": 1995,
+    "body_styles": ["Hatchback", "Van"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 68,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.0L Inline-4 Diesel",
+        "power_hp": 60,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "brand": "Austin",
+    "model": "Maxi",
+    "production_year_start": 1969,
+    "production_year_end": 1981,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 74,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.7L Inline-4",
+        "power_hp": 86,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "brand": "Austin",
+    "model": "Metro",
+    "production_year_start": 1980,
+    "production_year_end": 1990,
+    "body_styles": ["Hatchback", "Van"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 44,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 60,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "brand": "Austin",
+    "model": "Mini",
+    "production_year_start": 1959,
+    "production_year_end": 2000,
+    "body_styles": ["Saloon", "Van", "Estate", "Pickup", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.85L Inline-4",
+        "power_hp": 34,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 63,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "brand": "Austin",
+    "model": "Mini Cooper S",
+    "production_year_start": 1963,
+    "production_year_end": 1971,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 70,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "brand": "Austin",
+    "model": "Mini Moke",
+    "production_year_start": 1964,
+    "production_year_end": 1993,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.85L Inline-4",
+        "power_hp": 34,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "brand": "Austin",
+    "model": "Princess",
+    "production_year_start": 1975,
+    "production_year_end": 1981,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.7L Inline-4",
+        "power_hp": 76,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 98,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "brand": "Austin",
+    "model": "Seven",
+    "production_year_start": 1922,
+    "production_year_end": 1939,
+    "body_styles": ["Saloon", "Tourer", "Van", "Sports"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.75L Inline-4",
+        "power_hp": 10,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "brand": "Austin",
+    "model": "Sprite",
+    "production_year_start": 1958,
+    "production_year_end": 1971,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.95L Inline-4",
+        "power_hp": 43,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 59,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "brand": "Austin",
+    "model": "Ten",
+    "production_year_start": 1932,
+    "production_year_end": 1947,
+    "body_styles": ["Saloon", "Tourer", "Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 21,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "brand": "Austin",
+    "model": "Twelve",
+    "production_year_start": 1921,
+    "production_year_end": 1940,
+    "body_styles": ["Saloon", "Tourer"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Inline-4",
+        "power_hp": 27,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "brand": "Austin",
+    "model": "Ambulance",
+    "production_year_start": 1930,
+    "production_year_end": 1950,
+    "body_styles": ["Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "Various",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "brand": "Austin",
+    "model": "FX4 Taxi",
+    "production_year_start": 1958,
+    "production_year_end": 1997,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Diesel", "Petrol"],
+    "engines": [
+      {
+        "name": "2.2L Diesel",
+        "power_hp": 55,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.7L Petrol",
+        "power_hp": 78,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "brand": "Austin",
+    "model": "Gypsy",
+    "production_year_start": 1958,
+    "production_year_end": 1968,
+    "body_styles": ["Off-road", "Pickup"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.2L Petrol",
+        "power_hp": 62,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.2L Diesel",
+        "power_hp": 55,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "brand": "Austin",
+    "model": "Sheerline",
+    "production_year_start": 1947,
+    "production_year_end": 1954,
+    "body_styles": ["Saloon", "Limousine"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Inline-6",
+        "power_hp": 125,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "brand": "Austin",
+    "model": "Princess Limousine",
+    "production_year_start": 1952,
+    "production_year_end": 1968,
+    "body_styles": ["Limousine"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Inline-6",
+        "power_hp": 130,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "brand": "Austin",
+    "model": "Saracen",
+    "production_year_start": 1952,
+    "production_year_end": 1976,
+    "body_styles": ["Military APC"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "8.1L Rolls-Royce B80",
+        "power_hp": 160,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
