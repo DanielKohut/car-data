@@ -8093,3 +8093,375 @@
     ]
   }
 ],
+[
+  {
+    "id": 476,
+    "brand": "Autobianchi",
+    "model": "A111",
+    "production_year_start": 1969,
+    "production_year_end": 1972,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L Inline-4",
+        "power_hp": 70,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "brand": "Autobianchi",
+    "model": "A112",
+    "production_year_start": 1969,
+    "production_year_end": 1986,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L Inline-4",
+        "power_hp": 42,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 48,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "brand": "Autobianchi",
+    "model": "A112 Abarth",
+    "production_year_start": 1971,
+    "production_year_end": 1986,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 58,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.05L Inline-4",
+        "power_hp": 70,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "brand": "Autobianchi",
+    "model": "A112 Elite",
+    "production_year_start": 1979,
+    "production_year_end": 1986,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 48,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "brand": "Autobianchi",
+    "model": "A112 Junior",
+    "production_year_start": 1977,
+    "production_year_end": 1985,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L Inline-4",
+        "power_hp": 42,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "brand": "Autobianchi",
+    "model": "A112 Giovani (koncepció)",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": []
+  },
+  {
+    "id": 482,
+    "brand": "Autobianchi",
+    "model": "Bianchina Berlina",
+    "production_year_start": 1957,
+    "production_year_end": 1970,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2",
+        "power_hp": 15,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "brand": "Autobianchi",
+    "model": "Bianchina Cabriolet",
+    "production_year_start": 1960,
+    "production_year_end": 1969,
+    "body_styles": ["Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2",
+        "power_hp": 17,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "brand": "Autobianchi",
+    "model": "Bianchina Furgoncino",
+    "production_year_start": 1960,
+    "production_year_end": 1969,
+    "body_styles": ["Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2",
+        "power_hp": 17,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "brand": "Autobianchi",
+    "model": "Bianchina Panoramica",
+    "production_year_start": 1960,
+    "production_year_end": 1969,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2",
+        "power_hp": 17,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "brand": "Autobianchi",
+    "model": "Bianchina Trasformabile",
+    "production_year_start": 1957,
+    "production_year_end": 1962,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.5L Inline-2",
+        "power_hp": 17,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "brand": "Autobianchi",
+    "model": "Estense",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Concept"],
+    "fuel_types": [],
+    "engines": []
+  },
+  {
+    "id": 488,
+    "brand": "Autobianchi",
+    "model": "Filarete",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Concept"],
+    "fuel_types": [],
+    "engines": []
+  },
+  {
+    "id": 489,
+    "brand": "Autobianchi",
+    "model": "Fiumaro",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Concept"],
+    "fuel_types": [],
+    "engines": []
+  },
+  {
+    "id": 490,
+    "brand": "Autobianchi",
+    "model": "G31",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Concept"],
+    "fuel_types": [],
+    "engines": []
+  },
+  {
+    "id": 491,
+    "brand": "Autobianchi",
+    "model": "Primula 2-door",
+    "production_year_start": 1964,
+    "production_year_end": 1970,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 44,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "brand": "Autobianchi",
+    "model": "Primula 3-door",
+    "production_year_start": 1965,
+    "production_year_end": 1970,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 44,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "brand": "Autobianchi",
+    "model": "Primula 4-door",
+    "production_year_start": 1965,
+    "production_year_end": 1970,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 44,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 494,
+    "brand": "Autobianchi",
+    "model": "Primula Coupé",
+    "production_year_start": 1965,
+    "production_year_end": 1970,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 56,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 495,
+    "brand": "Autobianchi",
+    "model": "Runabout",
+    "production_year_start": 1969,
+    "production_year_end": 1969,
+    "body_styles": ["Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": []
+  },
+  {
+    "id": 496,
+    "brand": "Autobianchi",
+    "model": "Scaligero",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Concept"],
+    "fuel_types": [],
+    "engines": []
+  },
+  {
+    "id": 497,
+    "brand": "Autobianchi",
+    "model": "Stellina",
+    "production_year_start": 1963,
+    "production_year_end": 1965,
+    "body_styles": ["Spider"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.8L Inline-4",
+        "power_hp": 29,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "brand": "Autobianchi",
+    "model": "Visconteo",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Concept"],
+    "fuel_types": [],
+    "engines": []
+  },
+  {
+    "id": 499,
+    "brand": "Autobianchi",
+    "model": "Y10",
+    "production_year_start": 1985,
+    "production_year_end": 1995,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 45,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 56,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
