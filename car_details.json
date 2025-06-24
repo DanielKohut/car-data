@@ -8465,3 +8465,226 @@
     ]
   }
 ],
+[
+  {
+    "id": 500,
+    "brand": "Auto Union",
+    "model": "1000",
+    "production_year_start": 1958,
+    "production_year_end": 1963,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.98L 3-cyl 2-stroke",
+        "power_hp": 44,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "brand": "Auto Union",
+    "model": "1000 Limousine",
+    "production_year_start": 1958,
+    "production_year_end": 1963,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.98L 3-cyl 2-stroke",
+        "power_hp": 44,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "brand": "Auto Union",
+    "model": "1000 S",
+    "production_year_start": 1959,
+    "production_year_end": 1963,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.98L 3-cyl 2-stroke",
+        "power_hp": 50,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "brand": "Auto Union",
+    "model": "1000 Sp",
+    "production_year_start": 1958,
+    "production_year_end": 1965,
+    "body_styles": ["Coupé", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.98L 3-cyl 2-stroke",
+        "power_hp": 55,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "brand": "Auto Union",
+    "model": "1000 Universal",
+    "production_year_start": 1959,
+    "production_year_end": 1963,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.98L 3-cyl 2-stroke",
+        "power_hp": 44,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "brand": "Auto Union",
+    "model": "1000 Coupé",
+    "production_year_start": 1959,
+    "production_year_end": 1963,
+    "body_styles": ["Coupé"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.98L 3-cyl 2-stroke",
+        "power_hp": 50,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "brand": "Auto Union",
+    "model": "F11",
+    "production_year_start": 1963,
+    "production_year_end": 1965,
+    "body_styles": ["Saloon", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L 3-cyl 2-stroke",
+        "power_hp": 50,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "brand": "Auto Union",
+    "model": "F12",
+    "production_year_start": 1963,
+    "production_year_end": 1965,
+    "body_styles": ["Saloon", "Cabriolet", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L 3-cyl 2-stroke",
+        "power_hp": 55,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "brand": "Auto Union",
+    "model": "F102",
+    "production_year_start": 1964,
+    "production_year_end": 1966,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L 3-cyl 2-stroke",
+        "power_hp": 60,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "brand": "Auto Union",
+    "model": "Type A",
+    "production_year_start": 1934,
+    "production_year_end": 1934,
+    "body_styles": ["Race Car"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.4L V16",
+        "power_hp": 295,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "brand": "Auto Union",
+    "model": "Type B",
+    "production_year_start": 1935,
+    "production_year_end": 1936,
+    "body_styles": ["Race Car"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V16",
+        "power_hp": 375,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "brand": "Auto Union",
+    "model": "Type C",
+    "production_year_start": 1936,
+    "production_year_end": 1937,
+    "body_styles": ["Race Car"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L V16",
+        "power_hp": 520,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "brand": "Auto Union",
+    "model": "Type D",
+    "production_year_start": 1938,
+    "production_year_end": 1939,
+    "body_styles": ["Race Car"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L V12",
+        "power_hp": 485,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
