@@ -8688,3 +8688,105 @@
     ]
   }
 ],
+[
+  {
+    "id": 513,
+    "brand": "BAC",
+    "model": "Mono",
+    "production_year_start": 2011,
+    "production_year_end": null,
+    "body_styles": ["Single-seater"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.3L Inline-4 (Cosworth, 2011–2015)",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      },
+      {
+        "name": "2.5L Inline-4 (Mountune, 2015–2019)",
+        "power_hp": 305,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      },
+      {
+        "name": "2.3L Turbocharged Inline-4 (Ford Ecoboost, 2019–)",
+        "power_hp": 332,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 514,
+    "brand": "BAC",
+    "model": "Mono F",
+    "production_year_start": 2014,
+    "production_year_end": 2015,
+    "body_styles": ["Single-seater"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 FIA Spec",
+        "power_hp": 240,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "brand": "BAC",
+    "model": "Mono One",
+    "production_year_start": 2022,
+    "production_year_end": 2022,
+    "body_styles": ["Single-seater"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.3L Turbocharged Inline-4",
+        "power_hp": 332,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ],
+    "notes": "Ultra-limited, 3 units, 'farewell' to original Mono"
+  },
+  {
+    "id": 516,
+    "brand": "BAC",
+    "model": "Mono R",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Single-seater"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L Inline-4 Mountune",
+        "power_hp": 343,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ],
+    "notes": "Lighter chassis, more power, very limited run (30 units)"
+  },
+  {
+    "id": 517,
+    "brand": "BAC",
+    "model": "Mono X",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Single-seater"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "Concept/unknown",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Sequential"]
+      }
+    ],
+    "notes": "Special/possible concept variant – public data not confirmed"
+  }
+],
