@@ -8790,3 +8790,493 @@
     "notes": "Special/possible concept variant – public data not confirmed"
   }
 ],
+[
+  {
+    "id": 518,
+    "brand": "BAIC",
+    "model": "Beijing BJ20",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 519,
+    "brand": "BAIC",
+    "model": "Beijing BJ30",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 116,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "brand": "BAIC",
+    "model": "Beijing BJ40",
+    "production_year_start": 2013,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 204,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.3L Turbo Inline-4",
+        "power_hp": 250,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.0L Turbo Diesel",
+        "power_hp": 163,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "brand": "BAIC",
+    "model": "Beijing BJ60",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 267,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "brand": "BAIC",
+    "model": "Beijing X35",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 116,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "brand": "BAIC",
+    "model": "Beijing X55",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "brand": "BAIC",
+    "model": "Beijing X75",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 188,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 525,
+    "brand": "BAIC",
+    "model": "Beijing X7",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 188,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "brand": "BAIC",
+    "model": "Beijing EC3",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 45 kW",
+        "power_hp": 61,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "brand": "BAIC",
+    "model": "Beijing EC5",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 80 kW",
+        "power_hp": 109,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "brand": "BAIC",
+    "model": "Beijing EU5",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 160 kW",
+        "power_hp": 218,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "brand": "BAIC",
+    "model": "Beijing EU7",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 160 kW",
+        "power_hp": 218,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 530,
+    "brand": "BAIC",
+    "model": "Beijing EX3",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 132 kW",
+        "power_hp": 179,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "brand": "BAIC",
+    "model": "Beijing U5",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 150 kW",
+        "power_hp": 204,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 532,
+    "brand": "BAIC",
+    "model": "Beijing U7",
+    "production_year_start": 2024,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 180 kW",
+        "power_hp": 245,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "brand": "BAIC",
+    "model": "Senova D20",
+    "production_year_start": 2012,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 99,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 534,
+    "brand": "BAIC",
+    "model": "Senova D50",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 116,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "brand": "BAIC",
+    "model": "Senova D60",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 177,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "brand": "BAIC",
+    "model": "Senova D70",
+    "production_year_start": 2013,
+    "production_year_end": 2020,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 204,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "brand": "BAIC",
+    "model": "Senova D80",
+    "production_year_start": 2018,
+    "production_year_end": 2020,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 224,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 538,
+    "brand": "BAIC",
+    "model": "Senova X25",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 116,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 539,
+    "brand": "BAIC",
+    "model": "Senova X35",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 116,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "brand": "BAIC",
+    "model": "Senova X55",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 541,
+    "brand": "BAIC",
+    "model": "Senova X55-II",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 156,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 542,
+    "brand": "BAIC",
+    "model": "Senova X65",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 177,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "brand": "BAIC",
+    "model": "Weiwang M20",
+    "production_year_start": 2013,
+    "production_year_end": null,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 106,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 544,
+    "brand": "BAIC",
+    "model": "Weiwang M50F",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Turbo Inline-4",
+        "power_hp": 133,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 545,
+    "brand": "BAIC",
+    "model": "Weiwang S50",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 116,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  }
+],
