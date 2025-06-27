@@ -9280,3 +9280,175 @@
     ]
   }
 ],
+[
+  {
+    "id": 546,
+    "brand": "Barkas",
+    "model": "B1000",
+    "production_year_start": 1961,
+    "production_year_end": 1989,
+    "body_styles": ["Minibus", "Van", "Pickup", "Ambulance", "Panel Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L I3 (DKW)",
+        "power_hp": 45,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "brand": "Barkas",
+    "model": "B1000-1",
+    "production_year_start": 1989,
+    "production_year_end": 1991,
+    "body_styles": ["Minibus", "Van", "Pickup", "Ambulance", "Panel Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L I4 (Wartburg)",
+        "power_hp": 58,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 548,
+    "brand": "Barkas",
+    "model": "B1000 Bus",
+    "production_year_start": 1961,
+    "production_year_end": 1989,
+    "body_styles": ["Minibus"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L I3 (DKW)",
+        "power_hp": 45,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 549,
+    "brand": "Barkas",
+    "model": "B1000 Krankenwagen",
+    "production_year_start": 1962,
+    "production_year_end": 1989,
+    "body_styles": ["Ambulance"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L I3 (DKW)",
+        "power_hp": 45,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 550,
+    "brand": "Barkas",
+    "model": "B1000 Kastenwagen",
+    "production_year_start": 1961,
+    "production_year_end": 1989,
+    "body_styles": ["Panel Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L I3 (DKW)",
+        "power_hp": 45,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 551,
+    "brand": "Barkas",
+    "model": "B1000 Pritsche",
+    "production_year_start": 1961,
+    "production_year_end": 1989,
+    "body_styles": ["Pickup"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L I3 (DKW)",
+        "power_hp": 45,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "brand": "Barkas",
+    "model": "Framo V901/2",
+    "production_year_start": 1949,
+    "production_year_end": 1961,
+    "body_styles": ["Van", "Pickup"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L I3",
+        "power_hp": 28,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "brand": "Barkas",
+    "model": "V902",
+    "production_year_start": 1951,
+    "production_year_end": 1961,
+    "body_styles": ["Van", "Pickup"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L I3",
+        "power_hp": 28,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 554,
+    "brand": "Barkas",
+    "model": "V903",
+    "production_year_start": 1954,
+    "production_year_end": 1961,
+    "body_styles": ["Van", "Pickup"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L I3",
+        "power_hp": 28,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 555,
+    "brand": "Barkas",
+    "model": "B1100",
+    "production_year_start": 1989,
+    "production_year_end": 1991,
+    "body_styles": ["Minibus", "Van"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "1.8L I4 Diesel",
+        "power_hp": 60,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
