@@ -9452,3 +9452,107 @@
     ]
   }
 ],
+[
+  {
+    "id": 556,
+    "brand": "Beauford",
+    "model": "Series 3",
+    "production_year_start": 1985,
+    "production_year_end": null,
+    "body_styles": ["Tourer", "Convertible", "Limousine", "Sedanca de Ville", "Hard Top", "Soft Top"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "Varies (Ford, Rover, Nissan, Mercedes donor engines)",
+        "power_hp": null,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 557,
+    "brand": "Beauford",
+    "model": "Series 3 Hard Top",
+    "production_year_start": 1985,
+    "production_year_end": null,
+    "body_styles": ["Hard Top"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "Varies",
+        "power_hp": null,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 558,
+    "brand": "Beauford",
+    "model": "Series 3 Limousine",
+    "production_year_start": 1985,
+    "production_year_end": null,
+    "body_styles": ["Limousine"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "Varies",
+        "power_hp": null,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 559,
+    "brand": "Beauford",
+    "model": "Series 3 Open Tourer",
+    "production_year_start": 1985,
+    "production_year_end": null,
+    "body_styles": ["Open Tourer", "Convertible"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "Varies",
+        "power_hp": null,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 560,
+    "brand": "Beauford",
+    "model": "Series 3 Sedanca de Ville",
+    "production_year_start": 1985,
+    "production_year_end": null,
+    "body_styles": ["Sedanca de Ville"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "Varies",
+        "power_hp": null,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 561,
+    "brand": "Beauford",
+    "model": "Series 3 Soft Top",
+    "production_year_start": 1985,
+    "production_year_end": null,
+    "body_styles": ["Soft Top", "Convertible"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "Varies",
+        "power_hp": null,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  }
+],
