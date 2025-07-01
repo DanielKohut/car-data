@@ -10195,3 +10195,368 @@
     ]
   }
 ],
+[
+  {
+    "id": 597,
+    "brand": "Bertone",
+    "model": "Barchetta",
+    "production_year_start": 2007,
+    "production_year_end": 2007,
+    "body_styles": ["Barchetta", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.6L V8",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "brand": "Bertone",
+    "model": "BAT 5",
+    "production_year_start": 1953,
+    "production_year_end": 1953,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Alfa Romeo 1900 Sprint alapú)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 599,
+    "brand": "Bertone",
+    "model": "BAT 7",
+    "production_year_start": 1954,
+    "production_year_end": 1954,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Alfa Romeo 1900 Sprint alapú)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "brand": "Bertone",
+    "model": "BAT 9",
+    "production_year_start": 1955,
+    "production_year_end": 1955,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Alfa Romeo 1900 Sprint alapú)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "brand": "Bertone",
+    "model": "BAT 11",
+    "production_year_start": 2008,
+    "production_year_end": 2008,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "Alfa Romeo 8C alapú (tipp)",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "brand": "Bertone",
+    "model": "Birusa",
+    "production_year_start": 2003,
+    "production_year_end": 2003,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 (BMW alapú)",
+        "power_hp": 333,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "brand": "Bertone",
+    "model": "Blitz",
+    "production_year_start": 1992,
+    "production_year_end": 1992,
+    "body_styles": ["Coupé", "Electric", "Concept"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 86,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "brand": "Bertone",
+    "model": "Enduro",
+    "production_year_start": 1996,
+    "production_year_end": 1996,
+    "body_styles": ["SUV", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L V8",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "brand": "Bertone",
+    "model": "GB110",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["Coupé"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.2L V10",
+        "power_hp": 1100,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic", "Manual"]
+      }
+    ]
+  },
+  {
+    "id": 606,
+    "brand": "Bertone",
+    "model": "Genesis",
+    "production_year_start": 1988,
+    "production_year_end": 1988,
+    "body_styles": ["Minivan", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.2L Lamborghini V12",
+        "power_hp": 455,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "brand": "Bertone",
+    "model": "Mantide",
+    "production_year_start": 2009,
+    "production_year_end": 2009,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.2L V8 (Corvette ZR1)",
+        "power_hp": 638,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 608,
+    "brand": "Bertone",
+    "model": "Navajo",
+    "production_year_start": 1976,
+    "production_year_end": 1976,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4 (Alfa Romeo 33 alapú)",
+        "power_hp": 68,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "brand": "Bertone",
+    "model": "Nuccio",
+    "production_year_start": 2012,
+    "production_year_end": 2012,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "Unknown",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "brand": "Bertone",
+    "model": "Ramarro",
+    "production_year_start": 1984,
+    "production_year_end": 1984,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.7L V8 (Chevrolet Corvette alapú)",
+        "power_hp": 230,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "brand": "Bertone",
+    "model": "Runabout",
+    "production_year_start": 1969,
+    "production_year_end": 1969,
+    "body_styles": ["Roadster", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4 (Fiat 128 alapú)",
+        "power_hp": 75,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "brand": "Bertone",
+    "model": "Slalom",
+    "production_year_start": 1996,
+    "production_year_end": 1996,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 Turbo (Fiat Coupé Turbo alapú)",
+        "power_hp": 204,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 613,
+    "brand": "Bertone",
+    "model": "Suagnà",
+    "production_year_start": 2004,
+    "production_year_end": 2004,
+    "body_styles": ["Roadster", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "Unknown",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 614,
+    "brand": "Bertone",
+    "model": "Villa",
+    "production_year_start": 2005,
+    "production_year_end": 2005,
+    "body_styles": ["Sedan", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.4L Inline-5 (Alfa Romeo alapú)",
+        "power_hp": 197,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "brand": "Bertone",
+    "model": "X1/9",
+    "production_year_start": 1972,
+    "production_year_end": 1989,
+    "body_styles": ["Targa", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 75,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 85,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "brand": "Bertone",
+    "model": "Z.E.R.",
+    "production_year_start": 1994,
+    "production_year_end": 1994,
+    "body_styles": ["Streamliner", "Electric", "Concept"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 200,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "brand": "Bertone",
+    "model": "Zero",
+    "production_year_start": 1970,
+    "production_year_end": 1970,
+    "body_styles": ["Coupé", "Concept"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L V4 (Lancia Stratos alapú)",
+        "power_hp": 115,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
