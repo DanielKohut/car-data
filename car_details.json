@@ -10560,3 +10560,379 @@
     ]
   }
 ],
+[
+  {
+    "id": 618,
+    "brand": "Birdie",
+    "model": "6KSZR",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Utility Vehicle"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 5,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 619,
+    "brand": "Birdie",
+    "model": "Car-GO",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 4,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 620,
+    "brand": "Birdie",
+    "model": "Car-GO 4",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 4,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "brand": "Birdie",
+    "model": "Car-GO 4 Explorer",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 5,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "brand": "Birdie",
+    "model": "Car-GO 6",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 5,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 623,
+    "brand": "Birdie",
+    "model": "Car-GO Explorer",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 5,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 624,
+    "brand": "Birdie",
+    "model": "Car-GO XL",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 6,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "brand": "Birdie",
+    "model": "Car-GO XL 500",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 6,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 626,
+    "brand": "Birdie",
+    "model": "Car-GO XL Explorer",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 7,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "brand": "Birdie",
+    "model": "Cruize 4",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 4,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "brand": "Birdie",
+    "model": "Cruize 4 Explorer",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 5,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "brand": "Birdie",
+    "model": "Cruize 6",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 5,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 630,
+    "brand": "Birdie",
+    "model": "Cruize 6 Explorer",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 6,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 631,
+    "brand": "Birdie",
+    "model": "Cruize 8",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 6,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "brand": "Birdie",
+    "model": "Cruize 8 Explorer",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 7,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "brand": "Birdie",
+    "model": "Golf",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Golf Cart"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 4,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 634,
+    "brand": "Birdie",
+    "model": "Joyride 14",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Sightseeing Vehicle"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 6,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "brand": "Birdie",
+    "model": "Joyride 14+",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Sightseeing Vehicle"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 7,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "brand": "Birdie",
+    "model": "Joyride 14 Delfin",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Sightseeing Vehicle"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 7,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "brand": "Birdie",
+    "model": "Joyride 14 Nemo",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Sightseeing Vehicle"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 7,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "brand": "Birdie",
+    "model": "Joyride 23",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Sightseeing Vehicle"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 8,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "brand": "Birdie",
+    "model": "Truck 1000",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Utility Vehicle"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 7,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
