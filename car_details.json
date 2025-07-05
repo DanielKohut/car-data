@@ -11182,3 +11182,107 @@
     ]
   }
 ],
+[
+  {
+    "id": 654,
+    "brand": "Bluecar",
+    "model": "Bluebus",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Bus"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 132 kW",
+        "power_hp": 180,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "brand": "Bluecar",
+    "model": "Bluecar",
+    "production_year_start": 2011,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 50 kW",
+        "power_hp": 67,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "brand": "Bluecar",
+    "model": "Bluecar Cargo",
+    "production_year_start": 2013,
+    "production_year_end": null,
+    "body_styles": ["Van"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 50 kW",
+        "power_hp": 67,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "brand": "Bluecar",
+    "model": "Bluecar Pininfarina",
+    "production_year_start": 2011,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 50 kW",
+        "power_hp": 67,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "brand": "Bluecar",
+    "model": "Blueutility",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Utility"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 50 kW",
+        "power_hp": 67,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "brand": "Bluecar",
+    "model": "Bluesummer",
+    "production_year_start": 2015,
+    "production_year_end": 2019,
+    "body_styles": ["Cabriolet"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 50 kW",
+        "power_hp": 67,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
