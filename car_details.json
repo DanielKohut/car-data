@@ -11286,3 +11286,379 @@
     ]
   }
 ],
+[
+  {
+    "id": 660,
+    "brand": "BMW",
+    "model": "1 Series – E81/E82/E87/E88",
+    "production_year_start": 2004,
+    "production_year_end": 2013,
+    "body_styles": ["Hatchback", "Coupé", "Convertible"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.6L–3.0L Inline-4/6 (various)",
+        "power_hp": 115,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "brand": "BMW",
+    "model": "1 Series – F20/F21",
+    "production_year_start": 2011,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.5L–3.0L Inline-3/4/6 (various)",
+        "power_hp": 109,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "brand": "BMW",
+    "model": "1 Series – F40",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "1.5L–2.0L Inline-3/4 (various)",
+        "power_hp": 109,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "brand": "BMW",
+    "model": "1 Series M Coupé (E82)",
+    "production_year_start": 2011,
+    "production_year_end": 2012,
+    "body_styles": ["Coupé"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6 (N54)",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "brand": "BMW",
+    "model": "114i",
+    "production_year_start": 2012,
+    "production_year_end": 2015,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 102,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "brand": "BMW",
+    "model": "116i",
+    "production_year_start": 2004,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L/1.5L/1.3L Inline-4/3",
+        "power_hp": 109,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "brand": "BMW",
+    "model": "116d",
+    "production_year_start": 2009,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "1.5L/2.0L Inline-3/4",
+        "power_hp": 116,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "brand": "BMW",
+    "model": "118i",
+    "production_year_start": 2004,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L/2.0L Inline-3/4",
+        "power_hp": 136,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "brand": "BMW",
+    "model": "118d",
+    "production_year_start": 2004,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 143,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "brand": "BMW",
+    "model": "120i",
+    "production_year_start": 2004,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "brand": "BMW",
+    "model": "120d",
+    "production_year_start": 2004,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 177,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "brand": "BMW",
+    "model": "123d",
+    "production_year_start": 2007,
+    "production_year_end": 2013,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 Twin-Turbo",
+        "power_hp": 204,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "brand": "BMW",
+    "model": "125i",
+    "production_year_start": 2008,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback", "Coupé", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L/3.0L Inline-4/6",
+        "power_hp": 218,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "brand": "BMW",
+    "model": "125d",
+    "production_year_start": 2012,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback", "Coupé", "Convertible"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 Twin-Turbo",
+        "power_hp": 224,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "brand": "BMW",
+    "model": "128i",
+    "production_year_start": 2008,
+    "production_year_end": 2013,
+    "body_styles": ["Coupé", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 230,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "brand": "BMW",
+    "model": "128ti",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 265,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "brand": "BMW",
+    "model": "130i",
+    "production_year_start": 2005,
+    "production_year_end": 2013,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 265,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "brand": "BMW",
+    "model": "135i",
+    "production_year_start": 2007,
+    "production_year_end": 2013,
+    "body_styles": ["Coupé", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Twin-Turbo Inline-6",
+        "power_hp": 306,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "brand": "BMW",
+    "model": "M135i",
+    "production_year_start": 2012,
+    "production_year_end": 2016,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 320,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "brand": "BMW",
+    "model": "M135i xDrive",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 306,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "brand": "BMW",
+    "model": "M140i",
+    "production_year_start": 2016,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "brand": "BMW",
+    "model": "M140i xDrive",
+    "production_year_start": 2016,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Inline-6",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
