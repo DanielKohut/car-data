@@ -12586,3 +12586,777 @@
     ]
   }
 ],
+[
+  {
+    "id": 716,
+    "brand": "BMW",
+    "model": "M850i",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Convertible", "Gran Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.4L V8 Twin Turbo",
+        "power_hp": 530,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 717,
+    "brand": "BMW",
+    "model": "M340i",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Touring"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L I6 Turbo",
+        "power_hp": 374,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "brand": "BMW",
+    "model": "Z1",
+    "production_year_start": 1989,
+    "production_year_end": 1991,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5L I6",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "brand": "BMW",
+    "model": "Z3",
+    "production_year_start": 1995,
+    "production_year_end": 2002,
+    "body_styles": ["Roadster", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L I4",
+        "power_hp": 115,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "1.9L I4",
+        "power_hp": 140,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0L I6",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.2L I6",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.8L I6",
+        "power_hp": 193,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.0L I6",
+        "power_hp": 231,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "M Roadster/Coupe 3.2L I6",
+        "power_hp": 321,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "brand": "BMW",
+    "model": "Z4",
+    "production_year_start": 2002,
+    "production_year_end": null,
+    "body_styles": ["Roadster", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L I4",
+        "power_hp": 156,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.5L I6",
+        "power_hp": 192,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.0L I6",
+        "power_hp": 231,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "M Roadster/Coupe 3.2L I6",
+        "power_hp": 343,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "Z4 G29 3.0L I6 Turbo",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 721,
+    "brand": "BMW",
+    "model": "Z8",
+    "production_year_start": 1999,
+    "production_year_end": 2003,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 722,
+    "brand": "BMW",
+    "model": "507",
+    "production_year_start": 1956,
+    "production_year_end": 1959,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.2L V8",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "brand": "BMW",
+    "model": "328",
+    "production_year_start": 1936,
+    "production_year_end": 1940,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L I6",
+        "power_hp": 80,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "brand": "BMW",
+    "model": "Isetta",
+    "production_year_start": 1955,
+    "production_year_end": 1962,
+    "body_styles": ["Microcar"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.25L Single",
+        "power_hp": 12,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 725,
+    "brand": "BMW",
+    "model": "600",
+    "production_year_start": 1957,
+    "production_year_end": 1959,
+    "body_styles": ["Microcar"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.6L Twin",
+        "power_hp": 19,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "brand": "BMW",
+    "model": "700",
+    "production_year_start": 1959,
+    "production_year_end": 1965,
+    "body_styles": ["Coupe", "Sedan", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.7L Twin",
+        "power_hp": 30,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
+[
+  {
+    "id": 727,
+    "brand": "BMW",
+    "model": "315",
+    "production_year_start": 1934,
+    "production_year_end": 1937,
+    "body_styles": ["Sedan", "Touring"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L I4",
+        "power_hp": 34,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 728,
+    "brand": "BMW",
+    "model": "3200 CS",
+    "production_year_start": 1962,
+    "production_year_end": 1965,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.2L V8",
+        "power_hp": 160,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "brand": "BMW",
+    "model": "501",
+    "production_year_start": 1952,
+    "production_year_end": 1958,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L I6",
+        "power_hp": 65,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "brand": "BMW",
+    "model": "502",
+    "production_year_start": 1954,
+    "production_year_end": 1961,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.6L V8",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "brand": "BMW",
+    "model": "503",
+    "production_year_start": 1956,
+    "production_year_end": 1959,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.2L V8",
+        "power_hp": 140,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "brand": "BMW",
+    "model": "320",
+    "production_year_start": 1975,
+    "production_year_end": 1983,
+    "body_styles": ["Sedan", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L I4",
+        "power_hp": 109,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "brand": "BMW",
+    "model": "2002 Turbo",
+    "production_year_start": 1973,
+    "production_year_end": 1975,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L I4 Turbo",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "brand": "BMW",
+    "model": "i3",
+    "production_year_start": 2013,
+    "production_year_end": 2022,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 170,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "Electric Motor S",
+        "power_hp": 184,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 735,
+    "brand": "BMW",
+    "model": "i4",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Gran Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "eDrive40",
+        "power_hp": 340,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "M50",
+        "power_hp": 544,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 736,
+    "brand": "BMW",
+    "model": "i5",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Touring"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "eDrive40",
+        "power_hp": 340,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "M60 xDrive",
+        "power_hp": 601,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 737,
+    "brand": "BMW",
+    "model": "i7",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "xDrive60",
+        "power_hp": 544,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "M70 xDrive",
+        "power_hp": 659,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "brand": "BMW",
+    "model": "i8",
+    "production_year_start": 2014,
+    "production_year_end": 2020,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Hybrid"],
+    "engines": [
+      {
+        "name": "1.5L I3 Turbo + Electric",
+        "power_hp": 362,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 739,
+    "brand": "BMW",
+    "model": "iX",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "xDrive40",
+        "power_hp": 326,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "xDrive50",
+        "power_hp": 523,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "M60",
+        "power_hp": 619,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "brand": "BMW",
+    "model": "iX1",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "xDrive30",
+        "power_hp": 313,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 741,
+    "brand": "BMW",
+    "model": "iX3",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 286,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "brand": "BMW",
+    "model": "X1",
+    "production_year_start": 2009,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L I4 Petrol",
+        "power_hp": 192,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0L I4 Diesel",
+        "power_hp": 150,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "brand": "BMW",
+    "model": "X2",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L I4 Petrol",
+        "power_hp": 192,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0L I4 Diesel",
+        "power_hp": 150,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 744,
+    "brand": "BMW",
+    "model": "X3",
+    "production_year_start": 2003,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Electric"],
+    "engines": [
+      {
+        "name": "2.0L I4 Petrol",
+        "power_hp": 184,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0L I4 Diesel",
+        "power_hp": 150,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.0L I6 Petrol",
+        "power_hp": 360,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0L I6 Diesel",
+        "power_hp": 286,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "Electric Motor (iX3)",
+        "power_hp": 286,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 745,
+    "brand": "BMW",
+    "model": "X4",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L I4 Petrol",
+        "power_hp": 184,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0L I6 Petrol",
+        "power_hp": 360,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 746,
+    "brand": "BMW",
+    "model": "X5",
+    "production_year_start": 1999,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0L I6 Petrol",
+        "power_hp": 333,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0L I6 Diesel",
+        "power_hp": 265,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.4L V8",
+        "power_hp": 530,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0L I6 Plug-in Hybrid",
+        "power_hp": 394,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 747,
+    "brand": "BMW",
+    "model": "X6",
+    "production_year_start": 2008,
+    "production_year_end": null,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      {
+        "name": "3.0L I6 Petrol",
+        "power_hp": 333,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.4L V8",
+        "power_hp": 530,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0L I6 Diesel",
+        "power_hp": 265,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0L I6 Hybrid",
+        "power_hp": 485,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 748,
+    "brand": "BMW",
+    "model": "X7",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.0L I6 Petrol",
+        "power_hp": 333,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.4L V8",
+        "power_hp": 530,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.0L I6 Diesel",
+        "power_hp": 265,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 749,
+    "brand": "BMW",
+    "model": "XM",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Hybrid"],
+    "engines": [
+      {
+        "name": "4.4L V8 Plug-in Hybrid",
+        "power_hp": 653,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "4.4L V8 Plug-in Hybrid Label Red",
+        "power_hp": 748,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
