@@ -13360,3 +13360,249 @@
     ]
   }
 ],
+[
+  {
+    "id": 750,
+    "brand": "Borgward",
+    "model": "Arabella",
+    "production_year_start": 1959,
+    "production_year_end": 1961,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "brand": "Borgward",
+    "model": "BX3",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L Turbo Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 752,
+    "brand": "Borgward",
+    "model": "BX5",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L Turbo Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 190,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 753,
+    "brand": "Borgward",
+    "model": "BX6",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 224,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 754,
+    "brand": "Borgward",
+    "model": "BX7",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 224,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 755,
+    "brand": "Borgward",
+    "model": "BX7 TS",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 231,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 756,
+    "brand": "Borgward",
+    "model": "Hansa 1100",
+    "production_year_start": 1952,
+    "production_year_end": 1954,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.1L Inline-4",
+        "power_hp": 40,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "brand": "Borgward",
+    "model": "Hansa 1500",
+    "production_year_start": 1949,
+    "production_year_end": 1954,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 52,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 758,
+    "brand": "Borgward",
+    "model": "Hansa 1800",
+    "production_year_start": 1949,
+    "production_year_end": 1952,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Inline-4",
+        "power_hp": 60,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 759,
+    "brand": "Borgward",
+    "model": "Hansa 2400",
+    "production_year_start": 1952,
+    "production_year_end": 1959,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.4L Inline-6",
+        "power_hp": 82,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 760,
+    "brand": "Borgward",
+    "model": "Isabella",
+    "production_year_start": 1954,
+    "production_year_end": 1962,
+    "body_styles": ["Saloon", "Coupé", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 60,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 761,
+    "brand": "Borgward",
+    "model": "Isabella Coupé",
+    "production_year_start": 1957,
+    "production_year_end": 1961,
+    "body_styles": ["Coupé"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 75,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 762,
+    "brand": "Borgward",
+    "model": "Isabella TS",
+    "production_year_start": 1954,
+    "production_year_end": 1962,
+    "body_styles": ["Saloon", "Coupé"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 75,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "brand": "Borgward",
+    "model": "P100",
+    "production_year_start": 1959,
+    "production_year_end": 1962,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.3L Inline-6",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
