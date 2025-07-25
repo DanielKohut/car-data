@@ -12231,3 +12231,358 @@
     ]
   }
 ],
+[
+  {
+    "id": 703,
+    "brand": "BMW",
+    "model": "M1",
+    "production_year_start": 1978,
+    "production_year_end": 1981,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L Inline-6",
+        "power_hp": 277,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "brand": "BMW",
+    "model": "M2",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L Turbo Inline-6",
+        "power_hp": 370,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "M2 Competition",
+        "power_hp": 410,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "M2 CS",
+        "power_hp": 450,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "M2 G87",
+        "power_hp": 460,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 705,
+    "brand": "BMW",
+    "model": "M3",
+    "production_year_start": 1986,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Coupe", "Convertible", "Touring"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "E30 2.3L I4",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "E36 3.0L I6",
+        "power_hp": 286,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "E46 3.2L I6",
+        "power_hp": 343,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "SMG"]
+      },
+      {
+        "name": "E92 4.0L V8",
+        "power_hp": 420,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "DCT"]
+      },
+      {
+        "name": "F80 3.0L I6 Turbo",
+        "power_hp": 431,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "DCT"]
+      },
+      {
+        "name": "G80 3.0L I6 Twin Turbo",
+        "power_hp": 480,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "G81 M3 Touring",
+        "power_hp": 510,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "brand": "BMW",
+    "model": "M4",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "F82 3.0L I6 Twin Turbo",
+        "power_hp": 431,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "DCT"]
+      },
+      {
+        "name": "F83 3.0L I6 Twin Turbo (Convertible)",
+        "power_hp": 431,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "DCT"]
+      },
+      {
+        "name": "G82/G83 3.0L I6 Twin Turbo",
+        "power_hp": 510,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "brand": "BMW",
+    "model": "M5",
+    "production_year_start": 1984,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "E28 3.5L I6",
+        "power_hp": 286,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "E34 3.6L I6",
+        "power_hp": 315,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "E39 5.0L V8",
+        "power_hp": 400,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "E60 5.0L V10",
+        "power_hp": 507,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "SMG"]
+      },
+      {
+        "name": "F10 4.4L V8 Twin Turbo",
+        "power_hp": 560,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic", "DCT"]
+      },
+      {
+        "name": "F90 4.4L V8 Twin Turbo",
+        "power_hp": 625,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "brand": "BMW",
+    "model": "M6",
+    "production_year_start": 1983,
+    "production_year_end": 2018,
+    "body_styles": ["Coupe", "Convertible", "Gran Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "E24 3.5L I6",
+        "power_hp": 286,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "E63/E64 5.0L V10",
+        "power_hp": 507,
+        "fuel": "Petrol",
+        "transmissions": ["SMG"]
+      },
+      {
+        "name": "F12/F13/F06 4.4L V8 Twin Turbo",
+        "power_hp": 560,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic", "DCT"]
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "brand": "BMW",
+    "model": "M8",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Convertible", "Gran Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.4L V8 Twin Turbo",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "Competition 4.4L V8 Twin Turbo",
+        "power_hp": 625,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "brand": "BMW",
+    "model": "M135i",
+    "production_year_start": 2012,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L I6 Turbo (F20)",
+        "power_hp": 320,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0L I4 Turbo (F40)",
+        "power_hp": 306,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "brand": "BMW",
+    "model": "M140i",
+    "production_year_start": 2016,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L I6 Turbo",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "brand": "BMW",
+    "model": "M235i",
+    "production_year_start": 2014,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Gran Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L I6 Turbo (F22)",
+        "power_hp": 326,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0L I4 Turbo (F44 Gran Coupe)",
+        "power_hp": 306,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "brand": "BMW",
+    "model": "M240i",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.0L I6 Turbo (F22)",
+        "power_hp": 340,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.0L I6 Turbo (G42)",
+        "power_hp": 374,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "brand": "BMW",
+    "model": "M550i",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.4L V8 Twin Turbo",
+        "power_hp": 462,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "brand": "BMW",
+    "model": "M760Li",
+    "production_year_start": 2016,
+    "production_year_end": 2022,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.6L V12 Twin Turbo",
+        "power_hp": 610,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
