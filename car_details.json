@@ -13606,3 +13606,283 @@
     ]
   }
 ],
+[
+  {
+    "id": 764,
+    "brand": "Bowler",
+    "model": "Bulldog",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Off-road"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8 Supercharged",
+        "power_hp": 575,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "brand": "Bowler",
+    "model": "CSP 575",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Off-road"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8 Supercharged",
+        "power_hp": 575,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "brand": "Bowler",
+    "model": "CSP V8 Prototype P1",
+    "production_year_start": 2020,
+    "production_year_end": 2021,
+    "body_styles": ["SUV", "Off-road", "Prototype"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8 Supercharged (Prototype)",
+        "power_hp": 575,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "brand": "Bowler",
+    "model": "CSP V8 Prototype P2",
+    "production_year_start": 2021,
+    "production_year_end": 2022,
+    "body_styles": ["SUV", "Off-road", "Prototype"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8 Supercharged (Prototype)",
+        "power_hp": 575,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 768,
+    "brand": "Bowler",
+    "model": "Defender Challenge",
+    "production_year_start": 2014,
+    "production_year_end": 2016,
+    "body_styles": ["SUV", "Off-road", "Rally"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.2L TDCi Diesel",
+        "power_hp": 170,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "brand": "Bowler",
+    "model": "EXR",
+    "production_year_start": 2011,
+    "production_year_end": 2014,
+    "body_styles": ["SUV", "Off-road", "Rally"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8 Supercharged",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "brand": "Bowler",
+    "model": "EXR S",
+    "production_year_start": 2012,
+    "production_year_end": 2016,
+    "body_styles": ["SUV", "Off-road", "Rally"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.0L V8 Supercharged",
+        "power_hp": 550,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 771,
+    "brand": "Bowler",
+    "model": "Nemesis",
+    "production_year_start": 2006,
+    "production_year_end": 2010,
+    "body_styles": ["SUV", "Off-road", "Rally"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.4L V8",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 772,
+    "brand": "Bowler",
+    "model": "Pajero Bowler",
+    "production_year_start": 1995,
+    "production_year_end": 1998,
+    "body_styles": ["SUV", "Off-road", "Rally"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 220,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.8L Turbo Diesel",
+        "power_hp": 125,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "brand": "Bowler",
+    "model": "Pennine V6 110 Prototype",
+    "production_year_start": 1985,
+    "production_year_end": 1987,
+    "body_styles": ["SUV", "Off-road", "Prototype"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L V6",
+        "power_hp": 160,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "brand": "Bowler",
+    "model": "Raptor",
+    "production_year_start": 1991,
+    "production_year_end": 1995,
+    "body_styles": ["SUV", "Off-road"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L Rover V8",
+        "power_hp": 180,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "brand": "Bowler",
+    "model": "Tomcat 88",
+    "production_year_start": 1988,
+    "production_year_end": 1995,
+    "body_styles": ["SUV", "Off-road"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L Rover V8",
+        "power_hp": 190,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "brand": "Bowler",
+    "model": "Tomcat 100",
+    "production_year_start": 1993,
+    "production_year_end": 2000,
+    "body_styles": ["SUV", "Off-road"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.5L Rover V8",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 777,
+    "brand": "Bowler",
+    "model": "Wildcat 100",
+    "production_year_start": 1997,
+    "production_year_end": 2001,
+    "body_styles": ["SUV", "Off-road", "Rally"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.9L Rover V8",
+        "power_hp": 240,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "brand": "Bowler",
+    "model": "Wildcat 200",
+    "production_year_start": 2001,
+    "production_year_end": 2010,
+    "body_styles": ["SUV", "Off-road", "Rally"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L Rover V8",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 779,
+    "brand": "Bowler",
+    "model": "Wildcat 300",
+    "production_year_start": 2010,
+    "production_year_end": 2013,
+    "body_styles": ["SUV", "Off-road", "Rally"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.6L V8",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
