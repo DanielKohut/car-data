@@ -13886,3 +13886,600 @@
     ]
   }
 ],
+[
+  {
+    "id": 780,
+    "brand": "Brabus",
+    "model": "500",
+    "production_year_start": 2012,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "SUV", "Cabriolet", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 500,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 781,
+    "brand": "Brabus",
+    "model": "550 Adventure 4x4²",
+    "production_year_start": 2017,
+    "production_year_end": 2018,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 550,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "brand": "Brabus",
+    "model": "600",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "SUV", "Cabriolet", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 600,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "brand": "Brabus",
+    "model": "700",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "SUV", "Cabriolet", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 700,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "brand": "Brabus",
+    "model": "700 Widestar",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 700,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 785,
+    "brand": "Brabus",
+    "model": "800",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "SUV", "Cabriolet", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 800,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 786,
+    "brand": "Brabus",
+    "model": "800 Adventure XLP",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Pickup", "SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 800,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "brand": "Brabus",
+    "model": "800 Black & Gold Edition",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 800,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "brand": "Brabus",
+    "model": "850 6.0 Biturbo",
+    "production_year_start": 2013,
+    "production_year_end": 2017,
+    "body_styles": ["Sedan", "Coupe", "SUV", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L V8 Biturbo",
+        "power_hp": 850,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 789,
+    "brand": "Brabus",
+    "model": "900 Rocket",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "SUV", "Cabriolet", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.5L V8 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "brand": "Brabus",
+    "model": "900 Rocket Edition",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.5L V8 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "brand": "Brabus",
+    "model": "900 Rocket R",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.5L V8 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "brand": "Brabus",
+    "model": "E V12",
+    "production_year_start": 2003,
+    "production_year_end": 2012,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.3L V12 Biturbo",
+        "power_hp": 800,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "brand": "Brabus",
+    "model": "G V12 900",
+    "production_year_start": 2019,
+    "production_year_end": 2020,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.3L V12 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "brand": "Brabus",
+    "model": "G63 700",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 700,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 795,
+    "brand": "Brabus",
+    "model": "G63 800",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 800,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "brand": "Brabus",
+    "model": "G65 900",
+    "production_year_start": 2016,
+    "production_year_end": 2018,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L V12 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "brand": "Brabus",
+    "model": "GLE 900 Rocket Edition",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["SUV", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.5L V8 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "brand": "Brabus",
+    "model": "Maybach 900",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L V12 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "brand": "Brabus",
+    "model": "Rocket 900",
+    "production_year_start": 2015,
+    "production_year_end": 2018,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L V12 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "brand": "Brabus",
+    "model": "Rocket 900 Cabrio",
+    "production_year_start": 2018,
+    "production_year_end": 2019,
+    "body_styles": ["Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L V12 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 801,
+    "brand": "Brabus",
+    "model": "Rocket 1000",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.3L V12 Biturbo",
+        "power_hp": 1000,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "brand": "Brabus",
+    "model": "Shadow 800",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.0L V8 Biturbo",
+        "power_hp": 800,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "brand": "Brabus",
+    "model": "SL Roadster 800",
+    "production_year_start": 2013,
+    "production_year_end": 2016,
+    "body_styles": ["Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "6.0L V12 Biturbo",
+        "power_hp": 800,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "brand": "Brabus",
+    "model": "Smart ForTwo Ultimate 125",
+    "production_year_start": 2015,
+    "production_year_end": 2019,
+    "body_styles": ["Microcar", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.9L Turbo Inline-3",
+        "power_hp": 125,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "brand": "Brabus",
+    "model": "Smart ForTwo Ultimate 112",
+    "production_year_start": 2011,
+    "production_year_end": 2015,
+    "body_styles": ["Microcar", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Turbo Inline-3",
+        "power_hp": 112,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "brand": "Brabus",
+    "model": "Smart ForTwo Ultimate R",
+    "production_year_start": 2006,
+    "production_year_end": 2010,
+    "body_styles": ["Microcar", "Cabriolet"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.7L Turbo Inline-3",
+        "power_hp": 101,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 807,
+    "brand": "Brabus",
+    "model": "Smart ForFour Ultimate 101",
+    "production_year_start": 2005,
+    "production_year_end": 2007,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 101,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "brand": "Brabus",
+    "model": "Ultimate E",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Microcar", "Cabriolet"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 92,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 809,
+    "brand": "Brabus",
+    "model": "Ultimate E Facelift",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Microcar", "Cabriolet"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 92,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 810,
+    "brand": "Brabus",
+    "model": "92R",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Microcar", "Cabriolet"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 92,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 811,
+    "brand": "Brabus",
+    "model": "Classic",
+    "production_year_start": 2010,
+    "production_year_end": null,
+    "body_styles": ["Various"],
+    "fuel_types": ["Petrol", "Diesel", "Electric"],
+    "engines": [
+      {
+        "name": "Various Engines (Restoration)",
+        "power_hp": null,
+        "fuel": null,
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 812,
+    "brand": "Brabus",
+    "model": "92R Cabrio",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Cabriolet"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 92,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "brand": "Brabus",
+    "model": "One of Ten",
+    "production_year_start": 2020,
+    "production_year_end": 2020,
+    "body_styles": ["SUV", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "V12 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 814,
+    "brand": "Brabus",
+    "model": "Brabus S 900",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.5L V8 Biturbo",
+        "power_hp": 900,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
