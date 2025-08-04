@@ -14483,3 +14483,143 @@
     ]
   }
 ],
+[
+  {
+    "id": 815,
+    "brand": "Bramwith",
+    "model": "Badsworth",
+    "production_year_start": 1985,
+    "production_year_end": null,
+    "body_styles": ["Saloon", "Limousine"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Ford)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.5L Diesel (Ford)",
+        "power_hp": 75,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 816,
+    "brand": "Bramwith",
+    "model": "Barnsdale",
+    "production_year_start": 1990,
+    "production_year_end": null,
+    "body_styles": ["Limousine", "Stretch Limousine"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Ford)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.5L Diesel (Ford)",
+        "power_hp": 75,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 817,
+    "brand": "Bramwith",
+    "model": "Branton",
+    "production_year_start": 1990,
+    "production_year_end": null,
+    "body_styles": ["Saloon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Ford)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.5L Diesel (Ford)",
+        "power_hp": 75,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "brand": "Bramwith",
+    "model": "Bramwith Landaulette",
+    "production_year_start": 1987,
+    "production_year_end": null,
+    "body_styles": ["Landaulette", "Limousine"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Ford)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.5L Diesel (Ford)",
+        "power_hp": 75,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 819,
+    "brand": "Bramwith",
+    "model": "Bramwith Limousine",
+    "production_year_start": 1987,
+    "production_year_end": null,
+    "body_styles": ["Limousine", "Stretch Limousine"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Ford)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.5L Diesel (Ford)",
+        "power_hp": 75,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 820,
+    "brand": "Bramwith",
+    "model": "York",
+    "production_year_start": 2000,
+    "production_year_end": null,
+    "body_styles": ["Convertible", "Saloon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4 (Ford)",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.5L Diesel (Ford)",
+        "power_hp": 75,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
