@@ -14623,3 +14623,39 @@
     ]
   }
 ],
+[
+  {
+    "id": 821,
+    "brand": "Brasinca",
+    "model": "GT 4200 - 1st Series, Prototype",
+    "production_year_start": 1963,
+    "production_year_end": 1964,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L Inline-6 (Chevrolet)",
+        "power_hp": 155,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "brand": "Brasinca",
+    "model": "Uirapuru",
+    "production_year_start": 1964,
+    "production_year_end": 1966,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.2L Inline-6 (Chevrolet)",
+        "power_hp": 155,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
