@@ -14659,3 +14659,698 @@
     ]
   }
 ],
+[
+  {
+    "id": 823,
+    "brand": "Brilliance",
+    "model": "BC3",
+    "production_year_start": 2007,
+    "production_year_end": 2013,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Inline-4",
+        "power_hp": 126,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 824,
+    "brand": "Brilliance",
+    "model": "BS2",
+    "production_year_start": 2008,
+    "production_year_end": 2011,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 85,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 825,
+    "brand": "Brilliance",
+    "model": "BS4",
+    "production_year_start": 2006,
+    "production_year_end": 2014,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 826,
+    "brand": "Brilliance",
+    "model": "BS6",
+    "production_year_start": 2000,
+    "production_year_end": 2010,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 129,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 827,
+    "brand": "Brilliance",
+    "model": "C3",
+    "production_year_start": 2013,
+    "production_year_end": 2016,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "brand": "Brilliance",
+    "model": "Dolphin",
+    "production_year_start": 2007,
+    "production_year_end": 2010,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 107,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 829,
+    "brand": "Brilliance",
+    "model": "FRV",
+    "production_year_start": 2008,
+    "production_year_end": 2013,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 85,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "brand": "Brilliance",
+    "model": "FRV Cross",
+    "production_year_start": 2008,
+    "production_year_end": 2013,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 831,
+    "brand": "Brilliance",
+    "model": "FSV",
+    "production_year_start": 2009,
+    "production_year_end": 2013,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "brand": "Brilliance",
+    "model": "Galena",
+    "production_year_start": 2006,
+    "production_year_end": 2010,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 129,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 833,
+    "brand": "Brilliance",
+    "model": "Grandeur",
+    "production_year_start": 2011,
+    "production_year_end": 2014,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Inline-4",
+        "power_hp": 136,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "brand": "Brilliance",
+    "model": "H220",
+    "production_year_start": 2013,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "brand": "Brilliance",
+    "model": "H230",
+    "production_year_start": 2012,
+    "production_year_end": 2020,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "brand": "Brilliance",
+    "model": "H3",
+    "production_year_start": 2017,
+    "production_year_end": 2021,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "brand": "Brilliance",
+    "model": "H320",
+    "production_year_start": 2012,
+    "production_year_end": 2019,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 838,
+    "brand": "Brilliance",
+    "model": "H330",
+    "production_year_start": 2013,
+    "production_year_end": 2019,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 839,
+    "brand": "Brilliance",
+    "model": "H530",
+    "production_year_start": 2011,
+    "production_year_end": 2020,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 110,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "brand": "Brilliance",
+    "model": "H530 EV",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 136,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 841,
+    "brand": "Brilliance",
+    "model": "H7",
+    "production_year_start": 2013,
+    "production_year_end": 2021,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.0L Turbo Inline-4",
+        "power_hp": 204,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 842,
+    "brand": "Brilliance",
+    "model": "JunJie",
+    "production_year_start": 2006,
+    "production_year_end": 2014,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "brand": "Brilliance",
+    "model": "JunJie Cross",
+    "production_year_start": 2009,
+    "production_year_end": 2013,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 844,
+    "brand": "Brilliance",
+    "model": "JunJie FRV",
+    "production_year_start": 2008,
+    "production_year_end": 2013,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.3L Inline-4",
+        "power_hp": 85,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 845,
+    "brand": "Brilliance",
+    "model": "JunJie FSV",
+    "production_year_start": 2009,
+    "production_year_end": 2013,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 846,
+    "brand": "Brilliance",
+    "model": "Junjine Tun",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "brand": "Brilliance",
+    "model": "JunJie Wagon",
+    "production_year_start": 2010,
+    "production_year_end": 2014,
+    "body_styles": ["Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 100,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 848,
+    "brand": "Brilliance",
+    "model": "Kubao",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Turbo Inline-4",
+        "power_hp": 190,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 849,
+    "brand": "Brilliance",
+    "model": "M1",
+    "production_year_start": 2011,
+    "production_year_end": 2016,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 850,
+    "brand": "Brilliance",
+    "model": "M2",
+    "production_year_start": 2011,
+    "production_year_end": 2016,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 851,
+    "brand": "Brilliance",
+    "model": "M3",
+    "production_year_start": 2011,
+    "production_year_end": 2016,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 852,
+    "brand": "Brilliance",
+    "model": "Splendor",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 853,
+    "brand": "Brilliance",
+    "model": "Tun",
+    "production_year_start": null,
+    "production_year_end": null,
+    "body_styles": ["Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 854,
+    "brand": "Brilliance",
+    "model": "V3",
+    "production_year_start": 2015,
+    "production_year_end": 2020,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 112,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 855,
+    "brand": "Brilliance",
+    "model": "V5",
+    "production_year_start": 2012,
+    "production_year_end": 2017,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 136,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 856,
+    "brand": "Brilliance",
+    "model": "V6",
+    "production_year_start": 2017,
+    "production_year_end": 2020,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "brand": "Brilliance",
+    "model": "V7",
+    "production_year_start": 2018,
+    "production_year_end": 2021,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Turbo Inline-4",
+        "power_hp": 204,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 858,
+    "brand": "Brilliance",
+    "model": "X1",
+    "production_year_start": 2011,
+    "production_year_end": 2017,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 859,
+    "brand": "Brilliance",
+    "model": "X3",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Turbo Inline-4",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 860,
+    "brand": "Brilliance",
+    "model": "Zhonghua",
+    "production_year_start": 2000,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "SUV", "Wagon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "Various",
+        "power_hp": null,
+        "fuel": "Petrol/Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 861,
+    "brand": "Brilliance",
+    "model": "Zunchi",
+    "production_year_start": 2000,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "Various",
+        "power_hp": null,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  }
+],
