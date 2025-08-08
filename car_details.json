@@ -16257,3 +16257,279 @@
     ]
   }
 ],
+[
+  {
+    "id": 915,
+    "brand": "Buick",
+    "model": "Apollo",
+    "years": "1973–1975",
+    "description": "A compact car produced to compete with other entry-level American sedans, sharing its platform with the Chevrolet Nova.",
+    "type": "Compact sedan/coupe"
+  },
+  {
+    "id": 916,
+    "brand": "Buick",
+    "model": "Cascada",
+    "years": "2016–2019",
+    "description": "A convertible marketed by Buick in North America, originally designed by Opel and built in Poland.",
+    "type": "Convertible"
+  },
+  {
+    "id": 917,
+    "brand": "Buick",
+    "model": "Century",
+    "years": "1936–1942, 1954–1958, 1973–2005",
+    "description": "A long-running nameplate representing mid-size to full-size sedans and coupes over multiple generations.",
+    "type": "Mid-size/full-size sedan/coupe"
+  },
+  {
+    "id": 918,
+    "brand": "Buick",
+    "model": "Century Custom",
+    "years": "1990s–2000s",
+    "description": "A higher trim level of the Buick Century, offering upgraded interior features and exterior accents.",
+    "type": "Mid-size sedan"
+  },
+  {
+    "id": 919,
+    "brand": "Buick",
+    "model": "Electra",
+    "years": "1959–1990",
+    "description": "Full-size luxury sedan and coupe, often equipped with Buick's largest engines and premium features.",
+    "type": "Full-size luxury sedan/coupe"
+  },
+  {
+    "id": 920,
+    "brand": "Buick",
+    "model": "Eight",
+    "years": "1931–1953",
+    "description": "Classic Buick model powered by a straight-eight engine, available in various body styles.",
+    "type": "Luxury sedan/coupe/convertible"
+  },
+  {
+    "id": 921,
+    "brand": "Buick",
+    "model": "Enclave",
+    "years": "2008–present",
+    "description": "Three-row mid-size luxury SUV, known for its spacious interior and smooth ride.",
+    "type": "Mid-size luxury SUV"
+  },
+  {
+    "id": 922,
+    "brand": "Buick",
+    "model": "Encore",
+    "years": "2013–present",
+    "description": "A subcompact crossover SUV designed for urban driving, offering upscale features in a small package.",
+    "type": "Subcompact SUV"
+  },
+  {
+    "id": 923,
+    "brand": "Buick",
+    "model": "Encore GX",
+    "years": "2020–present",
+    "description": "A slightly larger and more premium variant of the Buick Encore with updated styling and technology.",
+    "type": "Compact SUV"
+  },
+  {
+    "id": 924,
+    "brand": "Buick",
+    "model": "Enspire",
+    "years": "2018 (concept)",
+    "description": "An electric SUV concept showcasing Buick's future design language and electrification strategy.",
+    "type": "Concept SUV"
+  },
+  {
+    "id": 925,
+    "brand": "Buick",
+    "model": "Envision",
+    "years": "2016–present",
+    "description": "A compact luxury SUV positioned between the Encore GX and Enclave.",
+    "type": "Compact luxury SUV"
+  },
+  {
+    "id": 926,
+    "brand": "Buick",
+    "model": "Estate Wagon",
+    "years": "1970–1996",
+    "description": "Full-size station wagon based on the LeSabre and Electra platforms, designed for family use.",
+    "type": "Full-size station wagon"
+  },
+  {
+    "id": 927,
+    "brand": "Buick",
+    "model": "Excelle",
+    "years": "2003–present (China)",
+    "description": "Compact sedan primarily sold in China under the Buick brand, derived from GM's global platforms.",
+    "type": "Compact sedan"
+  },
+  {
+    "id": 928,
+    "brand": "Buick",
+    "model": "GL6",
+    "years": "2017–present",
+    "description": "A six-seat compact MPV for the Chinese market, based on the Opel Zafira platform.",
+    "type": "Compact MPV"
+  },
+  {
+    "id": 929,
+    "brand": "Buick",
+    "model": "GL8",
+    "years": "1999–present",
+    "description": "A large MPV popular in China, widely used for executive and chauffeur-driven transport.",
+    "type": "Large MPV"
+  },
+  {
+    "id": 930,
+    "brand": "Buick",
+    "model": "GL8 Avenir",
+    "years": "2017–present",
+    "description": "A luxury version of the GL8 MPV, featuring high-end interior materials and advanced technology.",
+    "type": "Luxury MPV"
+  },
+  {
+    "id": 931,
+    "brand": "Buick",
+    "model": "GS",
+    "years": "1965–2004",
+    "description": "Gran Sport performance-oriented models offered across several Buick nameplates.",
+    "type": "Performance trim"
+  },
+  {
+    "id": 932,
+    "brand": "Buick",
+    "model": "Invicta",
+    "years": "1959–1963",
+    "description": "Full-size model positioned between the LeSabre and Electra in Buick's lineup.",
+    "type": "Full-size sedan/coupe"
+  },
+  {
+    "id": 933,
+    "brand": "Buick",
+    "model": "LaCrosse",
+    "years": "2005–2019",
+    "description": "Mid-size to full-size sedan with premium features, sold globally.",
+    "type": "Mid-size/full-size sedan"
+  }
+],
+[
+  {
+    "id": 934,
+    "brand": "Buick",
+    "model": "LeSabre",
+    "years": "1959–2005",
+    "description": "One of Buick’s longest-running nameplates, offering full-size comfort and reliability for over four decades.",
+    "type": "Full-size sedan/coupe"
+  },
+  {
+    "id": 935,
+    "brand": "Buick",
+    "model": "Lucerne",
+    "years": "2006–2011",
+    "description": "A full-size sedan replacing the LeSabre and Park Avenue, known for its smooth ride and luxury appointments.",
+    "type": "Full-size luxury sedan"
+  },
+  {
+    "id": 936,
+    "brand": "Buick",
+    "model": "Park Avenue",
+    "years": "1975–2005",
+    "description": "A top-tier full-size luxury sedan, recognized for its spacious interior and upscale features.",
+    "type": "Full-size luxury sedan"
+  },
+  {
+    "id": 937,
+    "brand": "Buick",
+    "model": "Rainier",
+    "years": "2004–2007",
+    "description": "A mid-size luxury SUV based on GM's GMT360 platform, offering a quiet ride and V8 option.",
+    "type": "Mid-size luxury SUV"
+  },
+  {
+    "id": 938,
+    "brand": "Buick",
+    "model": "Reatta",
+    "years": "1988–1991",
+    "description": "A hand-built two-seat luxury coupe and convertible, positioned as Buick’s halo car.",
+    "type": "Luxury coupe/convertible"
+  },
+  {
+    "id": 939,
+    "brand": "Buick",
+    "model": "Regal",
+    "years": "1973–2020",
+    "description": "Mid-size car offered in sedan, coupe, and wagon forms, also known for high-performance GS trims.",
+    "type": "Mid-size sedan/coupe/wagon"
+  },
+  {
+    "id": 940,
+    "brand": "Buick",
+    "model": "Regal TourX",
+    "years": "2018–2020",
+    "description": "A rugged wagon variant of the Regal, based on the Opel Insignia Country Tourer.",
+    "type": "Wagon"
+  },
+  {
+    "id": 941,
+    "brand": "Buick",
+    "model": "Rendezvous",
+    "years": "2002–2007",
+    "description": "A crossover SUV combining SUV utility with minivan-like versatility.",
+    "type": "Mid-size crossover SUV"
+  },
+  {
+    "id": 942,
+    "brand": "Buick",
+    "model": "Riviera",
+    "years": "1963–1999",
+    "description": "A personal luxury coupe known for its distinctive styling and comfortable ride.",
+    "type": "Luxury coupe"
+  },
+  {
+    "id": 943,
+    "brand": "Buick",
+    "model": "Roadmaster",
+    "years": "1936–1958, 1991–1996",
+    "description": "Large premium Buick, available as sedan, coupe, and station wagon over multiple generations.",
+    "type": "Full-size luxury sedan/wagon"
+  },
+  {
+    "id": 944,
+    "brand": "Buick",
+    "model": "Skylark",
+    "years": "1953–1998",
+    "description": "One of Buick’s most famous models, offered as a compact, mid-size, and luxury convertible across decades.",
+    "type": "Compact/mid-size car"
+  },
+  {
+    "id": 945,
+    "brand": "Buick",
+    "model": "Special",
+    "years": "1936–1969",
+    "description": "Entry-level full-size and later mid-size Buick, known for affordability and practicality.",
+    "type": "Full-size/mid-size sedan/coupe"
+  },
+  {
+    "id": 946,
+    "brand": "Buick",
+    "model": "Terraza",
+    "years": "2005–2007",
+    "description": "A minivan sharing its platform with Chevrolet Uplander, aimed at premium family transport.",
+    "type": "Minivan"
+  },
+  {
+    "id": 947,
+    "brand": "Buick",
+    "model": "Verano",
+    "years": "2011–2017 (North America), 2010–present (China)",
+    "description": "Compact premium sedan positioned below the Regal, offering refined comfort.",
+    "type": "Compact luxury sedan"
+  },
+  {
+    "id": 948,
+    "brand": "Buick",
+    "model": "Wildcat",
+    "years": "1962–1970, 1985 (concept), 2022 (concept)",
+    "description": "A performance-oriented full-size model and later concept cars showcasing Buick’s future design.",
+    "type": "Full-size performance sedan/concept"
+  }
+],
