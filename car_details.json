@@ -16533,3 +16533,221 @@
     "type": "Full-size performance sedan/concept"
   }
 ],
+[
+  {
+    "id": 949,
+    "brand": "BYD",
+    "model": "Atto 3",
+    "generation": "",
+    "year_from": 2022,
+    "year_to": null
+  },
+  {
+    "id": 950,
+    "brand": "BYD",
+    "model": "Destroyer 05",
+    "generation": "",
+    "year_from": 2022,
+    "year_to": null
+  },
+  {
+    "id": 951,
+    "brand": "BYD",
+    "model": "D1",
+    "generation": "",
+    "year_from": 2020,
+    "year_to": null
+  },
+  {
+    "id": 952,
+    "brand": "BYD",
+    "model": "Dolphin",
+    "generation": "",
+    "year_from": 2021,
+    "year_to": null
+  },
+  {
+    "id": 953,
+    "brand": "BYD",
+    "model": "e1",
+    "generation": "",
+    "year_from": 2019,
+    "year_to": 2021
+  },
+  {
+    "id": 954,
+    "brand": "BYD",
+    "model": "e2",
+    "generation": "",
+    "year_from": 2019,
+    "year_to": 2022
+  },
+  {
+    "id": 955,
+    "brand": "BYD",
+    "model": "e3",
+    "generation": "",
+    "year_from": 2019,
+    "year_to": 2021
+  },
+  {
+    "id": 956,
+    "brand": "BYD",
+    "model": "e5",
+    "generation": "",
+    "year_from": 2015,
+    "year_to": 2019
+  },
+  {
+    "id": 957,
+    "brand": "BYD",
+    "model": "e6",
+    "generation": "",
+    "year_from": 2009,
+    "year_to": null
+  },
+  {
+    "id": 958,
+    "brand": "BYD",
+    "model": "Frigate 07",
+    "generation": "",
+    "year_from": 2022,
+    "year_to": null
+  },
+  {
+    "id": 959,
+    "brand": "BYD",
+    "model": "Han",
+    "generation": "",
+    "year_from": 2020,
+    "year_to": null
+  },
+  {
+    "id": 960,
+    "brand": "BYD",
+    "model": "Qin",
+    "generation": "",
+    "year_from": 2013,
+    "year_to": null
+  },
+  {
+    "id": 961,
+    "brand": "BYD",
+    "model": "Qin Plus",
+    "generation": "",
+    "year_from": 2021,
+    "year_to": null
+  },
+  {
+    "id": 962,
+    "brand": "BYD",
+    "model": "Seal",
+    "generation": "",
+    "year_from": 2022,
+    "year_to": null
+  },
+  {
+    "id": 963,
+    "brand": "BYD",
+    "model": "Sealion 6",
+    "generation": "",
+    "year_from": 2024,
+    "year_to": null
+  },
+  {
+    "id": 964,
+    "brand": "BYD",
+    "model": "Seal U",
+    "generation": "",
+    "year_from": 2023,
+    "year_to": null
+  },
+  {
+    "id": 965,
+    "brand": "BYD",
+    "model": "Seagull",
+    "generation": "",
+    "year_from": 2023,
+    "year_to": null
+  },
+  {
+    "id": 966,
+    "brand": "BYD",
+    "model": "Shark",
+    "generation": "",
+    "year_from": 2024,
+    "year_to": null
+  },
+  {
+    "id": 967,
+    "brand": "BYD",
+    "model": "Song",
+    "generation": "",
+    "year_from": 2015,
+    "year_to": null
+  },
+  {
+    "id": 968,
+    "brand": "BYD",
+    "model": "Song Plus",
+    "generation": "",
+    "year_from": 2020,
+    "year_to": null
+  },
+  {
+    "id": 969,
+    "brand": "BYD",
+    "model": "Song Pro",
+    "generation": "",
+    "year_from": 2019,
+    "year_to": null
+  },
+  {
+    "id": 970,
+    "brand": "BYD",
+    "model": "Tang",
+    "generation": "",
+    "year_from": 2015,
+    "year_to": null
+  },
+  {
+    "id": 971,
+    "brand": "BYD",
+    "model": "Yuan",
+    "generation": "",
+    "year_from": 2016,
+    "year_to": null
+  },
+  {
+    "id": 972,
+    "brand": "BYD",
+    "model": "Yuan Plus",
+    "generation": "",
+    "year_from": 2021,
+    "year_to": null
+  },
+  {
+    "id": 973,
+    "brand": "BYD",
+    "model": "Yuan Pro",
+    "generation": "",
+    "year_from": 2021,
+    "year_to": null
+  },
+  {
+    "id": 974,
+    "brand": "BYD",
+    "model": "Yangwang U8",
+    "generation": "",
+    "year_from": 2023,
+    "year_to": null
+  },
+  {
+    "id": 975,
+    "brand": "BYD",
+    "model": "Yangwang U9",
+    "generation": "",
+    "year_from": 2024,
+    "year_to": null
+  }
+],
