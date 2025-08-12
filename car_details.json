@@ -16751,3 +16751,251 @@
     "year_to": null
   }
 ],
+[
+  {
+    "id": 976,
+    "brand": "Cadillac",
+    "model": "Allante",
+    "generation": null
+  },
+  {
+    "id": 977,
+    "brand": "Cadillac",
+    "model": "ATS",
+    "generation": null
+  },
+  {
+    "id": 978,
+    "brand": "Cadillac",
+    "model": "ATS Coupe",
+    "generation": null
+  },
+  {
+    "id": 979,
+    "brand": "Cadillac",
+    "model": "ATS-V",
+    "generation": null
+  },
+  {
+    "id": 980,
+    "brand": "Cadillac",
+    "model": "Brougham",
+    "generation": null
+  },
+  {
+    "id": 981,
+    "brand": "Cadillac",
+    "model": "Calais",
+    "generation": null
+  },
+  {
+    "id": 982,
+    "brand": "Cadillac",
+    "model": "Catera",
+    "generation": null
+  },
+  {
+    "id": 983,
+    "brand": "Cadillac",
+    "model": "Celestiq",
+    "generation": null
+  },
+  {
+    "id": 984,
+    "brand": "Cadillac",
+    "model": "Cimarron",
+    "generation": null
+  },
+  {
+    "id": 985,
+    "brand": "Cadillac",
+    "model": "CT4",
+    "generation": null
+  },
+  {
+    "id": 986,
+    "brand": "Cadillac",
+    "model": "CT4-V",
+    "generation": null
+  },
+  {
+    "id": 987,
+    "brand": "Cadillac",
+    "model": "CT5",
+    "generation": null
+  },
+  {
+    "id": 988,
+    "brand": "Cadillac",
+    "model": "CT5-V",
+    "generation": null
+  },
+  {
+    "id": 989,
+    "brand": "Cadillac",
+    "model": "CT6",
+    "generation": null
+  },
+  {
+    "id": 990,
+    "brand": "Cadillac",
+    "model": "CTS",
+    "generation": null
+  },
+  {
+    "id": 991,
+    "brand": "Cadillac",
+    "model": "CTS Coupe",
+    "generation": null
+  },
+  {
+    "id": 992,
+    "brand": "Cadillac",
+    "model": "CTS-V",
+    "generation": null
+  },
+  {
+    "id": 993,
+    "brand": "Cadillac",
+    "model": "DeVille",
+    "generation": null
+  },
+  {
+    "id": 994,
+    "brand": "Cadillac",
+    "model": "DTS",
+    "generation": null
+  },
+  {
+    "id": 995,
+    "brand": "Cadillac",
+    "model": "Eldorado",
+    "generation": null
+  },
+  {
+    "id": 996,
+    "brand": "Cadillac",
+    "model": "ELR",
+    "generation": null
+  },
+  {
+    "id": 997,
+    "brand": "Cadillac",
+    "model": "Escalade",
+    "generation": null
+  },
+  {
+    "id": 998,
+    "brand": "Cadillac",
+    "model": "Escalade ESV",
+    "generation": null
+  },
+  {
+    "id": 999,
+    "brand": "Cadillac",
+    "model": "Escalade EXT",
+    "generation": null
+  },
+  {
+    "id": 1000,
+    "brand": "Cadillac",
+    "model": "Escalade IQ",
+    "generation": null
+  },
+  {
+    "id": 1001,
+    "brand": "Cadillac",
+    "model": "Fleetwood",
+    "generation": null
+  },
+  {
+    "id": 1002,
+    "brand": "Cadillac",
+    "model": "Fleetwood Brougham",
+    "generation": null
+  },
+  {
+    "id": 1003,
+    "brand": "Cadillac",
+    "model": "Lyriq",
+    "generation": null
+  },
+  {
+    "id": 1004,
+    "brand": "Cadillac",
+    "model": "Lyriq-V",
+    "generation": null
+  },
+  {
+    "id": 1005,
+    "brand": "Cadillac",
+    "model": "Optiq",
+    "generation": null
+  },
+  {
+    "id": 1006,
+    "brand": "Cadillac",
+    "model": "Seville",
+    "generation": null
+  },
+  {
+    "id": 1007,
+    "brand": "Cadillac",
+    "model": "Sixty Special",
+    "generation": null
+  },
+  {
+    "id": 1008,
+    "brand": "Cadillac",
+    "model": "STS",
+    "generation": null
+  },
+  {
+    "id": 1009,
+    "brand": "Cadillac",
+    "model": "STS-V",
+    "generation": null
+  },
+  {
+    "id": 1010,
+    "brand": "Cadillac",
+    "model": "XLR",
+    "generation": null
+  },
+  {
+    "id": 1011,
+    "brand": "Cadillac",
+    "model": "XT4",
+    "generation": null
+  },
+  {
+    "id": 1012,
+    "brand": "Cadillac",
+    "model": "XT5",
+    "generation": null
+  },
+  {
+    "id": 1013,
+    "brand": "Cadillac",
+    "model": "XT6",
+    "generation": null
+  },
+  {
+    "id": 1014,
+    "brand": "Cadillac",
+    "model": "V-Series.R",
+    "generation": null
+  },
+  {
+    "id": 1015,
+    "brand": "Cadillac",
+    "model": "Vistiq",
+    "generation": null
+  },
+  {
+    "id": 1016,
+    "brand": "Cadillac",
+    "model": "XTS",
+    "generation": null
+  }
+],
