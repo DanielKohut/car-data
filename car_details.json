@@ -17276,3 +17276,95 @@
     ]
   }
 ],
+[
+  {
+    "id": 1017,
+    "brand": "Casalini",
+    "model": "Kerry",
+    "production_years": "2000–present",
+    "body_style": "Microvan / Pickup",
+    "engine": "479 cm³ Lombardini LDW 502 diesel, 2-cyl",
+    "fuel_type": "Diesel",
+    "notes": "Könnyű haszonjármű, különböző rakterű kivitelekben (Van, Pickup, Dropside). 45 km/h-ra korlátozott változat mopedautó kategóriához."
+  },
+  {
+    "id": 1018,
+    "brand": "Casalini",
+    "model": "M10",
+    "production_years": "2010–2012",
+    "body_style": "2-door microcar",
+    "engine": "479 cm³ Lombardini LDW 502 diesel, 2-cyl",
+    "fuel_type": "Diesel",
+    "notes": "A Ydea utódja, ABS műanyag karosszériával, Euro 4 normáknak megfelelő motorral."
+  },
+  {
+    "id": 1019,
+    "brand": "Casalini",
+    "model": "M12",
+    "production_years": "2012–2014",
+    "body_style": "2-door microcar",
+    "engine": "498 cm³ Mitsubishi diesel, 2-cyl",
+    "fuel_type": "Diesel",
+    "notes": "A M10 frissített változata, új orrkialakítással és komfortosabb belső térrel."
+  },
+  {
+    "id": 1020,
+    "brand": "Casalini",
+    "model": "M14",
+    "production_years": "2014–2018",
+    "body_style": "2-door microcar / Pickup változat is elérhető",
+    "engine": "550 cm³ Kohler diesel, 2-cyl",
+    "fuel_type": "Diesel",
+    "notes": "Modernizált forma, LED világítás, nagyobb biztonsági felszereltség."
+  },
+  {
+    "id": 1021,
+    "brand": "Casalini",
+    "model": "Sulky",
+    "production_years": "1969–2000",
+    "body_style": "3-wheeler (korai) / 4-wheeler microcar (későbbi)",
+    "engine": "50–250 cm³ benzines egyhengeres (Minarelli / Lombardini)",
+    "fuel_type": "Petrol",
+    "notes": "Az egyik legelső Casalini modell; kezdetben háromkerekű, később Sulkydea néven is futott."
+  },
+  {
+    "id": 1022,
+    "brand": "Casalini",
+    "model": "Sulkycar",
+    "production_years": "1970s–1980s",
+    "body_style": "4-wheeler light utility microcar",
+    "engine": "50–125 cm³ benzines",
+    "fuel_type": "Petrol",
+    "notes": "Sulky alapú, de kis teherszállító funkcióval rendelkező változat."
+  },
+  {
+    "id": 1023,
+    "brand": "Casalini",
+    "model": "Ydea",
+    "production_years": "2000–2009",
+    "body_style": "2-door microcar",
+    "engine": "479 cm³ Lombardini diesel, 2-cyl",
+    "fuel_type": "Diesel",
+    "notes": "A Sulky utódja, korszerűbb karosszériával és biztonsági felszereltséggel."
+  },
+  {
+    "id": 1024,
+    "brand": "Casalini",
+    "model": "Ydea Progress",
+    "production_years": "2005–2009",
+    "body_style": "2-door microcar",
+    "engine": "479 cm³ Lombardini diesel, 2-cyl",
+    "fuel_type": "Diesel",
+    "notes": "A Ydea magasabb felszereltségi szintű változata, komfortosabb belsővel."
+  },
+  {
+    "id": 1025,
+    "brand": "Casalini",
+    "model": "Ydea Twist",
+    "production_years": "2005–2009",
+    "body_style": "2-door microcar",
+    "engine": "479 cm³ Lombardini diesel, 2-cyl",
+    "fuel_type": "Diesel",
+    "notes": "Speciális dizájncsomaggal és egyedi színopciókkal ellátott Ydea változat."
+  }
+],
