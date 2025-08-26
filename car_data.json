@@ -1296,7 +1296,9 @@
       "7 340",
       "7 420",
       "7 485",
-      "7 620",
+      "7 485 CSR",
+      "7 620R",
+      "7 620S",
       "CSR",
       "CSR 175",
       "CSR 200",
@@ -1305,7 +1307,11 @@
       "Superlight R300",
       "Superlight R400",
       "Superlight R500",
-      "Super Seven 1600"
+      "Superlight R500 Duratec",
+      "Super Seven 1600",
+      "Super Seven 600",
+      "Super Seven 2000",
+      "21"
     ],
     "Centtro": [
       "Avantier C",
