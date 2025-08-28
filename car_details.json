@@ -17368,3 +17368,419 @@
     "notes": "Speciális dizájncsomaggal és egyedi színopciókkal ellátott Ydea változat."
   }
 ],
+[
+  {
+    "id": 1026,
+    "brand": "Caterham",
+    "model": "7 160",
+    "production_year_start": 2013,
+    "production_year_end": 2017,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.66L Suzuki Inline-3 Turbo",
+        "power_hp": 80,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "brand": "Caterham",
+    "model": "7 165",
+    "production_year_start": 2013,
+    "production_year_end": 2017,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.66L Suzuki Inline-3 Turbo",
+        "power_hp": 80,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "brand": "Caterham",
+    "model": "7 270",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Ford Sigma Inline-4",
+        "power_hp": 135,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "brand": "Caterham",
+    "model": "7 275",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Ford Sigma Inline-4",
+        "power_hp": 135,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "brand": "Caterham",
+    "model": "7 310",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Ford Sigma Inline-4",
+        "power_hp": 152,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "brand": "Caterham",
+    "model": "7 340",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Inline-4",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1032,
+    "brand": "Caterham",
+    "model": "7 420",
+    "production_year_start": 2015,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Inline-4",
+        "power_hp": 210,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual", "6-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "brand": "Caterham",
+    "model": "7 485",
+    "production_year_start": 2013,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Inline-4",
+        "power_hp": 240,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "brand": "Caterham",
+    "model": "7 485 CSR",
+    "production_year_start": 2013,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Inline-4",
+        "power_hp": 240,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "brand": "Caterham",
+    "model": "7 620R",
+    "production_year_start": 2013,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Supercharged Inline-4",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 1036,
+    "brand": "Caterham",
+    "model": "7 620S",
+    "production_year_start": 2013,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Supercharged Inline-4",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1037,
+    "brand": "Caterham",
+    "model": "CSR",
+    "production_year_start": 2004,
+    "production_year_end": 2008,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.3L Ford Duratec Inline-4",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "brand": "Caterham",
+    "model": "CSR 175",
+    "production_year_start": 2004,
+    "production_year_end": 2008,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.3L Ford Duratec Inline-4",
+        "power_hp": 175,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "brand": "Caterham",
+    "model": "CSR 200",
+    "production_year_start": 2004,
+    "production_year_end": 2008,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.3L Ford Duratec Inline-4",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "brand": "Caterham",
+    "model": "Classic",
+    "production_year_start": 1995,
+    "production_year_end": 2002,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L Ford Kent Inline-4",
+        "power_hp": 84,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1041,
+    "brand": "Caterham",
+    "model": "Superlight",
+    "production_year_start": 1996,
+    "production_year_end": 2004,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Rover K-Series Inline-4",
+        "power_hp": 120,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1042,
+    "brand": "Caterham",
+    "model": "Superlight R300",
+    "production_year_start": 2002,
+    "production_year_end": 2010,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Rover K-Series VVC",
+        "power_hp": 160,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1043,
+    "brand": "Caterham",
+    "model": "Superlight R400",
+    "production_year_start": 2002,
+    "production_year_end": 2010,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Rover K-Series VHPD",
+        "power_hp": 200,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "brand": "Caterham",
+    "model": "Superlight R500",
+    "production_year_start": 2008,
+    "production_year_end": 2013,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Inline-4",
+        "power_hp": 263,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 1045,
+    "brand": "Caterham",
+    "model": "Superlight R500 Duratec",
+    "production_year_start": 2008,
+    "production_year_end": 2013,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Inline-4",
+        "power_hp": 263,
+        "fuel": "Petrol",
+        "transmissions": ["6-speed Sequential"]
+      }
+    ]
+  },
+  {
+    "id": 1046,
+    "brand": "Caterham",
+    "model": "Super Seven 1600",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Ford Sigma Inline-4",
+        "power_hp": 135,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1047,
+    "brand": "Caterham",
+    "model": "Super Seven 600",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.66L Suzuki Turbo Inline-3",
+        "power_hp": 84,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1048,
+    "brand": "Caterham",
+    "model": "Super Seven 2000",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Ford Duratec Inline-4",
+        "power_hp": 180,
+        "fuel": "Petrol",
+        "transmissions": ["5-speed Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "brand": "Caterham",
+    "model": "21",
+    "production_year_start": 1994,
+    "production_year_end": 1999,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Rover K-Series",
+        "power_hp": 115,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.8L Rover K-Series",
+        "power_hp": 145,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
