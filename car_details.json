@@ -17784,3 +17784,243 @@
     ]
   }
 ],
+[
+  {
+    "id": 1050,
+    "brand": "Centtro",
+    "model": "Avantier C",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Electric City Bus"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 200,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1051,
+    "brand": "Centtro",
+    "model": "CityPorter",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Light Truck", "Urban Delivery"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 60 kW",
+        "power_hp": 80,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1052,
+    "brand": "Centtro",
+    "model": "Logimax",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Cargo Truck"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 150,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1053,
+    "brand": "Centtro",
+    "model": "Logistar 100",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Compact Van"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 45 kW",
+        "power_hp": 60,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1054,
+    "brand": "Centtro",
+    "model": "Logistar 200",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Delivery Van"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 60 kW",
+        "power_hp": 82,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1055,
+    "brand": "Centtro",
+    "model": "Logistar 260",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Cargo Van"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 85 kW",
+        "power_hp": 115,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1056,
+    "brand": "Centtro",
+    "model": "Logistar 400",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Large Van"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 90 kW",
+        "power_hp": 122,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1057,
+    "brand": "Centtro",
+    "model": "Logistar 400C",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Van Chassis Cab"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 90 kW",
+        "power_hp": 122,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "brand": "Centtro",
+    "model": "Logistar 500",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Light Truck"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 100 kW",
+        "power_hp": 136,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1059,
+    "brand": "Centtro",
+    "model": "Logistar 600",
+    "production_year_start": 2023,
+    "production_year_end": null,
+    "body_styles": ["Medium Truck"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 120 kW",
+        "power_hp": 160,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "brand": "Centtro",
+    "model": "Metro",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["Shuttle Bus", "Minibus"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 80 kW",
+        "power_hp": 107,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1061,
+    "brand": "Centtro",
+    "model": "N-Series",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Truck"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 130 kW",
+        "power_hp": 174,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "brand": "Centtro",
+    "model": "T-Class",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Truck"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 150 kW",
+        "power_hp": 200,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1063,
+    "brand": "Centtro",
+    "model": "Tango",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Compact Truck"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 60 kW",
+        "power_hp": 82,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  }
+],
