@@ -18024,3 +18024,226 @@
     ]
   }
 ],
+[
+  {
+    "id": 1064,
+    "brand": "Chatenet",
+    "model": "CH26",
+    "production_year_start": 2010,
+    "production_year_end": 2016,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Lombardini Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1065,
+    "brand": "Chatenet",
+    "model": "CH26 Spring",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 8,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1066,
+    "brand": "Chatenet",
+    "model": "CH30",
+    "production_year_start": 2006,
+    "production_year_end": 2010,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1067,
+    "brand": "Chatenet",
+    "model": "CH32",
+    "production_year_start": 2008,
+    "production_year_end": 2012,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Lombardini Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1068,
+    "brand": "Chatenet",
+    "model": "CH40",
+    "production_year_start": 2013,
+    "production_year_end": 2016,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Lombardini Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1069,
+    "brand": "Chatenet",
+    "model": "CH46",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Microcar", "Crossover"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Diesel",
+        "power_hp": 8,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1070,
+    "brand": "Chatenet",
+    "model": "CH46 Electric",
+    "production_year_start": 2019,
+    "production_year_end": null,
+    "body_styles": ["Microcar", "Crossover"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 10,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1071,
+    "brand": "Chatenet",
+    "model": "CH46 Sport",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Microcar", "Crossover"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Diesel Sport",
+        "power_hp": 10,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1072,
+    "brand": "Chatenet",
+    "model": "CH46 R",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["Microcar", "Crossover"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Diesel R",
+        "power_hp": 11,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1073,
+    "brand": "Chatenet",
+    "model": "CH50",
+    "production_year_start": 2003,
+    "production_year_end": 2006,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1074,
+    "brand": "Chatenet",
+    "model": "Barooder",
+    "production_year_start": 2000,
+    "production_year_end": 2004,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Diesel",
+        "power_hp": 4,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1075,
+    "brand": "Chatenet",
+    "model": "Media",
+    "production_year_start": 2002,
+    "production_year_end": 2005,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Diesel",
+        "power_hp": 5,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  },
+  {
+    "id": 1076,
+    "brand": "Chatenet",
+    "model": "Speedino",
+    "production_year_start": 2001,
+    "production_year_end": 2004,
+    "body_styles": ["Microcar", "Hatchback"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "0.5L Diesel",
+        "power_hp": 4,
+        "fuel": "Diesel",
+        "transmissions": ["CVT"]
+      }
+    ]
+  }
+],
