@@ -18247,3 +18247,62 @@
     ]
   }
 ],
+[
+  {
+    "id": 1077,
+    "brand": "Chesil",
+    "model": "Chesil Speedster 356",
+    "production_year_start": 1980,
+    "production_year_end": null,
+    "body_styles": ["Roadster", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Flat-4 (VW air-cooled)",
+        "power_hp": 60,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.0L Flat-4 (VW/aftermarket tuning options)",
+        "power_hp": 90,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1078,
+    "brand": "Chesil",
+    "model": "Chesil Speedster 356 Electric",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Roadster", "Convertible"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 120,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1079,
+    "brand": "Chesil",
+    "model": "Speedster 356",
+    "production_year_start": 1980,
+    "production_year_end": null,
+    "body_styles": ["Roadster", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Flat-4",
+        "power_hp": 60,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  }
+],
