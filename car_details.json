@@ -18306,3 +18306,185 @@
     ]
   }
 ],
+[
+  {
+    "id": 1080,
+    "brand": "Chevrolet (EU)",
+    "model": "Aveo",
+    "production_year_start": 2002,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback", "Sedan"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.2L Inline-4", "power_hp": 84, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.4L Inline-4", "power_hp": 101, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.3L Diesel", "power_hp": 75, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1081,
+    "brand": "Chevrolet (EU)",
+    "model": "Captiva",
+    "production_year_start": 2006,
+    "production_year_end": 2018,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "2.4L Inline-4", "power_hp": 167, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "3.2L V6", "power_hp": 230, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "2.0L Diesel", "power_hp": 150, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.2L Diesel", "power_hp": 184, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1082,
+    "brand": "Chevrolet (EU)",
+    "model": "Cruze",
+    "production_year_start": 2008,
+    "production_year_end": 2016,
+    "body_styles": ["Sedan", "Hatchback", "Station Wagon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.6L Inline-4", "power_hp": 113, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.8L Inline-4", "power_hp": 141, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.0L Diesel", "power_hp": 163, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1083,
+    "brand": "Chevrolet (EU)",
+    "model": "Epica",
+    "production_year_start": 2006,
+    "production_year_end": 2011,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "2.0L Inline-6", "power_hp": 143, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.5L Inline-6", "power_hp": 156, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "2.0L Diesel", "power_hp": 150, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1084,
+    "brand": "Chevrolet (EU)",
+    "model": "Evanda",
+    "production_year_start": 2000,
+    "production_year_end": 2006,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.0L Inline-4", "power_hp": 131, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.5L V6", "power_hp": 156, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1085,
+    "brand": "Chevrolet (EU)",
+    "model": "Kalos",
+    "production_year_start": 2002,
+    "production_year_end": 2008,
+    "body_styles": ["Hatchback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.2L Inline-4", "power_hp": 72, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.4L Inline-4", "power_hp": 94, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1086,
+    "brand": "Chevrolet (EU)",
+    "model": "Lacetti",
+    "production_year_start": 2002,
+    "production_year_end": 2011,
+    "body_styles": ["Hatchback", "Sedan", "Station Wagon"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.4L Inline-4", "power_hp": 95, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.6L Inline-4", "power_hp": 109, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.8L Inline-4", "power_hp": 122, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.0L Diesel", "power_hp": 121, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1087,
+    "brand": "Chevrolet (EU)",
+    "model": "Matiz",
+    "production_year_start": 1998,
+    "production_year_end": 2011,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "LPG"],
+    "engines": [
+      { "name": "0.8L Inline-3", "power_hp": 52, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.0L Inline-4", "power_hp": 64, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1088,
+    "brand": "Chevrolet (EU)",
+    "model": "Orlando",
+    "production_year_start": 2011,
+    "production_year_end": 2018,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.8L Inline-4", "power_hp": 141, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.4L Turbo Inline-4", "power_hp": 140, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.0L Diesel", "power_hp": 163, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1089,
+    "brand": "Chevrolet (EU)",
+    "model": "Rezzo",
+    "production_year_start": 2000,
+    "production_year_end": 2008,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.6L Inline-4", "power_hp": 106, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.0L Inline-4", "power_hp": 121, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1090,
+    "brand": "Chevrolet (EU)",
+    "model": "Spark",
+    "production_year_start": 2009,
+    "production_year_end": 2022,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "LPG", "Electric"],
+    "engines": [
+      { "name": "1.0L Inline-4", "power_hp": 68, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.2L Inline-4", "power_hp": 82, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "EV Electric Motor", "power_hp": 130, "fuel": "Electric", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1091,
+    "brand": "Chevrolet (EU)",
+    "model": "Tacuma",
+    "production_year_start": 2000,
+    "production_year_end": 2008,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.6L Inline-4", "power_hp": 106, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.8L Inline-4", "power_hp": 121, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.0L Inline-4", "power_hp": 121, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1092,
+    "brand": "Chevrolet (EU)",
+    "model": "Trax",
+    "production_year_start": 2013,
+    "production_year_end": 2022,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.4L Turbo Inline-4", "power_hp": 140, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.6L Inline-4", "power_hp": 115, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.7L Diesel", "power_hp": 130, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] }
+    ]
+  }
+],
