@@ -18488,3 +18488,182 @@
     ]
   }
 ],
+[
+  {
+    "id": 1093,
+    "brand": "Chevrolet (USA)",
+    "model": "Astro",
+    "production_year_start": 1985,
+    "production_year_end": 2005,
+    "body_styles": ["Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "4.3L V6",
+        "power_hp": 190,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic", "Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1094,
+    "brand": "Chevrolet (USA)",
+    "model": "Avalanche",
+    "production_year_start": 2001,
+    "production_year_end": 2013,
+    "body_styles": ["Pickup"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "5.3L V8",
+        "power_hp": 285,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "6.0L V8",
+        "power_hp": 345,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1095,
+    "brand": "Chevrolet (USA)",
+    "model": "Aveo",
+    "production_year_start": 2002,
+    "production_year_end": 2020,
+    "body_styles": ["Hatchback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.4L I4",
+        "power_hp": 94,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "1.6L I4",
+        "power_hp": 103,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "brand": "Chevrolet (USA)",
+    "model": "Bel Air",
+    "production_year_start": 1950,
+    "production_year_end": 1975,
+    "body_styles": ["Sedan", "Coupe", "Convertible", "Station Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.9L I6",
+        "power_hp": 90,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "5.7L V8",
+        "power_hp": 185,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "brand": "Chevrolet (USA)",
+    "model": "Beretta",
+    "production_year_start": 1987,
+    "production_year_end": 1996,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.2L I4",
+        "power_hp": 95,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "3.1L V6",
+        "power_hp": 135,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1098,
+    "brand": "Chevrolet (USA)",
+    "model": "Biscayne",
+    "production_year_start": 1958,
+    "production_year_end": 1972,
+    "body_styles": ["Sedan", "Coupe", "Station Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.9L I6",
+        "power_hp": 140,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "5.7L V8",
+        "power_hp": 250,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1099,
+    "brand": "Chevrolet (USA)",
+    "model": "Blazer",
+    "production_year_start": 1969,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      {
+        "name": "4.3L V6",
+        "power_hp": 190,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic", "Manual"]
+      },
+      {
+        "name": "5.7L V8",
+        "power_hp": 250,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.8L I4 Diesel (modern)",
+        "power_hp": 181,
+        "fuel": "Diesel",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1100,
+    "brand": "Chevrolet (USA)",
+    "model": "Bolt EV",
+    "production_year_start": 2016,
+    "production_year_end": 2023,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "150 kW Electric Motor",
+        "power_hp": 200,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
