@@ -18667,3 +18667,491 @@
       }
     ]
   },
+  [
+  {
+    "id": 1101,
+    "brand": "Chrysler",
+    "model": "200",
+    "production_year_start": 2011,
+    "production_year_end": 2017,
+    "body_styles": ["Sedan", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.4L I4 Tigershark", "power_hp": 173, "fuel": "Petrol", "transmissions": ["Automatic", "Manual", "CVT"] },
+      { "name": "3.6L Pentastar V6", "power_hp": 295, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1102,
+    "brand": "Chrysler",
+    "model": "300",
+    "production_year_start": 2005,
+    "production_year_end": 2023,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.6L Pentastar V6", "power_hp": 292, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "5.7L HEMI V8", "power_hp": 363, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "6.4L HEMI V8 (SRT)", "power_hp": 470, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1103,
+    "brand": "Chrysler",
+    "model": "300C",
+    "production_year_start": 2005,
+    "production_year_end": 2023,
+    "body_styles": ["Sedan", "Wagon (EU/AU)"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "5.7L HEMI V8", "power_hp": 340, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.0L V6 CRD (EU)", "power_hp": 218, "fuel": "Diesel", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1104,
+    "brand": "Chrysler",
+    "model": "300M",
+    "production_year_start": 1998,
+    "production_year_end": 2004,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.5L V6", "power_hp": 253, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1105,
+    "brand": "Chrysler",
+    "model": "Airflow",
+    "production_year_start": 1934,
+    "production_year_end": 1937,
+    "body_styles": ["Sedan", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.9L Inline-8", "power_hp": 122, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "4.1L Inline-6", "power_hp": 99, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1106,
+    "brand": "Chrysler",
+    "model": "Aspen",
+    "production_year_start": 2007,
+    "production_year_end": 2009,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      { "name": "4.7L V8", "power_hp": 303, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "5.7L HEMI V8", "power_hp": 335, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "5.7L HEMI V8 Hybrid", "power_hp": 385, "fuel": "Hybrid", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1107,
+    "brand": "Chrysler",
+    "model": "Atlantic Concept",
+    "production_year_start": 1995,
+    "production_year_end": 1995,
+    "body_styles": ["Coupe (Concept)"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.0L Inline-8 (concept)", "power_hp": 360, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1108,
+    "brand": "Chrysler",
+    "model": "Cirrus",
+    "production_year_start": 1995,
+    "production_year_end": 2000,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.4L I4", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "2.5L V6", "power_hp": 168, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1109,
+    "brand": "Chrysler",
+    "model": "Concorde",
+    "production_year_start": 1993,
+    "production_year_end": 2004,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.7L V6", "power_hp": 200, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.2L V6", "power_hp": 225, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.5L V6", "power_hp": 253, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1110,
+    "brand": "Chrysler",
+    "model": "Cordoba",
+    "production_year_start": 1975,
+    "production_year_end": 1983,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.2L V8", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "5.9L V8", "power_hp": 195, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1111,
+    "brand": "Chrysler",
+    "model": "Crossfire",
+    "production_year_start": 2004,
+    "production_year_end": 2008,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.2L V6", "power_hp": 215, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "3.2L Supercharged V6 (SRT-6)", "power_hp": 330, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1112,
+    "brand": "Chrysler",
+    "model": "Daytona",
+    "production_year_start": 1984,
+    "production_year_end": 1993,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.2L Turbo I4", "power_hp": 146, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.5L Turbo I4", "power_hp": 174, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1113,
+    "brand": "Chrysler",
+    "model": "Dynasty",
+    "production_year_start": 1988,
+    "production_year_end": 1993,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.5L I4", "power_hp": 100, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.0L V6", "power_hp": 141, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.3L V6", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1114,
+    "brand": "Chrysler",
+    "model": "E-Class",
+    "production_year_start": 1983,
+    "production_year_end": 1984,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.2L I4", "power_hp": 94, "fuel": "Petrol", "transmissions": ["Automatic", "Manual"] },
+      { "name": "2.2L Turbo I4", "power_hp": 142, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.6L I4 (Mitsubishi)", "power_hp": 104, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1115,
+    "brand": "Chrysler",
+    "model": "Fifth Avenue",
+    "production_year_start": 1983,
+    "production_year_end": 1993,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.2L V8", "power_hp": 140, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.3L V6 (later)", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1116,
+    "brand": "Chrysler",
+    "model": "Imperial",
+    "production_year_start": 1955,
+    "production_year_end": 1975,
+    "body_styles": ["Sedan", "Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "6.8L V8", "power_hp": 350, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "7.2L V8", "power_hp": 375, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1117,
+    "brand": "Chrysler",
+    "model": "Imperial (1990s)",
+    "production_year_start": 1990,
+    "production_year_end": 1993,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.3L V6", "power_hp": 147, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.8L V6", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1118,
+    "brand": "Chrysler",
+    "model": "Intrepid",
+    "production_year_start": 1993,
+    "production_year_end": 2004,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.7L V6", "power_hp": 200, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.2L V6", "power_hp": 225, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.5L V6", "power_hp": 250, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1119,
+    "brand": "Chrysler",
+    "model": "Laser",
+    "production_year_start": 1984,
+    "production_year_end": 1986,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.2L I4", "power_hp": 93, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.2L Turbo I4", "power_hp": 146, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1120,
+    "brand": "Chrysler",
+    "model": "LeBaron",
+    "production_year_start": 1977,
+    "production_year_end": 1995,
+    "body_styles": ["Coupe", "Convertible", "Sedan", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.2L/2.5L I4 (incl. Turbo)", "power_hp": 146, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "3.0L V6", "power_hp": 141, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1121,
+    "brand": "Chrysler",
+    "model": "LHS",
+    "production_year_start": 1994,
+    "production_year_end": 2001,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.5L V6", "power_hp": 253, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1122,
+    "brand": "Chrysler",
+    "model": "Neon",
+    "production_year_start": 1994,
+    "production_year_end": 2005,
+    "body_styles": ["Sedan", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.0L I4 SOHC/DOHC", "power_hp": 132, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1123,
+    "brand": "Chrysler",
+    "model": "New Yorker",
+    "production_year_start": 1940,
+    "production_year_end": 1996,
+    "body_styles": ["Sedan", "Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.2L V8 (classic eras)", "power_hp": 230, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.3L/3.5L V6 (later)", "power_hp": 214, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1124,
+    "brand": "Chrysler",
+    "model": "Newport",
+    "production_year_start": 1961,
+    "production_year_end": 1981,
+    "body_styles": ["Sedan", "Coupe", "Convertible", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.2L V8", "power_hp": 190, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "6.3L/7.2L V8", "power_hp": 350, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1125,
+    "brand": "Chrysler",
+    "model": "Pacifica",
+    "production_year_start": 2004,
+    "production_year_end": null,
+    "body_styles": ["Crossover", "Minivan (2017–)"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      { "name": "3.6L Pentastar V6", "power_hp": 287, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.6L V6 + eFlite (PHEV)", "power_hp": 260, "fuel": "Hybrid", "transmissions": ["eCVT"] }
+    ]
+  },
+  {
+    "id": 1126,
+    "brand": "Chrysler",
+    "model": "Phaeton Concept",
+    "production_year_start": 1997,
+    "production_year_end": 1997,
+    "body_styles": ["Convertible (Concept)"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "V12 (concept)", "power_hp": 425, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1127,
+    "brand": "Chrysler",
+    "model": "Prowler",
+    "production_year_start": 1997,
+    "production_year_end": 2002,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.5L V6 SOHC", "power_hp": 253, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1128,
+    "brand": "Chrysler",
+    "model": "PT Cruiser",
+    "production_year_start": 2000,
+    "production_year_end": 2010,
+    "body_styles": ["Hatchback", "Convertible"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "2.4L I4", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.4L Turbo I4 (GT)", "power_hp": 230, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.2L CRD (EU)", "power_hp": 150, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1129,
+    "brand": "Chrysler",
+    "model": "Saratoga",
+    "production_year_start": 1989,
+    "production_year_end": 1995,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.5L I4", "power_hp": 100, "fuel": "Petrol", "transmissions": ["Automatic", "Manual"] },
+      { "name": "3.0L V6", "power_hp": 141, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1130,
+    "brand": "Chrysler",
+    "model": "Sebring",
+    "production_year_start": 1995,
+    "production_year_end": 2010,
+    "body_styles": ["Coupe", "Convertible", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.4L I4", "power_hp": 173, "fuel": "Petrol", "transmissions": ["Automatic", "Manual"] },
+      { "name": "2.7L V6", "power_hp": 189, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.5L V6", "power_hp": 235, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1131,
+    "brand": "Chrysler",
+    "model": "Stratus",
+    "production_year_start": 1995,
+    "production_year_end": 2006,
+    "body_styles": ["Sedan", "Coupe (select markets)"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.0L I4", "power_hp": 131, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.4L I4", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "2.5L V6", "power_hp": 163, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1132,
+    "brand": "Chrysler",
+    "model": "TC by Maserati",
+    "production_year_start": 1989,
+    "production_year_end": 1991,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.2L Turbo I4 (16V Cosworth head)", "power_hp": 200, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "3.0L V6", "power_hp": 160, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1133,
+    "brand": "Chrysler",
+    "model": "Town & Country",
+    "production_year_start": 1989,
+    "production_year_end": 2016,
+    "body_styles": ["Minivan"],
+    "fuel_types": ["Petrol", "Flex-Fuel"],
+    "engines": [
+      { "name": "3.3L V6", "power_hp": 162, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.8L V6", "power_hp": 215, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.6L Pentastar V6", "power_hp": 283, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1134,
+    "brand": "Chrysler",
+    "model": "Valiant",
+    "production_year_start": 1960,
+    "production_year_end": 1976,
+    "body_styles": ["Sedan", "Coupe", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.7L Slant-6", "power_hp": 145, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "5.2L V8", "power_hp": 230, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1135,
+    "brand": "Chrysler",
+    "model": "Vision",
+    "production_year_start": 1993,
+    "production_year_end": 1997,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.5L V6", "power_hp": 214, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1136,
+    "brand": "Chrysler",
+    "model": "Voyager",
+    "production_year_start": 1988,
+    "production_year_end": 2021,
+    "body_styles": ["Minivan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.3L V6", "power_hp": 162, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.8L V6", "power_hp": 215, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "3.6L Pentastar V6", "power_hp": 287, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1137,
+    "brand": "Chrysler",
+    "model": "Windsor",
+    "production_year_start": 1939,
+    "production_year_end": 1961,
+    "body_styles": ["Sedan", "Coupe", "Convertible", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.5L Inline-6", "power_hp": 114, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "5.2L V8 (later)", "power_hp": 185, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  }
+],
+  
