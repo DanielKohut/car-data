@@ -19154,4 +19154,510 @@
     ]
   }
 ],
-  
+[
+  {
+    "id": 1138,
+    "brand": "Citroën",
+    "model": "2CV",
+    "production_year_start": 1948,
+    "production_year_end": 1990,
+    "body_styles": ["Convertible", "Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "375cc Flat-2", "power_hp": 9, "fuel": "Petrol", "transmissions": ["Manual 4-speed"] },
+      { "name": "602cc Flat-2", "power_hp": 29, "fuel": "Petrol", "transmissions": ["Manual 4-speed"] }
+    ]
+  },
+  {
+    "id": 1139,
+    "brand": "Citroën",
+    "model": "Acadiane",
+    "production_year_start": 1978,
+    "production_year_end": 1987,
+    "body_styles": ["Panel Van"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "602cc Flat-2", "power_hp": 33, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1140,
+    "brand": "Citroën",
+    "model": "Ami",
+    "production_year_start": 1961,
+    "production_year_end": 1978,
+    "body_styles": ["Sedan", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "602cc Flat-2", "power_hp": 35, "fuel": "Petrol", "transmissions": ["Manual 4-speed"] }
+    ]
+  },
+  {
+    "id": 1141,
+    "brand": "Citroën",
+    "model": "AX",
+    "production_year_start": 1986,
+    "production_year_end": 1998,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.0L I4", "power_hp": 45, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.4L I4", "power_hp": 75, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.5L Diesel I4", "power_hp": 58, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1142,
+    "brand": "Citroën",
+    "model": "Berlingo",
+    "production_year_start": 1996,
+    "production_year_end": null,
+    "body_styles": ["MPV", "Van"],
+    "fuel_types": ["Petrol", "Diesel", "Electric"],
+    "engines": [
+      { "name": "1.2L PureTech I3", "power_hp": 110, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.5L BlueHDi I4", "power_hp": 130, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] },
+      { "name": "50 kWh Electric Motor", "power_hp": 136, "fuel": "Electric", "transmissions": ["Single-speed Auto"] }
+    ]
+  },
+  {
+    "id": 1143,
+    "brand": "Citroën",
+    "model": "BX",
+    "production_year_start": 1982,
+    "production_year_end": 1994,
+    "body_styles": ["Hatchback", "Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.4L I4", "power_hp": 62, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.9L GTI I4", "power_hp": 125, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.7L Diesel", "power_hp": 60, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1144,
+    "brand": "Citroën",
+    "model": "C1",
+    "production_year_start": 2005,
+    "production_year_end": 2022,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.0L I3", "power_hp": 68, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.2L I3 PureTech", "power_hp": 82, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1145,
+    "brand": "Citroën",
+    "model": "C3",
+    "production_year_start": 2002,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel", "Electric"],
+    "engines": [
+      { "name": "1.2L PureTech I3", "power_hp": 83, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.5L BlueHDi I4", "power_hp": 100, "fuel": "Diesel", "transmissions": ["Manual"] },
+      { "name": "Electric Motor 83kW", "power_hp": 113, "fuel": "Electric", "transmissions": ["Single-speed"] }
+    ]
+  },
+  {
+    "id": 1146,
+    "brand": "Citroën",
+    "model": "C3 Aircross",
+    "production_year_start": 2017,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.2L PureTech I3", "power_hp": 110, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.5L BlueHDi I4", "power_hp": 120, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1147,
+    "brand": "Citroën",
+    "model": "C4 Cactus",
+    "production_year_start": 2014,
+    "production_year_end": 2020,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.2L PureTech I3", "power_hp": 110, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.6L BlueHDi I4", "power_hp": 100, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1148,
+    "brand": "Citroën",
+    "model": "C4 Picasso",
+    "production_year_start": 2006,
+    "production_year_end": 2018,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.2L PureTech I3", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.6L BlueHDi I4", "power_hp": 120, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1149,
+    "brand": "Citroën",
+    "model": "C5 Aircross",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      { "name": "1.2L PureTech I3", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "1.5L BlueHDi I4", "power_hp": 130, "fuel": "Diesel", "transmissions": ["Automatic"] },
+      { "name": "1.6L Plug-in Hybrid", "power_hp": 225, "fuel": "Hybrid", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1150,
+    "brand": "Citroën",
+    "model": "CX",
+    "production_year_start": 1974,
+    "production_year_end": 1991,
+    "body_styles": ["Sedan", "Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "2.0L I4", "power_hp": 102, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.5L Turbo I4", "power_hp": 168, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.5L Turbo Diesel", "power_hp": 120, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1151,
+    "brand": "Citroën",
+    "model": "DS",
+    "production_year_start": 1955,
+    "production_year_end": 1975,
+    "body_styles": ["Sedan", "Convertible", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.9L I4", "power_hp": 75, "fuel": "Petrol", "transmissions": ["Manual", "Semi-automatic"] },
+      { "name": "2.3L I4 Injection", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1152,
+    "brand": "Citroën",
+    "model": "E-C4",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      { "name": "100kW Electric Motor", "power_hp": 136, "fuel": "Electric", "transmissions": ["Single-speed Auto"] }
+    ]
+  },
+  {
+    "id": 1153,
+    "brand": "Citroën",
+    "model": "Saxo",
+    "production_year_start": 1996,
+    "production_year_end": 2003,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.1L I4", "power_hp": 60, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.6L VTS", "power_hp": 120, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.5L Diesel", "power_hp": 57, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1154,
+    "brand": "Citroën",
+    "model": "Xantia",
+    "production_year_start": 1993,
+    "production_year_end": 2002,
+    "body_styles": ["Hatchback", "Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.8L I4", "power_hp": 90, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.0L Turbo I4", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.1L Turbo Diesel", "power_hp": 110, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1155,
+    "brand": "Citroën",
+    "model": "XM",
+    "production_year_start": 1989,
+    "production_year_end": 2000,
+    "body_styles": ["Hatchback", "Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "2.0L Turbo I4", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "3.0L V6", "power_hp": 200, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "2.1L Turbo Diesel", "power_hp": 110, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  }
+],
+[
+  {
+    "id": 1156,
+    "brand": "Citroën",
+    "model": "C6",
+    "production_year_start": 2005,
+    "production_year_end": 2012,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "3.0L V6", "power_hp": 215, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "2.7L V6 HDi", "power_hp": 208, "fuel": "Diesel", "transmissions": ["Automatic"] },
+      { "name": "3.0L V6 HDi", "power_hp": 240, "fuel": "Diesel", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1157,
+    "brand": "Citroën",
+    "model": "C8",
+    "production_year_start": 2002,
+    "production_year_end": 2014,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "2.0L I4", "power_hp": 140, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.2L I4", "power_hp": 158, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.0L HDi", "power_hp": 136, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1158,
+    "brand": "Citroën",
+    "model": "CX Prestige",
+    "production_year_start": 1976,
+    "production_year_end": 1991,
+    "body_styles": ["Sedan (Extended Wheelbase)"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "2.5L Turbo I4", "power_hp": 168, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1159,
+    "brand": "Citroën",
+    "model": "Dyane",
+    "production_year_start": 1967,
+    "production_year_end": 1983,
+    "body_styles": ["Hatchback", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "435cc Flat-2", "power_hp": 24, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "602cc Flat-2", "power_hp": 32, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1160,
+    "brand": "Citroën",
+    "model": "E-Mehari",
+    "production_year_start": 2016,
+    "production_year_end": 2020,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      { "name": "Electric Motor 50 kW", "power_hp": 68, "fuel": "Electric", "transmissions": ["Single-speed"] }
+    ]
+  },
+  {
+    "id": 1161,
+    "brand": "Citroën",
+    "model": "GS",
+    "production_year_start": 1970,
+    "production_year_end": 1986,
+    "body_styles": ["Hatchback", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.0L Flat-4", "power_hp": 55, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.3L Flat-4", "power_hp": 65, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1162,
+    "brand": "Citroën",
+    "model": "GSA",
+    "production_year_start": 1979,
+    "production_year_end": 1986,
+    "body_styles": ["Hatchback", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.3L Flat-4", "power_hp": 65, "fuel": "Petrol", "transmissions": ["Manual 5-speed"] }
+    ]
+  },
+  {
+    "id": 1163,
+    "brand": "Citroën",
+    "model": "Jumper",
+    "production_year_start": 1994,
+    "production_year_end": null,
+    "body_styles": ["Van", "Minibus"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      { "name": "2.2L BlueHDi I4", "power_hp": 140, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.0L HDi", "power_hp": 110, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1164,
+    "brand": "Citroën",
+    "model": "Jumpy",
+    "production_year_start": 1994,
+    "production_year_end": null,
+    "body_styles": ["Van", "Combi"],
+    "fuel_types": ["Diesel", "Electric"],
+    "engines": [
+      { "name": "1.5L BlueHDi", "power_hp": 120, "fuel": "Diesel", "transmissions": ["Manual"] },
+      { "name": "2.0L BlueHDi", "power_hp": 180, "fuel": "Diesel", "transmissions": ["Automatic"] },
+      { "name": "Electric Motor 100 kW", "power_hp": 136, "fuel": "Electric", "transmissions": ["Single-speed Auto"] }
+    ]
+  },
+  {
+    "id": 1165,
+    "brand": "Citroën",
+    "model": "Méharí",
+    "production_year_start": 1968,
+    "production_year_end": 1988,
+    "body_styles": ["Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "602cc Flat-2", "power_hp": 32, "fuel": "Petrol", "transmissions": ["Manual 4-speed"] }
+    ]
+  },
+  {
+    "id": 1166,
+    "brand": "Citroën",
+    "model": "Nemo",
+    "production_year_start": 2008,
+    "production_year_end": 2017,
+    "body_styles": ["Van", "MPV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.4L I4", "power_hp": 73, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.3L HDi", "power_hp": 75, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1167,
+    "brand": "Citroën",
+    "model": "Rosalie",
+    "production_year_start": 1932,
+    "production_year_end": 1938,
+    "body_styles": ["Sedan", "Cabriolet", "Van"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.5L I4", "power_hp": 35, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.7L Diesel (Rosalie 11UD)", "power_hp": 70, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1168,
+    "brand": "Citroën",
+    "model": "SpaceTourer",
+    "production_year_start": 2016,
+    "production_year_end": null,
+    "body_styles": ["Van", "MPV"],
+    "fuel_types": ["Diesel", "Electric"],
+    "engines": [
+      { "name": "2.0L BlueHDi", "power_hp": 150, "fuel": "Diesel", "transmissions": ["Manual", "Automatic"] },
+      { "name": "Electric 100 kW", "power_hp": 136, "fuel": "Electric", "transmissions": ["Single-speed"] }
+    ]
+  },
+  {
+    "id": 1169,
+    "brand": "Citroën",
+    "model": "Traction Avant",
+    "production_year_start": 1934,
+    "production_year_end": 1957,
+    "body_styles": ["Sedan", "Convertible", "Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.6L I4", "power_hp": 46, "fuel": "Petrol", "transmissions": ["Manual 3-speed"] },
+      { "name": "1.9L I4", "power_hp": 56, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.9L I6 (15 Six)", "power_hp": 77, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1170,
+    "brand": "Citroën",
+    "model": "Visa",
+    "production_year_start": 1978,
+    "production_year_end": 1988,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "652cc Flat-2", "power_hp": 36, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.4L I4 GT", "power_hp": 80, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.7L Diesel", "power_hp": 60, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1171,
+    "brand": "Citroën",
+    "model": "Xsara",
+    "production_year_start": 1997,
+    "production_year_end": 2006,
+    "body_styles": ["Hatchback", "Coupe", "Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.6L I4", "power_hp": 110, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.0L I4", "power_hp": 138, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "2.0L HDi", "power_hp": 90, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1172,
+    "brand": "Citroën",
+    "model": "Xsara Picasso",
+    "production_year_start": 1999,
+    "production_year_end": 2012,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.6L I4", "power_hp": 95, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.0L HDi", "power_hp": 90, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1173,
+    "brand": "Citroën",
+    "model": "ZX",
+    "production_year_start": 1991,
+    "production_year_end": 1998,
+    "body_styles": ["Hatchback", "Estate"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.4L I4", "power_hp": 75, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "2.0L 16V", "power_hp": 155, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.9L Diesel", "power_hp": 68, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1174,
+    "brand": "Citroën",
+    "model": "C5 X",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Crossover Fastback"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      { "name": "1.2L PureTech", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "1.6L Plug-in Hybrid", "power_hp": 225, "fuel": "Hybrid", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1175,
+    "brand": "Citroën",
+    "model": "C4 X",
+    "production_year_start": 2022,
+    "production_year_end": null,
+    "body_styles": ["Sedan", "Fastback"],
+    "fuel_types": ["Petrol", "Electric"],
+    "engines": [
+      { "name": "1.2L PureTech I3", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Automatic"] },
+      { "name": "100kW Electric Motor", "power_hp": 136, "fuel": "Electric", "transmissions": ["Single-speed Auto"] }
+    ]
+  }
+],
