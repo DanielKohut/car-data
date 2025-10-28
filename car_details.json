@@ -19661,3 +19661,162 @@
     ]
   }
 ],
+[
+  {
+    "id": 1176,
+    "brand": "Cobra",
+    "model": "AC Cobra 260",
+    "production_year_start": 1962,
+    "production_year_end": 1963,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.3L Ford V8 (260 cu in)", "power_hp": 260, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1177,
+    "brand": "Cobra",
+    "model": "AC Cobra 289",
+    "production_year_start": 1963,
+    "production_year_end": 1965,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.7L Ford V8 (289 cu in)", "power_hp": 271, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1178,
+    "brand": "Cobra",
+    "model": "AC Cobra 289 FIA",
+    "production_year_start": 1964,
+    "production_year_end": 1965,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.7L Ford V8 (289 cu in)", "power_hp": 385, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1179,
+    "brand": "Cobra",
+    "model": "AC Cobra 289 Street",
+    "production_year_start": 1964,
+    "production_year_end": 1965,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.7L Ford V8", "power_hp": 275, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1180,
+    "brand": "Cobra",
+    "model": "AC Cobra 427",
+    "production_year_start": 1965,
+    "production_year_end": 1967,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "7.0L Ford FE V8 (427 cu in)", "power_hp": 425, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1181,
+    "brand": "Cobra",
+    "model": "AC Cobra 427 S/C",
+    "production_year_start": 1965,
+    "production_year_end": 1967,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "7.0L Ford FE V8 (Side-Oiler)", "power_hp": 485, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1182,
+    "brand": "Cobra",
+    "model": "AC Cobra 427 Competition",
+    "production_year_start": 1965,
+    "production_year_end": 1966,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "7.0L Ford V8 (Competition Tune)", "power_hp": 485, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1183,
+    "brand": "Cobra",
+    "model": "CSX2000",
+    "production_year_start": 1962,
+    "production_year_end": 1962,
+    "body_styles": ["Prototype Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.2L Ford V8 (260 cu in)", "power_hp": 260, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1184,
+    "brand": "Cobra",
+    "model": "CSX3000",
+    "production_year_start": 1965,
+    "production_year_end": 1967,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "7.0L Ford V8 (427 cu in)", "power_hp": 425, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1185,
+    "brand": "Cobra",
+    "model": "Cobra Daytona Coupe",
+    "production_year_start": 1964,
+    "production_year_end": 1965,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "4.7L Ford V8 (289 cu in)", "power_hp": 390, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1186,
+    "brand": "Cobra",
+    "model": "Cobra MkIII",
+    "production_year_start": 1982,
+    "production_year_end": 1990,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.0L Ford V8", "power_hp": 250, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "7.0L Ford 427", "power_hp": 425, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1187,
+    "brand": "Cobra",
+    "model": "Cobra MkIV",
+    "production_year_start": 1983,
+    "production_year_end": 1996,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.0L Ford Windsor V8", "power_hp": 225, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1188,
+    "brand": "Cobra",
+    "model": "Cobra Super Snake",
+    "production_year_start": 1967,
+    "production_year_end": 1967,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "7.0L Twin Supercharged Ford V8 (427 cu in)", "power_hp": 800, "fuel": "Petrol", "transmissions": ["Automatic"] }
+    ]
+  }
+],
