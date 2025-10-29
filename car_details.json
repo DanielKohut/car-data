@@ -19820,3 +19820,56 @@
     ]
   }
 ],
+[
+  {
+    "id": 1189,
+    "brand": "Corbin",
+    "model": "Merlin Roadster",
+    "production_year_start": 1996,
+    "production_year_end": 1999,
+    "body_styles": ["Roadster"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 72V DC",
+        "power_hp": 35,
+        "fuel": "Electric",
+        "transmissions": ["Single-speed Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1190,
+    "brand": "Corbin",
+    "model": "Sparrow",
+    "production_year_start": 1999,
+    "production_year_end": 2002,
+    "body_styles": ["Microcar", "Three-wheeler"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 48V DC",
+        "power_hp": 20,
+        "fuel": "Electric",
+        "transmissions": ["Single-speed Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1191,
+    "brand": "Corbin",
+    "model": "Sparrow II (NmG2)",
+    "production_year_start": 2010,
+    "production_year_end": 2012,
+    "body_styles": ["Microcar", "Three-wheeler"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor 156V AC",
+        "power_hp": 40,
+        "fuel": "Electric",
+        "transmissions": ["Single-speed Automatic"]
+      }
+    ]
+  }
+]
