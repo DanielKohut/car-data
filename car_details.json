@@ -19872,4 +19872,117 @@
       }
     ]
   }
-]
+],
+[
+  {
+    "id": 1192,
+    "brand": "Chevrolet",
+    "model": "Corvette C1",
+    "production_year_start": 1953,
+    "production_year_end": 1962,
+    "body_styles": ["Roadster", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "3.9L Inline-6 Blue Flame", "power_hp": 150, "fuel": "Petrol", "transmissions": ["2-speed Automatic"] },
+      { "name": "4.3L V8 Small Block", "power_hp": 195, "fuel": "Petrol", "transmissions": ["3-speed Manual"] },
+      { "name": "4.6L V8 Fuelie", "power_hp": 283, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1193,
+    "brand": "Chevrolet",
+    "model": "Corvette C2 Sting Ray",
+    "production_year_start": 1963,
+    "production_year_end": 1967,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.3L V8", "power_hp": 250, "fuel": "Petrol", "transmissions": ["4-speed Manual"] },
+      { "name": "5.4L V8", "power_hp": 365, "fuel": "Petrol", "transmissions": ["4-speed Manual"] },
+      { "name": "6.5L V8 427", "power_hp": 435, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1194,
+    "brand": "Chevrolet",
+    "model": "Corvette C3",
+    "production_year_start": 1968,
+    "production_year_end": 1982,
+    "body_styles": ["Coupe", "T-Top", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.7L V8", "power_hp": 200, "fuel": "Petrol", "transmissions": ["3-speed Automatic", "4-speed Manual"] },
+      { "name": "7.4L V8", "power_hp": 390, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1195,
+    "brand": "Chevrolet",
+    "model": "Corvette C4",
+    "production_year_start": 1984,
+    "production_year_end": 1996,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.7L V8 L98", "power_hp": 245, "fuel": "Petrol", "transmissions": ["4-speed Automatic", "4+3 Manual"] },
+      { "name": "5.7L LT1", "power_hp": 300, "fuel": "Petrol", "transmissions": ["6-speed Manual"] },
+      { "name": "5.7L LT5 ZR-1", "power_hp": 375, "fuel": "Petrol", "transmissions": ["6-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1196,
+    "brand": "Chevrolet",
+    "model": "Corvette C5",
+    "production_year_start": 1997,
+    "production_year_end": 2004,
+    "body_styles": ["Coupe", "Convertible", "Hardtop"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.7L LS1 V8", "power_hp": 345, "fuel": "Petrol", "transmissions": ["4-speed Automatic", "6-speed Manual"] },
+      { "name": "5.7L LS6 V8 (Z06)", "power_hp": 405, "fuel": "Petrol", "transmissions": ["6-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1197,
+    "brand": "Chevrolet",
+    "model": "Corvette C6",
+    "production_year_start": 2005,
+    "production_year_end": 2013,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "6.0L LS2 V8", "power_hp": 400, "fuel": "Petrol", "transmissions": ["6-speed Manual", "6-speed Automatic"] },
+      { "name": "6.2L LS3 V8", "power_hp": 430, "fuel": "Petrol", "transmissions": ["6-speed Manual", "6-speed Automatic"] },
+      { "name": "7.0L LS7 V8 (Z06)", "power_hp": 505, "fuel": "Petrol", "transmissions": ["6-speed Manual"] },
+      { "name": "6.2L Supercharged LS9 V8 (ZR1)", "power_hp": 638, "fuel": "Petrol", "transmissions": ["6-speed Manual"] }
+    ]
+  },
+  {
+    "id": 1198,
+    "brand": "Chevrolet",
+    "model": "Corvette C7",
+    "production_year_start": 2014,
+    "production_year_end": 2019,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "6.2L LT1 V8", "power_hp": 455, "fuel": "Petrol", "transmissions": ["7-speed Manual", "8-speed Automatic"] },
+      { "name": "6.2L LT4 Supercharged V8 (Z06)", "power_hp": 650, "fuel": "Petrol", "transmissions": ["7-speed Manual", "8-speed Automatic"] },
+      { "name": "6.2L LT5 Supercharged V8 (ZR1)", "power_hp": 755, "fuel": "Petrol", "transmissions": ["7-speed Manual", "8-speed Automatic"] }
+    ]
+  },
+  {
+    "id": 1199,
+    "brand": "Chevrolet",
+    "model": "Corvette C8",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      { "name": "6.2L LT2 V8 (Stingray)", "power_hp": 495, "fuel": "Petrol", "transmissions": ["8-speed Dual-clutch"] },
+      { "name": "5.5L LT6 Flat-plane V8 (Z06)", "power_hp": 670, "fuel": "Petrol", "transmissions": ["8-speed Dual-clutch"] },
+      { "name": "6.2L Hybrid V8 (E-Ray)", "power_hp": 655, "fuel": "Hybrid", "transmissions": ["8-speed Dual-clutch"] }
+    ]
+  }
+],
