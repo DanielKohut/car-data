@@ -19986,3 +19986,135 @@
     ]
   }
 ],
+[
+  {
+    "id": 1200,
+    "brand": "Chevrolet",
+    "model": "Corvette Grand Sport (C2)",
+    "production_year_start": 1963,
+    "production_year_end": 1963,
+    "body_styles": ["Coupe", "Roadster"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.4L V8 377 cu in", "power_hp": 550, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ],
+    "notes": "Csak 5 darab készült a Le Mans homologizációs célra."
+  },
+  {
+    "id": 1201,
+    "brand": "Chevrolet",
+    "model": "Corvette Grand Sport (C4)",
+    "production_year_start": 1996,
+    "production_year_end": 1996,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.7L LT4 V8", "power_hp": 330, "fuel": "Petrol", "transmissions": ["6-speed Manual"] }
+    ],
+    "notes": "1150 példány készült, Admiral Blue fehér csíkkal és piros kerekívekkel."
+  },
+  {
+    "id": 1202,
+    "brand": "Chevrolet",
+    "model": "Corvette Grand Sport (C6)",
+    "production_year_start": 2010,
+    "production_year_end": 2013,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "6.2L LS3 V8", "power_hp": 430, "fuel": "Petrol", "transmissions": ["6-speed Manual", "6-speed Automatic"] }
+    ],
+    "notes": "A Z06 karosszéria szélességével, de alap LS3 motorral készült."
+  },
+  {
+    "id": 1203,
+    "brand": "Chevrolet",
+    "model": "Corvette Grand Sport (C7)",
+    "production_year_start": 2017,
+    "production_year_end": 2019,
+    "body_styles": ["Coupe", "Convertible"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "6.2L LT1 V8", "power_hp": 460, "fuel": "Petrol", "transmissions": ["7-speed Manual", "8-speed Automatic"] }
+    ],
+    "notes": "A C7 Z06 futóművét és aerodinamikáját kapta, kompresszor nélkül."
+  },
+  {
+    "id": 1204,
+    "brand": "Chevrolet",
+    "model": "Corvette Callaway Twin Turbo (C4)",
+    "production_year_start": 1987,
+    "production_year_end": 1991,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.7L Twin-Turbo V8", "power_hp": 382, "fuel": "Petrol", "transmissions": ["6-speed Manual"] }
+    ],
+    "notes": "Gyári Callaway tuning, RPO B2K opciókód alatt rendelhető volt."
+  },
+  {
+    "id": 1205,
+    "brand": "Chevrolet",
+    "model": "Corvette Callaway C12",
+    "production_year_start": 1998,
+    "production_year_end": 2003,
+    "body_styles": ["Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.7L LS1 V8", "power_hp": 440, "fuel": "Petrol", "transmissions": ["6-speed Manual"] }
+    ],
+    "notes": "Európai piacra szánt Callaway-átalakítás, új karosszériával és belsővel."
+  },
+  {
+    "id": 1206,
+    "brand": "Chevrolet",
+    "model": "Corvette Zora Prototype (CERV I)",
+    "production_year_start": 1959,
+    "production_year_end": 1959,
+    "body_styles": ["Single-seater Prototype"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.0L V8 Small Block", "power_hp": 350, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ],
+    "notes": "Zora Arkus-Duntov mérnök által fejlesztett első Corvette Experimental Research Vehicle."
+  },
+  {
+    "id": 1207,
+    "brand": "Chevrolet",
+    "model": "Corvette CERV II Prototype",
+    "production_year_start": 1964,
+    "production_year_end": 1964,
+    "body_styles": ["Mid-engine Prototype"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "6.2L V8 All-wheel drive", "power_hp": 500, "fuel": "Petrol", "transmissions": ["Automatic Experimental"] }
+    ],
+    "notes": "Dupla kuplungos, összkerék-hajtású kísérleti Corvette a hatvanas évekből."
+  },
+  {
+    "id": 1208,
+    "brand": "Chevrolet",
+    "model": "Corvette CERV III Prototype",
+    "production_year_start": 1990,
+    "production_year_end": 1990,
+    "body_styles": ["Concept Car"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "5.7L Twin-Turbo V8", "power_hp": 650, "fuel": "Petrol", "transmissions": ["6-speed Automatic"] }
+    ],
+    "notes": "Fejlett karbon karosszéria és összkerék-hajtás – a későbbi C5 fejlesztési alapja."
+  },
+  {
+    "id": 1209,
+    "brand": "Chevrolet",
+    "model": "Corvette Manta Ray Concept",
+    "production_year_start": 1969,
+    "production_year_end": 1969,
+    "body_styles": ["Concept Car"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "7.0L V8 427", "power_hp": 430, "fuel": "Petrol", "transmissions": ["4-speed Manual"] }
+    ],
+    "notes": "A C3 Stingray formatervezési előfutára, különleges far kialakítással."
+  }
+],
