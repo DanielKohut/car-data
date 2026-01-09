@@ -20118,3 +20118,231 @@
     "notes": "A C3 Stingray formatervezési előfutára, különleges far kialakítással."
   }
 ],
+[
+  {
+    "id": 1210,
+    "brand": "Cupra",
+    "model": "Ateca",
+    "production_year_start": 2018,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0 TSI",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"],
+        "drivetrain": "AWD"
+      }
+    ]
+  },
+  {
+    "id": 1211,
+    "brand": "Cupra",
+    "model": "Born",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 204,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"],
+        "range_km": 424
+      },
+      {
+        "name": "Electric Motor e-Boost",
+        "power_hp": 231,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"],
+        "range_km": 548
+      }
+    ]
+  },
+  {
+    "id": 1212,
+    "brand": "Cupra",
+    "model": "Formentor",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "1.5 TSI",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0 TSI",
+        "power_hp": 190,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"],
+        "drivetrain": "AWD"
+      },
+      {
+        "name": "2.0 TSI",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"],
+        "drivetrain": "AWD"
+      },
+      {
+        "name": "1.4 e-Hybrid",
+        "power_hp": 204,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"],
+        "electric_range_km": 50
+      }
+    ]
+  },
+  {
+    "id": 1213,
+    "brand": "Cupra",
+    "model": "Formentor VZ5",
+    "production_year_start": 2021,
+    "production_year_end": 2023,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.5 TSI Inline-5",
+        "power_hp": 390,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"],
+        "drivetrain": "AWD"
+      }
+    ]
+  },
+  {
+    "id": 1214,
+    "brand": "Cupra",
+    "model": "Leon",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TSI",
+        "power_hp": 245,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.0 TSI",
+        "power_hp": 300,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "1.4 e-Hybrid",
+        "power_hp": 204,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1215,
+    "brand": "Cupra",
+    "model": "Leon Sportstourer",
+    "production_year_start": 2020,
+    "production_year_end": null,
+    "body_styles": ["Wagon"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "2.0 TSI",
+        "power_hp": 310,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"],
+        "drivetrain": "AWD"
+      },
+      {
+        "name": "1.4 e-Hybrid",
+        "power_hp": 245,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1216,
+    "brand": "Cupra",
+    "model": "Tavascan",
+    "production_year_start": 2024,
+    "production_year_end": null,
+    "body_styles": ["SUV-Coupe"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor RWD",
+        "power_hp": 286,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"],
+        "range_km": 550
+      },
+      {
+        "name": "Electric Motor AWD",
+        "power_hp": 340,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"],
+        "range_km": 520
+      }
+    ]
+  },
+  {
+    "id": 1217,
+    "brand": "Cupra",
+    "model": "Terramar",
+    "production_year_start": 2024,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      {
+        "name": "1.5 TSI",
+        "power_hp": 150,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "2.0 TSI",
+        "power_hp": 265,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"],
+        "drivetrain": "AWD"
+      },
+      {
+        "name": "e-Hybrid",
+        "power_hp": 272,
+        "fuel": "Hybrid",
+        "transmissions": ["Automatic"],
+        "electric_range_km": 100
+      }
+    ]
+  },
+  {
+    "id": 1218,
+    "brand": "Cupra",
+    "model": "Raval",
+    "production_year_start": 2026,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      {
+        "name": "Electric Motor",
+        "power_hp": 226,
+        "fuel": "Electric",
+        "transmissions": ["Automatic"],
+        "range_km": 440
+      }
+    ]
+  }
+],
