@@ -20346,3 +20346,220 @@
     ]
   }
 ],
+[
+  {
+    "id": 1219,
+    "brand": "Dacia",
+    "model": "1100",
+    "production_year_start": 1968,
+    "production_year_end": 1972,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.1L Inline-4", "power_hp": 48, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1220,
+    "brand": "Dacia",
+    "model": "1300",
+    "production_year_start": 1969,
+    "production_year_end": 1982,
+    "body_styles": ["Sedan", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.3L Inline-4", "power_hp": 54, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1221,
+    "brand": "Dacia",
+    "model": "1310",
+    "production_year_start": 1979,
+    "production_year_end": 2004,
+    "body_styles": ["Sedan", "Estate"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.3L Inline-4", "power_hp": 56, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.4L Inline-4", "power_hp": 62, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1222,
+    "brand": "Dacia",
+    "model": "1325 Liberta",
+    "production_year_start": 1991,
+    "production_year_end": 1996,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.4L Inline-4", "power_hp": 62, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1223,
+    "brand": "Dacia",
+    "model": "Nova",
+    "production_year_start": 1995,
+    "production_year_end": 2000,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.4L Inline-4", "power_hp": 75, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1224,
+    "brand": "Dacia",
+    "model": "SuperNova",
+    "production_year_start": 2000,
+    "production_year_end": 2003,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      { "name": "1.4L Inline-4", "power_hp": 75, "fuel": "Petrol", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1225,
+    "brand": "Dacia",
+    "model": "Solenza",
+    "production_year_start": 2003,
+    "production_year_end": 2005,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.4L Inline-4", "power_hp": 75, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.9D", "power_hp": 63, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1226,
+    "brand": "Dacia",
+    "model": "Logan",
+    "production_year_start": 2004,
+    "production_year_end": null,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol", "Diesel", "LPG"],
+    "engines": [
+      { "name": "1.0 SCe", "power_hp": 65, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.3 TCe", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.5 dCi", "power_hp": 95, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1227,
+    "brand": "Dacia",
+    "model": "Logan MCV",
+    "production_year_start": 2006,
+    "production_year_end": 2022,
+    "body_styles": ["Estate"],
+    "fuel_types": ["Petrol", "Diesel", "LPG"],
+    "engines": [
+      { "name": "1.0 TCe", "power_hp": 90, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.5 dCi", "power_hp": 95, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1228,
+    "brand": "Dacia",
+    "model": "Sandero",
+    "production_year_start": 2008,
+    "production_year_end": null,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol", "LPG"],
+    "engines": [
+      { "name": "1.0 SCe", "power_hp": 65, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.0 TCe", "power_hp": 90, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1229,
+    "brand": "Dacia",
+    "model": "Sandero Stepway",
+    "production_year_start": 2009,
+    "production_year_end": null,
+    "body_styles": ["Crossover"],
+    "fuel_types": ["Petrol", "LPG"],
+    "engines": [
+      { "name": "1.0 TCe", "power_hp": 90, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }
+    ]
+  },
+  {
+    "id": 1230,
+    "brand": "Dacia",
+    "model": "Duster",
+    "production_year_start": 2010,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+    "engines": [
+      { "name": "1.3 TCe", "power_hp": 150, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] },
+      { "name": "1.5 dCi", "power_hp": 115, "fuel": "Diesel", "transmissions": ["Manual"] },
+      { "name": "1.6 Hybrid", "power_hp": 140, "fuel": "Hybrid", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1231,
+    "brand": "Dacia",
+    "model": "Lodgy",
+    "production_year_start": 2012,
+    "production_year_end": 2022,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.3 TCe", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.5 dCi", "power_hp": 110, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1232,
+    "brand": "Dacia",
+    "model": "Dokker",
+    "production_year_start": 2012,
+    "production_year_end": 2021,
+    "body_styles": ["Van", "MPV"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "engines": [
+      { "name": "1.3 TCe", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.5 dCi", "power_hp": 95, "fuel": "Diesel", "transmissions": ["Manual"] }
+    ]
+  },
+  {
+    "id": 1233,
+    "brand": "Dacia",
+    "model": "Jogger",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["Estate", "MPV"],
+    "fuel_types": ["Petrol", "Hybrid"],
+    "engines": [
+      { "name": "1.0 TCe", "power_hp": 110, "fuel": "Petrol", "transmissions": ["Manual"] },
+      { "name": "1.6 Hybrid", "power_hp": 140, "fuel": "Hybrid", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1234,
+    "brand": "Dacia",
+    "model": "Spring",
+    "production_year_start": 2021,
+    "production_year_end": null,
+    "body_styles": ["City Car"],
+    "fuel_types": ["Electric"],
+    "engines": [
+      { "name": "Electric Motor", "power_hp": 65, "fuel": "Electric", "transmissions": ["Automatic"] }
+    ]
+  },
+  {
+    "id": 1235,
+    "brand": "Dacia",
+    "model": "Bigster",
+    "production_year_start": 2025,
+    "production_year_end": null,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Hybrid"],
+    "engines": [
+      { "name": "Hybrid Powertrain", "power_hp": 155, "fuel": "Hybrid", "transmissions": ["Automatic"] }
+    ]
+  }
+],
