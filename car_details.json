@@ -20563,3 +20563,347 @@
     ]
   }
 ],
+[
+  {
+    "id": 1236,
+    "brand": "Daewoo",
+    "model": "Alpheon",
+    "production_year_start": 2010,
+    "production_year_end": 2015,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.4L Inline-4",
+        "power_hp": 170,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "brand": "Daewoo",
+    "model": "Arcadia",
+    "production_year_start": 1994,
+    "production_year_end": 1999,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.2L V6",
+        "power_hp": 220,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1238,
+    "brand": "Daewoo",
+    "model": "Chairman",
+    "production_year_start": 1997,
+    "production_year_end": 2017,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.8L Inline-6",
+        "power_hp": 193,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      },
+      {
+        "name": "3.2L Inline-6",
+        "power_hp": 220,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1239,
+    "brand": "Daewoo",
+    "model": "Chairman W",
+    "production_year_start": 2008,
+    "production_year_end": 2017,
+    "body_styles": ["Luxury Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "3.6L V6",
+        "power_hp": 280,
+        "fuel": "Petrol",
+        "transmissions": ["Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1240,
+    "brand": "Daewoo",
+    "model": "Cielo",
+    "production_year_start": 1994,
+    "production_year_end": 2001,
+    "body_styles": ["Sedan", "Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 75,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1241,
+    "brand": "Daewoo",
+    "model": "Damas",
+    "production_year_start": 1991,
+    "production_year_end": 2021,
+    "body_styles": ["Van", "Minibus"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.8L Inline-3",
+        "power_hp": 38,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1242,
+    "brand": "Daewoo",
+    "model": "Espero",
+    "production_year_start": 1990,
+    "production_year_end": 1997,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.8L Inline-4",
+        "power_hp": 95,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      },
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 110,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1243,
+    "brand": "Daewoo",
+    "model": "Gentra",
+    "production_year_start": 2005,
+    "production_year_end": 2016,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1244,
+    "brand": "Daewoo",
+    "model": "Istana",
+    "production_year_start": 1995,
+    "production_year_end": 2003,
+    "body_styles": ["Van", "Minibus"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.9L Diesel",
+        "power_hp": 98,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1245,
+    "brand": "Daewoo",
+    "model": "Kalos",
+    "production_year_start": 2002,
+    "production_year_end": 2008,
+    "body_styles": ["Hatchback", "Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.2L Inline-4",
+        "power_hp": 72,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.4L Inline-4",
+        "power_hp": 94,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1246,
+    "brand": "Daewoo",
+    "model": "Lanos",
+    "production_year_start": 1997,
+    "production_year_end": 2004,
+    "body_styles": ["Sedan", "Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.5L Inline-4",
+        "power_hp": 86,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 106,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1247,
+    "brand": "Daewoo",
+    "model": "Leganza",
+    "production_year_start": 1997,
+    "production_year_end": 2002,
+    "body_styles": ["Sedan"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 133,
+        "fuel": "Petrol",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  },
+  {
+    "id": 1248,
+    "brand": "Daewoo",
+    "model": "Matiz",
+    "production_year_start": 1998,
+    "production_year_end": 2015,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.8L Inline-3",
+        "power_hp": 51,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "1.0L Inline-4",
+        "power_hp": 64,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1249,
+    "brand": "Daewoo",
+    "model": "Musso",
+    "production_year_start": 1993,
+    "production_year_end": 2006,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel", "Petrol"],
+    "engines": [
+      {
+        "name": "2.9L Diesel",
+        "power_hp": 120,
+        "fuel": "Diesel",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1250,
+    "brand": "Daewoo",
+    "model": "Nubira",
+    "production_year_start": 1997,
+    "production_year_end": 2003,
+    "body_styles": ["Sedan", "Wagon"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 106,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      },
+      {
+        "name": "2.0L Inline-4",
+        "power_hp": 133,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1251,
+    "brand": "Daewoo",
+    "model": "Rezzo",
+    "production_year_start": 2000,
+    "production_year_end": 2008,
+    "body_styles": ["MPV"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "1.6L Inline-4",
+        "power_hp": 105,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1252,
+    "brand": "Daewoo",
+    "model": "Tico",
+    "production_year_start": 1991,
+    "production_year_end": 2001,
+    "body_styles": ["Hatchback"],
+    "fuel_types": ["Petrol"],
+    "engines": [
+      {
+        "name": "0.8L Inline-3",
+        "power_hp": 41,
+        "fuel": "Petrol",
+        "transmissions": ["Manual"]
+      }
+    ]
+  },
+  {
+    "id": 1253,
+    "brand": "Daewoo",
+    "model": "Winstorm",
+    "production_year_start": 2006,
+    "production_year_end": 2011,
+    "body_styles": ["SUV"],
+    "fuel_types": ["Diesel"],
+    "engines": [
+      {
+        "name": "2.0L Diesel",
+        "power_hp": 150,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+    ]
+  }
+],
