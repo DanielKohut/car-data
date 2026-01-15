@@ -21057,3 +21057,799 @@
   ]
 }
 ],
+{
+  "id": 1261,
+  "brand": "Daihatsu",
+  "model": "Atrai",
+  "production_year_start": 1981,
+  "production_year_end": null,
+  "body_styles": ["Van", "MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 64,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1262,
+  "brand": "Daihatsu",
+  "model": "Ayla",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.0L Inline-3",
+      "power_hp": 67,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1263,
+  "brand": "Daihatsu",
+  "model": "Be-go",
+  "production_year_start": 2006,
+  "production_year_end": 2018,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1264,
+  "brand": "Daihatsu",
+  "model": "Boon",
+  "production_year_start": 2004,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.3L Inline-4",
+      "power_hp": 95,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1265,
+  "brand": "Daihatsu",
+  "model": "Cast",
+  "production_year_start": 2015,
+  "production_year_end": 2023,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 64,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1266,
+  "brand": "Daihatsu",
+  "model": "Charmant",
+  "production_year_start": 1974,
+  "production_year_end": 1981,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1267,
+  "brand": "Daihatsu",
+  "model": "Coo",
+  "production_year_start": 2006,
+  "production_year_end": 2013,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 109,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1268,
+  "brand": "Daihatsu",
+  "model": "Delta",
+  "production_year_start": 1970,
+  "production_year_end": 2019,
+  "body_styles": ["Truck", "Van"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.8L Diesel",
+      "power_hp": 90,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1269,
+  "brand": "Daihatsu",
+  "model": "Esse",
+  "production_year_start": 2005,
+  "production_year_end": 2011,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 58,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1270,
+  "brand": "Daihatsu",
+  "model": "Gran Max",
+  "production_year_start": 2007,
+  "production_year_end": null,
+  "body_styles": ["Van", "Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 97,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1271,
+  "brand": "Daihatsu",
+  "model": "Hijet",
+  "production_year_start": 1960,
+  "production_year_end": null,
+  "body_styles": ["Van", "Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 53,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1272,
+  "brand": "Daihatsu",
+  "model": "Leeza",
+  "production_year_start": 1986,
+  "production_year_end": 1992,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.55L Inline-3",
+      "power_hp": 52,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1273,
+  "brand": "Daihatsu",
+  "model": "Materia",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 103,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1274,
+  "brand": "Daihatsu",
+  "model": "MAX",
+  "production_year_start": 2001,
+  "production_year_end": 2005,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 64,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1275,
+  "brand": "Daihatsu",
+  "model": "Mebius",
+  "production_year_start": 2013,
+  "production_year_end": 2021,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "1.8L Hybrid Inline-4",
+      "power_hp": 136,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1276,
+  "brand": "Daihatsu",
+  "model": "Mira",
+  "production_year_start": 1980,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 64,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1277,
+  "brand": "Daihatsu",
+  "model": "Move",
+  "production_year_start": 1995,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3 Turbo",
+      "power_hp": 64,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1278,
+  "brand": "Daihatsu",
+  "model": "Naked",
+  "production_year_start": 1999,
+  "production_year_end": 2004,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 58,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1279,
+  "brand": "Daihatsu",
+  "model": "Opti",
+  "production_year_start": 1998,
+  "production_year_end": 2002,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 58,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1280,
+  "brand": "Daihatsu",
+  "model": "Pyzar",
+  "production_year_start": 1996,
+  "production_year_end": 2002,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1281,
+  "brand": "Daihatsu",
+  "model": "Rugger",
+  "production_year_start": 1984,
+  "production_year_end": 2002,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.8L Diesel",
+      "power_hp": 95,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1282,
+  "brand": "Daihatsu",
+  "model": "Sonica",
+  "production_year_start": 2006,
+  "production_year_end": 2009,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3 Turbo",
+      "power_hp": 64,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1283,
+  "brand": "Daihatsu",
+  "model": "Wake",
+  "production_year_start": 2014,
+  "production_year_end": 2022,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 64,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1284,
+  "brand": "Daihatsu",
+  "model": "Xenia",
+  "production_year_start": 2004,
+  "production_year_end": null,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 104,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+}
+],
+{
+  "id": 1285,
+  "brand": "Daimler",
+  "model": "15",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1286,
+  "brand": "Daimler",
+  "model": "16",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1287,
+  "brand": "Daimler",
+  "model": "20",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1288,
+  "brand": "Daimler",
+  "model": "25",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1289,
+  "brand": "Daimler",
+  "model": "30",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1290,
+  "brand": "Daimler",
+  "model": "35",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1291,
+  "brand": "Daimler",
+  "model": "45",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1292,
+  "brand": "Daimler",
+  "model": "50",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1293,
+  "brand": "Daimler",
+  "model": "One-O-Four",
+  "production_year_start": 1955,
+  "production_year_end": 1959,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L Inline-6",
+      "power_hp": 137,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1294,
+  "brand": "Daimler",
+  "model": "Conquest",
+  "production_year_start": 1953,
+  "production_year_end": 1958,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-6",
+      "power_hp": 75,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1295,
+  "brand": "Daimler",
+  "model": "Conquest Century",
+  "production_year_start": 1954,
+  "production_year_end": 1958,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-6",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1296,
+  "brand": "Daimler",
+  "model": "Conquest Roadster",
+  "production_year_start": 1954,
+  "production_year_end": 1955,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-6",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1297,
+  "brand": "Daimler",
+  "model": "DB18",
+  "production_year_start": 1939,
+  "production_year_end": 1953,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1298,
+  "brand": "Daimler",
+  "model": "DE27",
+  "production_year_start": 1945,
+  "production_year_end": 1953,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1299,
+  "brand": "Daimler",
+  "model": "DE36",
+  "production_year_start": 1946,
+  "production_year_end": 1953,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1300,
+  "brand": "Daimler",
+  "model": "DK400",
+  "production_year_start": 1954,
+  "production_year_end": 1960,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1301,
+  "brand": "Daimler",
+  "model": "Double-Six",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1302,
+  "brand": "Daimler",
+  "model": "DR450",
+  "production_year_start": 1961,
+  "production_year_end": 1968,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1303,
+  "brand": "Daimler",
+  "model": "Empress",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1304,
+  "brand": "Daimler",
+  "model": "Light Twenty",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1305,
+  "brand": "Daimler",
+  "model": "Majestic",
+  "production_year_start": 1958,
+  "production_year_end": 1962,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L Inline-6",
+      "power_hp": 220,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1306,
+  "brand": "Daimler",
+  "model": "Majestic Major",
+  "production_year_start": 1960,
+  "production_year_end": 1968,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.5L V8",
+      "power_hp": 220,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1307,
+  "brand": "Daimler",
+  "model": "Regency",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1308,
+  "brand": "Daimler",
+  "model": "Regency Mk II",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1309,
+  "brand": "Daimler",
+  "model": "Regency Mk III",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1310,
+  "brand": "Daimler",
+  "model": "Sovereign",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1311,
+  "brand": "Daimler",
+  "model": "SP250",
+  "production_year_start": 1959,
+  "production_year_end": 1964,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.5L V8",
+      "power_hp": 140,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1312,
+  "brand": "Daimler",
+  "model": "Special Sports",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sports"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1313,
+  "brand": "Daimler",
+  "model": "Straight Eight",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1314,
+  "brand": "Daimler",
+  "model": "Corsica",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Coupe", "Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1315,
+  "brand": "Daimler",
+  "model": "Century",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1316,
+  "brand": "Daimler",
+  "model": "Consort",
+  "production_year_start": null,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": []
+},
+{
+  "id": 1317,
+  "brand": "Daimler",
+  "model": "V8-250",
+  "production_year_start": 1962,
+  "production_year_end": 1969,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.5L V8",
+      "power_hp": 140,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+}
+],
