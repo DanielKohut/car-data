@@ -1691,7 +1691,7 @@
       "Xenia",
       "YRV"
     ],
-      "Daimler": [
+    "Daimler": [
       "15",
       "16",
       "20",
@@ -1699,13 +1699,15 @@
       "30",
       "35",
       "45",
-      "50 Double-Six",
-      "104",
+      "50",
+      "One-O-Four",
       "250 V8",
-      "2.5 V8",
       "Conquest",
       "Conquest Century",
       "Conquest Roadster",
+      "Consort",
+      "Corsica",
+      "Century",
       "DB18",
       "DE27",
       "DE36",
@@ -1713,16 +1715,16 @@
       "Double-Six",
       "DR450",
       "Empress",
+      "Light Twenty",
       "Majestic",
       "Majestic Major",
-      "One-O-Four",
       "Regency",
       "Regency Mk II",
       "Regency Mk III",
       "Sovereign",
       "SP250",
       "Special Sports",
-      "V8-250"
+      "Straight Eight"
     ],
     "Datsun": [
       "100A",
