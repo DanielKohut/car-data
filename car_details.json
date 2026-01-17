@@ -22381,3 +22381,95 @@
   ]
 }
 ],
+{
+  "id": 1349,
+  "brand": "Dax",
+  "model": "427",
+  "production_year_start": 1965,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1350,
+  "brand": "Dax",
+  "model": "Californian",
+  "production_year_start": 1980,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V8",
+      "power_hp": 200,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1351,
+  "brand": "Dax",
+  "model": "Rush",
+  "production_year_start": 1990,
+  "production_year_end": null,
+  "body_styles": ["Sports"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 180,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1352,
+  "brand": "Dax",
+  "model": "Tojeiro",
+  "production_year_start": 1980,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1353,
+  "brand": "Dax",
+  "model": "Kamala",
+  "production_year_start": 1990,
+  "production_year_end": null,
+  "body_styles": ["Off-road"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 110,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    },
+    {
+      "name": "2.5L Diesel",
+      "power_hp": 90,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
+],
