@@ -22473,3 +22473,395 @@
   ]
 }
 ],
+{
+  "id": 1354,
+  "brand": "Delahaye",
+  "model": "Type 0",
+  "production_year_start": 1895,
+  "production_year_end": 1896,
+  "body_styles": ["Open"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.0L Single-Cylinder",
+      "power_hp": 4,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1355,
+  "brand": "Delahaye",
+  "model": "Type 1",
+  "production_year_start": 1896,
+  "production_year_end": 1897,
+  "body_styles": ["Open"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.2L Single-Cylinder",
+      "power_hp": 6,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1356,
+  "brand": "Delahaye",
+  "model": "Type 2",
+  "production_year_start": 1897,
+  "production_year_end": 1899,
+  "body_styles": ["Open"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.4L Single-Cylinder",
+      "power_hp": 8,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1357,
+  "brand": "Delahaye",
+  "model": "44",
+  "production_year_start": 1921,
+  "production_year_end": 1927,
+  "body_styles": ["Sedan", "Tourer"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.1L Inline-4",
+      "power_hp": 30,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1358,
+  "brand": "Delahaye",
+  "model": "18 Sport",
+  "production_year_start": 1925,
+  "production_year_end": 1927,
+  "body_styles": ["Sports"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 45,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1359,
+  "brand": "Delahaye",
+  "model": "134",
+  "production_year_start": 1934,
+  "production_year_end": 1938,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.1L Inline-4",
+      "power_hp": 60,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1360,
+  "brand": "Delahaye",
+  "model": "134N",
+  "production_year_start": 1936,
+  "production_year_end": 1939,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.1L Inline-4",
+      "power_hp": 70,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1361,
+  "brand": "Delahaye",
+  "model": "135",
+  "production_year_start": 1935,
+  "production_year_end": 1952,
+  "body_styles": ["Coupe", "Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.2L Inline-6",
+      "power_hp": 110,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1362,
+  "brand": "Delahaye",
+  "model": "135M",
+  "production_year_start": 1937,
+  "production_year_end": 1950,
+  "body_styles": ["Coupe", "Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1363,
+  "brand": "Delahaye",
+  "model": "135MS",
+  "production_year_start": 1938,
+  "production_year_end": 1952,
+  "body_styles": ["Coupe", "Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 160,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1364,
+  "brand": "Delahaye",
+  "model": "138",
+  "production_year_start": 1936,
+  "production_year_end": 1950,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.2L Inline-6",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1365,
+  "brand": "Delahaye",
+  "model": "145",
+  "production_year_start": 1937,
+  "production_year_end": 1938,
+  "body_styles": ["Racing"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.5L V12",
+      "power_hp": 235,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1366,
+  "brand": "Delahaye",
+  "model": "148",
+  "production_year_start": 1939,
+  "production_year_end": 1954,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1367,
+  "brand": "Delahaye",
+  "model": "148L",
+  "production_year_start": 1950,
+  "production_year_end": 1954,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1368,
+  "brand": "Delahaye",
+  "model": "155",
+  "production_year_start": 1938,
+  "production_year_end": 1939,
+  "body_styles": ["Racing"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.5L V12",
+      "power_hp": 250,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1369,
+  "brand": "Delahaye",
+  "model": "165",
+  "production_year_start": 1939,
+  "production_year_end": 1941,
+  "body_styles": ["Coupe", "Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.5L V12",
+      "power_hp": 175,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1370,
+  "brand": "Delahaye",
+  "model": "168",
+  "production_year_start": 1938,
+  "production_year_end": 1950,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.2L Inline-6",
+      "power_hp": 95,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1371,
+  "brand": "Delahaye",
+  "model": "171",
+  "production_year_start": 1946,
+  "production_year_end": 1954,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1372,
+  "brand": "Delahaye",
+  "model": "175",
+  "production_year_start": 1948,
+  "production_year_end": 1954,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 110,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1373,
+  "brand": "Delahaye",
+  "model": "178",
+  "production_year_start": 1951,
+  "production_year_end": 1954,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1374,
+  "brand": "Delahaye",
+  "model": "180",
+  "production_year_start": 1948,
+  "production_year_end": 1954,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1375,
+  "brand": "Delahaye",
+  "model": "235",
+  "production_year_start": 1951,
+  "production_year_end": 1954,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 152,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1376,
+  "brand": "Delahaye",
+  "model": "VLR",
+  "production_year_start": 1950,
+  "production_year_end": 1954,
+  "body_styles": ["Off-road"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L Inline-6",
+      "power_hp": 80,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
+],
