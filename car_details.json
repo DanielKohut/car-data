@@ -22865,3 +22865,21 @@
   ]
 }
 ],
+{
+  "id": 1377,
+  "brand": "DeLorean",
+  "model": "DMC-12",
+  "production_year_start": 1981,
+  "production_year_end": 1983,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.8L V6 (PRV)",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+}
+],
