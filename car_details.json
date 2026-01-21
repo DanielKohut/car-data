@@ -22882,4 +22882,224 @@
     }
   ]
 }
-],
+{
+  "id": 1378,
+  "brand": "De Tomaso",
+  "model": "Vallelunga",
+  "production_year_start": 1963,
+  "production_year_end": 1968,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 104,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1379,
+  "brand": "De Tomaso",
+  "model": "Mangusta",
+  "production_year_start": 1967,
+  "production_year_end": 1971,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.7L V8",
+      "power_hp": 306,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1380,
+  "brand": "De Tomaso",
+  "model": "Pantera",
+  "production_year_start": 1971,
+  "production_year_end": 1992,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.8L V8",
+      "power_hp": 330,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1381,
+  "brand": "De Tomaso",
+  "model": "Longchamp",
+  "production_year_start": 1972,
+  "production_year_end": 1989,
+  "body_styles": ["Coupe", "Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.8L V8",
+      "power_hp": 330,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1382,
+  "brand": "De Tomaso",
+  "model": "Deauville",
+  "production_year_start": 1971,
+  "production_year_end": 1988,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.8L V8",
+      "power_hp": 330,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1383,
+  "brand": "De Tomaso",
+  "model": "P70",
+  "production_year_start": 1965,
+  "production_year_end": 1965,
+  "body_styles": ["Racing"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.0L V8",
+      "power_hp": 450,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1384,
+  "brand": "De Tomaso",
+  "model": "Sport 2000",
+  "production_year_start": 1965,
+  "production_year_end": 1966,
+  "body_styles": ["Racing"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 220,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1385,
+  "brand": "De Tomaso",
+  "model": "Sport 5000",
+  "production_year_start": 1965,
+  "production_year_end": 1966,
+  "body_styles": ["Racing"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.0L V8",
+      "power_hp": 450,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1386,
+  "brand": "De Tomaso",
+  "model": "De Tomaso 5000",
+  "production_year_start": 1966,
+  "production_year_end": 1966,
+  "body_styles": ["Racing"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.0L V8",
+      "power_hp": 450,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1387,
+  "brand": "De Tomaso",
+  "model": "Guarà",
+  "production_year_start": 1993,
+  "production_year_end": 2004,
+  "body_styles": ["Coupe", "Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.6L V8",
+      "power_hp": 320,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1388,
+  "brand": "De Tomaso",
+  "model": "Biguà",
+  "production_year_start": 1996,
+  "production_year_end": 1999,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.6L V8",
+      "power_hp": 320,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1389,
+  "brand": "De Tomaso",
+  "model": "P72",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Supercharged V8",
+      "power_hp": 700,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1390,
+  "brand": "De Tomaso",
+  "model": "P900",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["Track"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.2L V12",
+      "power_hp": 900,
+      "fuel": "Petrol",
+      "transmissions": ["Sequential"]
+    }
+  ]
+}
