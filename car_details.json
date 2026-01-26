@@ -23103,3 +23103,411 @@
     }
   ]
 }
+{
+  "id": 1391,
+  "brand": "DFSK",
+  "model": "C31",
+  "production_year_start": 2014,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 112,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1392,
+  "brand": "DFSK",
+  "model": "C35",
+  "production_year_start": 2014,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 112,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1393,
+  "brand": "DFSK",
+  "model": "C36",
+  "production_year_start": 2016,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 114,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1394,
+  "brand": "DFSK",
+  "model": "C37",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 114,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1395,
+  "brand": "DFSK",
+  "model": "EC35",
+  "production_year_start": 2017,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 80,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1396,
+  "brand": "DFSK",
+  "model": "EC36",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 82,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1397,
+  "brand": "DFSK",
+  "model": "EC36II",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 95,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1398,
+  "brand": "DFSK",
+  "model": "Fengon 500",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 116,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1399,
+  "brand": "DFSK",
+  "model": "Fengon 580",
+  "production_year_start": 2016,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1400,
+  "brand": "DFSK",
+  "model": "Fengon 600",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 177,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1401,
+  "brand": "DFSK",
+  "model": "Fengon ix5",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["SUV Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1402,
+  "brand": "DFSK",
+  "model": "Fengon ix6",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["SUV Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 165,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1403,
+  "brand": "DFSK",
+  "model": "Fengon ix7",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Inline-4",
+      "power_hp": 231,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1404,
+  "brand": "DFSK",
+  "model": "Glory 330",
+  "production_year_start": 2014,
+  "production_year_end": null,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 112,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1405,
+  "brand": "DFSK",
+  "model": "Glory 370",
+  "production_year_start": 2016,
+  "production_year_end": null,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 116,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1406,
+  "brand": "DFSK",
+  "model": "Glory 500",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 116,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1407,
+  "brand": "DFSK",
+  "model": "Glory 560",
+  "production_year_start": 2017,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 139,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1408,
+  "brand": "DFSK",
+  "model": "Glory 580",
+  "production_year_start": 2016,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1409,
+  "brand": "DFSK",
+  "model": "K01",
+  "production_year_start": 2005,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.0L Inline-4",
+      "power_hp": 68,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1410,
+  "brand": "DFSK",
+  "model": "K02",
+  "production_year_start": 2006,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.1L Inline-4",
+      "power_hp": 72,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1411,
+  "brand": "DFSK",
+  "model": "K05",
+  "production_year_start": 2007,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.3L Inline-4",
+      "power_hp": 82,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1412,
+  "brand": "DFSK",
+  "model": "K07",
+  "production_year_start": 2009,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 102,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1413,
+  "brand": "DFSK",
+  "model": "K07S",
+  "production_year_start": 2015,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1414,
+  "brand": "DFSK",
+  "model": "K17",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.9L Diesel",
+      "power_hp": 120,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
