@@ -23511,3 +23511,615 @@
     }
   ]
 }
+{
+  "id": 1415,
+  "brand": "Dodge",
+  "model": "Aries",
+  "production_year_start": 1981,
+  "production_year_end": 1989,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 93,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1416,
+  "brand": "Dodge",
+  "model": "Aspen",
+  "production_year_start": 1976,
+  "production_year_end": 1980,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.2L V8",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1417,
+  "brand": "Dodge",
+  "model": "Avenger",
+  "production_year_start": 1995,
+  "production_year_end": 2023,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 173,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1418,
+  "brand": "Dodge",
+  "model": "Caliber",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 156,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1419,
+  "brand": "Dodge",
+  "model": "Caravan",
+  "production_year_start": 1984,
+  "production_year_end": 2007,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L V6",
+      "power_hp": 158,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1420,
+  "brand": "Dodge",
+  "model": "Grand Caravan",
+  "production_year_start": 1987,
+  "production_year_end": 2020,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L V6",
+      "power_hp": 283,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1421,
+  "brand": "Dodge",
+  "model": "Challenger",
+  "production_year_start": 1970,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.4L V8",
+      "power_hp": 485,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1422,
+  "brand": "Dodge",
+  "model": "Charger",
+  "production_year_start": 1966,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.4L V8",
+      "power_hp": 485,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1423,
+  "brand": "Dodge",
+  "model": "Colt",
+  "production_year_start": 1971,
+  "production_year_end": 1994,
+  "body_styles": ["Sedan", "Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 92,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1424,
+  "brand": "Dodge",
+  "model": "Coronet",
+  "production_year_start": 1949,
+  "production_year_end": 1976,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.9L V8",
+      "power_hp": 275,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1425,
+  "brand": "Dodge",
+  "model": "Dakota",
+  "production_year_start": 1987,
+  "production_year_end": 2011,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "4.7L V8",
+      "power_hp": 235,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1426,
+  "brand": "Dodge",
+  "model": "Dart",
+  "production_year_start": 1960,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 184,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1427,
+  "brand": "Dodge",
+  "model": "Daytona",
+  "production_year_start": 1984,
+  "production_year_end": 1993,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Turbo Inline-4",
+      "power_hp": 174,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1428,
+  "brand": "Dodge",
+  "model": "Diplomat",
+  "production_year_start": 1977,
+  "production_year_end": 1989,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.2L V8",
+      "power_hp": 140,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1429,
+  "brand": "Dodge",
+  "model": "Durango",
+  "production_year_start": 1998,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.7L V8",
+      "power_hp": 360,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1430,
+  "brand": "Dodge",
+  "model": "Hornet",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.3L Turbo Inline-4",
+      "power_hp": 268,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1431,
+  "brand": "Dodge",
+  "model": "Intrepid",
+  "production_year_start": 1993,
+  "production_year_end": 2004,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 242,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1432,
+  "brand": "Dodge",
+  "model": "Journey",
+  "production_year_start": 2008,
+  "production_year_end": 2020,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 173,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1433,
+  "brand": "Dodge",
+  "model": "Lancer",
+  "production_year_start": 1955,
+  "production_year_end": 1959,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.4L V8",
+      "power_hp": 170,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1434,
+  "brand": "Dodge",
+  "model": "Magnum",
+  "production_year_start": 1978,
+  "production_year_end": 2008,
+  "body_styles": ["Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.7L V8",
+      "power_hp": 340,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1435,
+  "brand": "Dodge",
+  "model": "Mirada",
+  "production_year_start": 1980,
+  "production_year_end": 1983,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.2L V8",
+      "power_hp": 140,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1436,
+  "brand": "Dodge",
+  "model": "Monaco",
+  "production_year_start": 1965,
+  "production_year_end": 1992,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.9L V8",
+      "power_hp": 190,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1437,
+  "brand": "Dodge",
+  "model": "Neon",
+  "production_year_start": 1994,
+  "production_year_end": 2005,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 132,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1438,
+  "brand": "Dodge",
+  "model": "Nitro",
+  "production_year_start": 2007,
+  "production_year_end": 2012,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.7L V6",
+      "power_hp": 210,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1439,
+  "brand": "Dodge",
+  "model": "Omni",
+  "production_year_start": 1977,
+  "production_year_end": 1990,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 96,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1440,
+  "brand": "Dodge",
+  "model": "Polara",
+  "production_year_start": 1960,
+  "production_year_end": 1973,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.3L V8",
+      "power_hp": 325,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1441,
+  "brand": "Dodge",
+  "model": "Raider",
+  "production_year_start": 1987,
+  "production_year_end": 1989,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L V6",
+      "power_hp": 141,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1442,
+  "brand": "Dodge",
+  "model": "Ram",
+  "production_year_start": 1981,
+  "production_year_end": 2010,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "5.9L Diesel",
+      "power_hp": 215,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1443,
+  "brand": "Dodge",
+  "model": "Ram Van",
+  "production_year_start": 1971,
+  "production_year_end": 2003,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.2L V8",
+      "power_hp": 230,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1444,
+  "brand": "Dodge",
+  "model": "Ramcharger",
+  "production_year_start": 1974,
+  "production_year_end": 2001,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.9L V8",
+      "power_hp": 245,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1445,
+  "brand": "Dodge",
+  "model": "Shadow",
+  "production_year_start": 1987,
+  "production_year_end": 1994,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.5L Inline-4",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1446,
+  "brand": "Dodge",
+  "model": "Spirit",
+  "production_year_start": 1989,
+  "production_year_end": 1995,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.5L Inline-4",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1447,
+  "brand": "Dodge",
+  "model": "Stealth",
+  "production_year_start": 1991,
+  "production_year_end": 1996,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L Twin-Turbo V6",
+      "power_hp": 320,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1448,
+  "brand": "Dodge",
+  "model": "Stratus",
+  "production_year_start": 1995,
+  "production_year_end": 2006,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1449,
+  "brand": "Dodge",
+  "model": "Super Bee",
+  "production_year_start": 1968,
+  "production_year_end": 1971,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.0L V8",
+      "power_hp": 425,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1450,
+  "brand": "Dodge",
+  "model": "Viper",
+  "production_year_start": 1992,
+  "production_year_end": 2017,
+  "body_styles": ["Coupe", "Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "8.4L V10",
+      "power_hp": 645,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
