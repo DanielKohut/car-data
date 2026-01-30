@@ -24242,3 +24242,275 @@
     }
   ]
 }
+{
+  "id": 1458,
+  "brand": "DR Automobiles",
+  "model": "DR 1",
+  "production_year_start": 2009,
+  "production_year_end": 2010,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.3L Inline-4",
+      "power_hp": 83,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1459,
+  "brand": "DR Automobiles",
+  "model": "DR 1.0",
+  "production_year_start": 2010,
+  "production_year_end": 2023,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.0L Inline-3",
+      "power_hp": 70,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1460,
+  "brand": "DR Automobiles",
+  "model": "DR 1.0 EV",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 61,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1461,
+  "brand": "DR Automobiles",
+  "model": "DR 2",
+  "production_year_start": 2010,
+  "production_year_end": 2015,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 109,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1462,
+  "brand": "DR Automobiles",
+  "model": "DR 2 EV",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 82,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1463,
+  "brand": "DR Automobiles",
+  "model": "DR 3.0",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 117,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1464,
+  "brand": "DR Automobiles",
+  "model": "DR 3 EV",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 95,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1465,
+  "brand": "DR Automobiles",
+  "model": "DR 4.0",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 114,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1466,
+  "brand": "DR Automobiles",
+  "model": "DR 5.0",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 116,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1467,
+  "brand": "DR Automobiles",
+  "model": "DR 5.0 EV",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 122,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1468,
+  "brand": "DR Automobiles",
+  "model": "DR 6.0",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 154,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1469,
+  "brand": "DR Automobiles",
+  "model": "DR 7.0",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Turbo Inline-4",
+      "power_hp": 177,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1470,
+  "brand": "DR Automobiles",
+  "model": "DR CityCross",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Crossover"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 114,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1471,
+  "brand": "DR Automobiles",
+  "model": "DR F35",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 116,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1472,
+  "brand": "DR Automobiles",
+  "model": "DR PK8",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Diesel",
+      "power_hp": 136,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1473,
+  "brand": "DR Automobiles",
+  "model": "DR Zero",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 61,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
