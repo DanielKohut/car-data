@@ -24514,3 +24514,258 @@
     }
   ]
 }
+{
+  "id": 1474,
+  "brand": "DS Automobiles",
+  "model": "DS 3",
+  "production_year_start": 2010,
+  "production_year_end": 2019,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Petrol",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1475,
+  "brand": "DS Automobiles",
+  "model": "DS 3 Crossback",
+  "production_year_start": 2018,
+  "production_year_end": 2022,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.2L Turbo Inline-3",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1476,
+  "brand": "DS Automobiles",
+  "model": "DS 3 E-Tense",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 156,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1477,
+  "brand": "DS Automobiles",
+  "model": "DS 4",
+  "production_year_start": 2011,
+  "production_year_end": 2018,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Petrol",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1478,
+  "brand": "DS Automobiles",
+  "model": "DS 4 Cross",
+  "production_year_start": 2016,
+  "production_year_end": 2018,
+  "body_styles": ["Crossover"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Diesel",
+      "power_hp": 120,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1479,
+  "brand": "DS Automobiles",
+  "model": "DS 4 E-Tense",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "1.6L Plug-in Hybrid",
+      "power_hp": 225,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1480,
+  "brand": "DS Automobiles",
+  "model": "DS 4S",
+  "production_year_start": 2016,
+  "production_year_end": 2019,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Turbo Petrol",
+      "power_hp": 204,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1481,
+  "brand": "DS Automobiles",
+  "model": "DS 5",
+  "production_year_start": 2011,
+  "production_year_end": 2018,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Hybrid4 Diesel",
+      "power_hp": 200,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1482,
+  "brand": "DS Automobiles",
+  "model": "DS 5LS",
+  "production_year_start": 2014,
+  "production_year_end": 2019,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Turbo Petrol",
+      "power_hp": 200,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1483,
+  "brand": "DS Automobiles",
+  "model": "DS 6",
+  "production_year_start": 2014,
+  "production_year_end": 2020,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Turbo Petrol",
+      "power_hp": 165,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1484,
+  "brand": "DS Automobiles",
+  "model": "DS 7 Crossback",
+  "production_year_start": 2018,
+  "production_year_end": 2022,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.6L Plug-in Hybrid",
+      "power_hp": 300,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1485,
+  "brand": "DS Automobiles",
+  "model": "DS 7",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.6L Plug-in Hybrid",
+      "power_hp": 360,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1486,
+  "brand": "DS Automobiles",
+  "model": "DS 9",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "1.6L Plug-in Hybrid",
+      "power_hp": 360,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1487,
+  "brand": "DS Automobiles",
+  "model": "DS Aero Sport Lounge",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Concept"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Concept Powertrain",
+      "power_hp": 680,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1488,
+  "brand": "DS Automobiles",
+  "model": "DS N°8",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["Concept"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Concept Powertrain",
+      "power_hp": 500,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
