@@ -24769,3 +24769,88 @@
     }
   ]
 }
+{
+  "id": 1489,
+  "brand": "E-Cobra",
+  "model": "E-Cobra 427",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 300,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
+{
+  "id": 1490,
+  "brand": "E.Go",
+  "model": "Life",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 57,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1491,
+  "brand": "E.Go",
+  "model": "Life Sport",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 82,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1492,
+  "brand": "E.Go",
+  "model": "Life Urban",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 68,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1493,
+  "brand": "E.Go",
+  "model": "Life Cross",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Crossover"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 82,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
