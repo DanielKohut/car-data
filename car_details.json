@@ -24854,3 +24854,54 @@
     }
   ]
 }
+{
+  "id": 1494,
+  "brand": "Electroauto",
+  "model": "Elektroauto City",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["City Car"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 45,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1495,
+  "brand": "Electroauto",
+  "model": "Elektroauto Cargo",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 45,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1496,
+  "brand": "Electroauto",
+  "model": "Elektroauto Pickup",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 55,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
