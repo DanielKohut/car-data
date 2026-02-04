@@ -25007,3 +25007,54 @@
     }
   ]
 }
+{
+  "id": 1503,
+  "brand": "Estrima",
+  "model": "Birò",
+  "production_year_start": 2014,
+  "production_year_end": null,
+  "body_styles": ["Microcar"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 8,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1504,
+  "brand": "Estrima",
+  "model": "Birò Big",
+  "production_year_start": 2016,
+  "production_year_end": null,
+  "body_styles": ["Microcar"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 8,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1505,
+  "brand": "Estrima",
+  "model": "Birò Winter",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["Microcar"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 8,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
