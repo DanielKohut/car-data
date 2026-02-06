@@ -25058,3 +25058,105 @@
     }
   ]
 }
+{
+  "id": 1506,
+  "brand": "Excalibur",
+  "model": "Phaeton",
+  "production_year_start": 1965,
+  "production_year_end": 1966,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.4L V8",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1507,
+  "brand": "Excalibur",
+  "model": "Series I",
+  "production_year_start": 1965,
+  "production_year_end": 1969,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.4L V8",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1508,
+  "brand": "Excalibur",
+  "model": "Series II",
+  "production_year_start": 1970,
+  "production_year_end": 1974,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.5L V8",
+      "power_hp": 365,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1509,
+  "brand": "Excalibur",
+  "model": "Series III",
+  "production_year_start": 1975,
+  "production_year_end": 1979,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.5L V8",
+      "power_hp": 215,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1510,
+  "brand": "Excalibur",
+  "model": "Series IV",
+  "production_year_start": 1980,
+  "production_year_end": 1984,
+  "body_styles": ["Roadster", "Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 190,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1511,
+  "brand": "Excalibur",
+  "model": "Series V",
+  "production_year_start": 1985,
+  "production_year_end": 1989,
+  "body_styles": ["Roadster", "Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 210,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
