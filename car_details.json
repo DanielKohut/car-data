@@ -25160,3 +25160,190 @@
     }
   ]
 }
+{
+  "id": 1512,
+  "brand": "Facel Vega",
+  "model": "FV",
+  "production_year_start": 1954,
+  "production_year_end": 1955,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.5L V8",
+      "power_hp": 180,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1513,
+  "brand": "Facel Vega",
+  "model": "FV1",
+  "production_year_start": 1955,
+  "production_year_end": 1956,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.8L V8",
+      "power_hp": 200,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1514,
+  "brand": "Facel Vega",
+  "model": "FV2",
+  "production_year_start": 1956,
+  "production_year_end": 1957,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.2L V8",
+      "power_hp": 250,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1515,
+  "brand": "Facel Vega",
+  "model": "FV3",
+  "production_year_start": 1957,
+  "production_year_end": 1958,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.4L V8",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1516,
+  "brand": "Facel Vega",
+  "model": "FV4",
+  "production_year_start": 1959,
+  "production_year_end": 1962,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.3L V8",
+      "power_hp": 360,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1517,
+  "brand": "Facel Vega",
+  "model": "HK500",
+  "production_year_start": 1958,
+  "production_year_end": 1961,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.9L V8",
+      "power_hp": 360,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1518,
+  "brand": "Facel Vega",
+  "model": "Excellence",
+  "production_year_start": 1958,
+  "production_year_end": 1964,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.3L V8",
+      "power_hp": 390,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1519,
+  "brand": "Facel Vega",
+  "model": "Facellia",
+  "production_year_start": 1959,
+  "production_year_end": 1963,
+  "body_styles": ["Coupe", "Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1520,
+  "brand": "Facel Vega",
+  "model": "Facel III",
+  "production_year_start": 1963,
+  "production_year_end": 1964,
+  "body_styles": ["Coupe", "Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 108,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1521,
+  "brand": "Facel Vega",
+  "model": "Facel 6",
+  "production_year_start": 1964,
+  "production_year_end": 1964,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.8L Inline-6",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1522,
+  "brand": "Facel Vega",
+  "model": "Facel II",
+  "production_year_start": 1962,
+  "production_year_end": 1964,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.3L V8",
+      "power_hp": 390,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
