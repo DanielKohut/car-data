@@ -25347,3 +25347,603 @@
     }
   ]
 }
+{
+  "id": 1523,
+  "brand": "Ferrari",
+  "model": "125 S",
+  "production_year_start": 1947,
+  "production_year_end": 1947,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "1.5L V12", "power_hp": 118, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1524,
+  "brand": "Ferrari",
+  "model": "166 Inter",
+  "production_year_start": 1948,
+  "production_year_end": 1950,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.0L V12", "power_hp": 110, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1525,
+  "brand": "Ferrari",
+  "model": "195 Inter",
+  "production_year_start": 1950,
+  "production_year_end": 1951,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.3L V12", "power_hp": 130, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1526,
+  "brand": "Ferrari",
+  "model": "208 GTB",
+  "production_year_start": 1980,
+  "production_year_end": 1982,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.0L V8", "power_hp": 155, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1527,
+  "brand": "Ferrari",
+  "model": "208 GTS",
+  "production_year_start": 1980,
+  "production_year_end": 1982,
+  "body_styles": ["Targa"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.0L V8", "power_hp": 155, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1528,
+  "brand": "Ferrari",
+  "model": "208 Turbo",
+  "production_year_start": 1982,
+  "production_year_end": 1986,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.0L Turbo V8", "power_hp": 220, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1529,
+  "brand": "Ferrari",
+  "model": "212 Inter",
+  "production_year_start": 1951,
+  "production_year_end": 1953,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.6L V12", "power_hp": 170, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1530,
+  "brand": "Ferrari",
+  "model": "250 Europa",
+  "production_year_start": 1953,
+  "production_year_end": 1954,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.0L V12", "power_hp": 200, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1531,
+  "brand": "Ferrari",
+  "model": "250 GT",
+  "production_year_start": 1954,
+  "production_year_end": 1960,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.0L V12", "power_hp": 240, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1532,
+  "brand": "Ferrari",
+  "model": "250 GTO",
+  "production_year_start": 1962,
+  "production_year_end": 1964,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.0L V12", "power_hp": 300, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1533,
+  "brand": "Ferrari",
+  "model": "275 GTB",
+  "production_year_start": 1964,
+  "production_year_end": 1968,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.3L V12", "power_hp": 280, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1534,
+  "brand": "Ferrari",
+  "model": "288 GTO",
+  "production_year_start": 1984,
+  "production_year_end": 1987,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.9L Twin-Turbo V8", "power_hp": 400, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1535,
+  "brand": "Ferrari",
+  "model": "296 GTB",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Hybrid"],
+  "engines": [{ "name": "3.0L V6 Hybrid", "power_hp": 830, "fuel": "Hybrid", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1536,
+  "brand": "Ferrari",
+  "model": "296 GTS",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Hybrid"],
+  "engines": [{ "name": "3.0L V6 Hybrid", "power_hp": 830, "fuel": "Hybrid", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1537,
+  "brand": "Ferrari",
+  "model": "308 GTB",
+  "production_year_start": 1975,
+  "production_year_end": 1980,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.0L V8", "power_hp": 255, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1538,
+  "brand": "Ferrari",
+  "model": "308 GTS",
+  "production_year_start": 1977,
+  "production_year_end": 1980,
+  "body_styles": ["Targa"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.0L V8", "power_hp": 255, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1539,
+  "brand": "Ferrari",
+  "model": "330 GT",
+  "production_year_start": 1964,
+  "production_year_end": 1967,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.0L V12", "power_hp": 300, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1540,
+  "brand": "Ferrari",
+  "model": "348",
+  "production_year_start": 1989,
+  "production_year_end": 1995,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.4L V8", "power_hp": 300, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1541,
+  "brand": "Ferrari",
+  "model": "360 Modena",
+  "production_year_start": 1999,
+  "production_year_end": 2005,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.6L V8", "power_hp": 400, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }]
+},
+{
+  "id": 1542,
+  "brand": "Ferrari",
+  "model": "360 Spider",
+  "production_year_start": 2000,
+  "production_year_end": 2005,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.6L V8", "power_hp": 400, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1543,
+  "brand": "Ferrari",
+  "model": "365 GTB/4 Daytona",
+  "production_year_start": 1968,
+  "production_year_end": 1973,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.4L V12", "power_hp": 352, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1544,
+  "brand": "Ferrari",
+  "model": "430 Scuderia",
+  "production_year_start": 2007,
+  "production_year_end": 2009,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.3L V8", "power_hp": 510, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1545,
+  "brand": "Ferrari",
+  "model": "456 GT",
+  "production_year_start": 1992,
+  "production_year_end": 2003,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "5.5L V12", "power_hp": 436, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }]
+},
+{
+  "id": 1546,
+  "brand": "Ferrari",
+  "model": "458 Italia",
+  "production_year_start": 2009,
+  "production_year_end": 2015,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.5L V8", "power_hp": 570, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1547,
+  "brand": "Ferrari",
+  "model": "458 Spider",
+  "production_year_start": 2011,
+  "production_year_end": 2015,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.5L V8", "power_hp": 570, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1548,
+  "brand": "Ferrari",
+  "model": "458 Speciale",
+  "production_year_start": 2013,
+  "production_year_end": 2015,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.5L V8", "power_hp": 605, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1549,
+  "brand": "Ferrari",
+  "model": "488 GTB",
+  "production_year_start": 2015,
+  "production_year_end": 2019,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.9L Twin-Turbo V8", "power_hp": 670, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1550,
+  "brand": "Ferrari",
+  "model": "488 Spider",
+  "production_year_start": 2015,
+  "production_year_end": 2019,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.9L Twin-Turbo V8", "power_hp": 670, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1551,
+  "brand": "Ferrari",
+  "model": "488 Pista",
+  "production_year_start": 2018,
+  "production_year_end": 2020,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.9L Twin-Turbo V8", "power_hp": 720, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1552,
+  "brand": "Ferrari",
+  "model": "488 Pista Spider",
+  "production_year_start": 2019,
+  "production_year_end": 2020,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.9L Twin-Turbo V8", "power_hp": 720, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1553,
+  "brand": "Ferrari",
+  "model": "512 BB",
+  "production_year_start": 1976,
+  "production_year_end": 1981,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "5.0L Flat-12", "power_hp": 360, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1554,
+  "brand": "Ferrari",
+  "model": "512 TR",
+  "production_year_start": 1991,
+  "production_year_end": 1994,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.9L Flat-12", "power_hp": 428, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1555,
+  "brand": "Ferrari",
+  "model": "550 Maranello",
+  "production_year_start": 1996,
+  "production_year_end": 2001,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "5.5L V12", "power_hp": 485, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1556,
+  "brand": "Ferrari",
+  "model": "575M Maranello",
+  "production_year_start": 2002,
+  "production_year_end": 2006,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "5.7L V12", "power_hp": 515, "fuel": "Petrol", "transmissions": ["Manual", "Automatic"] }]
+},
+{
+  "id": 1557,
+  "brand": "Ferrari",
+  "model": "599 GTB Fiorano",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.0L V12", "power_hp": 620, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1558,
+  "brand": "Ferrari",
+  "model": "599 GTO",
+  "production_year_start": 2010,
+  "production_year_end": 2012,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.0L V12", "power_hp": 670, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1559,
+  "brand": "Ferrari",
+  "model": "612 Scaglietti",
+  "production_year_start": 2004,
+  "production_year_end": 2011,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "5.7L V12", "power_hp": 540, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1560,
+  "brand": "Ferrari",
+  "model": "812 Superfast",
+  "production_year_start": 2017,
+  "production_year_end": 2023,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.5L V12", "power_hp": 800, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1561,
+  "brand": "Ferrari",
+  "model": "California",
+  "production_year_start": 2008,
+  "production_year_end": 2014,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.3L V8", "power_hp": 460, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1562,
+  "brand": "Ferrari",
+  "model": "California T",
+  "production_year_start": 2014,
+  "production_year_end": 2017,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.9L Twin-Turbo V8", "power_hp": 560, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1563,
+  "brand": "Ferrari",
+  "model": "Dino 206 GT",
+  "production_year_start": 1967,
+  "production_year_end": 1969,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.0L V6", "power_hp": 180, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1564,
+  "brand": "Ferrari",
+  "model": "Dino 246 GT",
+  "production_year_start": 1969,
+  "production_year_end": 1974,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.4L V6", "power_hp": 195, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1565,
+  "brand": "Ferrari",
+  "model": "F12 Berlinetta",
+  "production_year_start": 2012,
+  "production_year_end": 2017,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.3L V12", "power_hp": 740, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1566,
+  "brand": "Ferrari",
+  "model": "F40",
+  "production_year_start": 1987,
+  "production_year_end": 1992,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "2.9L Twin-Turbo V8", "power_hp": 478, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1567,
+  "brand": "Ferrari",
+  "model": "F430",
+  "production_year_start": 2004,
+  "production_year_end": 2009,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.3L V8", "power_hp": 490, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1568,
+  "brand": "Ferrari",
+  "model": "F50",
+  "production_year_start": 1995,
+  "production_year_end": 1997,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.7L V12", "power_hp": 520, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1569,
+  "brand": "Ferrari",
+  "model": "F512 M",
+  "production_year_start": 1994,
+  "production_year_end": 1996,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.9L Flat-12", "power_hp": 440, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1570,
+  "brand": "Ferrari",
+  "model": "F8 Tributo",
+  "production_year_start": 2019,
+  "production_year_end": 2023,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.9L Twin-Turbo V8", "power_hp": 720, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1571,
+  "brand": "Ferrari",
+  "model": "FF",
+  "production_year_start": 2011,
+  "production_year_end": 2016,
+  "body_styles": ["Shooting Brake"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.3L V12", "power_hp": 660, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1572,
+  "brand": "Ferrari",
+  "model": "GTC4Lusso",
+  "production_year_start": 2016,
+  "production_year_end": 2020,
+  "body_styles": ["Shooting Brake"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.3L V12", "power_hp": 690, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1573,
+  "brand": "Ferrari",
+  "model": "LaFerrari",
+  "production_year_start": 2013,
+  "production_year_end": 2016,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Hybrid"],
+  "engines": [{ "name": "6.3L V12 Hybrid", "power_hp": 963, "fuel": "Hybrid", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1574,
+  "brand": "Ferrari",
+  "model": "Mondial",
+  "production_year_start": 1980,
+  "production_year_end": 1993,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.2L V8", "power_hp": 270, "fuel": "Petrol", "transmissions": ["Manual"] }]
+},
+{
+  "id": 1575,
+  "brand": "Ferrari",
+  "model": "Monza SP1",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.5L V12", "power_hp": 810, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1576,
+  "brand": "Ferrari",
+  "model": "Monza SP2",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.5L V12", "power_hp": 810, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1577,
+  "brand": "Ferrari",
+  "model": "Portofino",
+  "production_year_start": 2017,
+  "production_year_end": 2023,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.9L Twin-Turbo V8", "power_hp": 600, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1578,
+  "brand": "Ferrari",
+  "model": "Purosangue",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "6.5L V12", "power_hp": 725, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1579,
+  "brand": "Ferrari",
+  "model": "Roma",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "3.9L Twin-Turbo V8", "power_hp": 620, "fuel": "Petrol", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1580,
+  "brand": "Ferrari",
+  "model": "SF90 Spider",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Hybrid"],
+  "engines": [{ "name": "4.0L V8 Hybrid", "power_hp": 1000, "fuel": "Hybrid", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1581,
+  "brand": "Ferrari",
+  "model": "SF90 Stradale",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Hybrid"],
+  "engines": [{ "name": "4.0L V8 Hybrid", "power_hp": 1000, "fuel": "Hybrid", "transmissions": ["Automatic"] }]
+},
+{
+  "id": 1582,
+  "brand": "Ferrari",
+  "model": "Testarossa",
+  "production_year_start": 1984,
+  "production_year_end": 1991,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [{ "name": "4.9L Flat-12", "power_hp": 390, "fuel": "Petrol", "transmissions": ["Manual"] }]
+}
