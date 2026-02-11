@@ -25947,3 +25947,1369 @@
   "fuel_types": ["Petrol"],
   "engines": [{ "name": "4.9L Flat-12", "power_hp": 390, "fuel": "Petrol", "transmissions": ["Manual"] }]
 }
+{
+  "id": 1583,
+  "brand": "Fiat",
+  "model": "1100",
+  "production_year_start": 1953,
+  "production_year_end": 1969,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.1L Inline-4",
+      "power_hp": 50,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1584,
+  "brand": "Fiat",
+  "model": "124",
+  "production_year_start": 1966,
+  "production_year_end": 1974,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.2L Inline-4",
+      "power_hp": 65,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1585,
+  "brand": "Fiat",
+  "model": "124 Spider",
+  "production_year_start": 2016,
+  "production_year_end": 2020,
+  "body_styles": [
+    "Roadster"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Turbo Inline-4",
+      "power_hp": 140,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1586,
+  "brand": "Fiat",
+  "model": "125",
+  "production_year_start": 1967,
+  "production_year_end": 1972,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1587,
+  "brand": "Fiat",
+  "model": "126",
+  "production_year_start": 1972,
+  "production_year_end": 2000,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "0.6L Inline-2",
+      "power_hp": 23,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1588,
+  "brand": "Fiat",
+  "model": "127",
+  "production_year_start": 1971,
+  "production_year_end": 1983,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.0L Inline-4",
+      "power_hp": 55,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1589,
+  "brand": "Fiat",
+  "model": "128",
+  "production_year_start": 1969,
+  "production_year_end": 1985,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.3L Inline-4",
+      "power_hp": 70,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1590,
+  "brand": "Fiat",
+  "model": "130",
+  "production_year_start": 1969,
+  "production_year_end": 1977,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "3.2L V6",
+      "power_hp": 165,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1591,
+  "brand": "Fiat",
+  "model": "131",
+  "production_year_start": 1974,
+  "production_year_end": 1984,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 98,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1592,
+  "brand": "Fiat",
+  "model": "132",
+  "production_year_start": 1972,
+  "production_year_end": 1981,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 112,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1593,
+  "brand": "Fiat",
+  "model": "1500",
+  "production_year_start": 1961,
+  "production_year_end": 1967,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 75,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1594,
+  "brand": "Fiat",
+  "model": "1800",
+  "production_year_start": 1959,
+  "production_year_end": 1968,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1595,
+  "brand": "Fiat",
+  "model": "2100",
+  "production_year_start": 1959,
+  "production_year_end": 1961,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "2.1L Inline-6",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1596,
+  "brand": "Fiat",
+  "model": "2300",
+  "production_year_start": 1961,
+  "production_year_end": 1969,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "2.3L Inline-6",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1597,
+  "brand": "Fiat",
+  "model": "500",
+  "production_year_start": 2007,
+  "production_year_end": null,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.0L Mild Hybrid",
+      "power_hp": 70,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1598,
+  "brand": "Fiat",
+  "model": "500e",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Electric"
+  ],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 118,
+      "fuel": "Electric",
+      "transmissions": [
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1599,
+  "brand": "Fiat",
+  "model": "500 Hybrid",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Hybrid"
+  ],
+  "engines": [
+    {
+      "name": "1.0L Mild Hybrid",
+      "power_hp": 70,
+      "fuel": "Hybrid",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1600,
+  "brand": "Fiat",
+  "model": "500L",
+  "production_year_start": 2012,
+  "production_year_end": 2022,
+  "body_styles": [
+    "MPV"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 95,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1601,
+  "brand": "Fiat",
+  "model": "500X",
+  "production_year_start": 2014,
+  "production_year_end": null,
+  "body_styles": [
+    "SUV"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.0L Turbo Inline-3",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1602,
+  "brand": "Fiat",
+  "model": "600",
+  "production_year_start": 1955,
+  "production_year_end": 1969,
+  "body_styles": [
+    "City Car"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "0.6L Inline-4",
+      "power_hp": 23,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1603,
+  "brand": "Fiat",
+  "model": "850",
+  "production_year_start": 1964,
+  "production_year_end": 1973,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "0.9L Inline-4",
+      "power_hp": 52,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1604,
+  "brand": "Fiat",
+  "model": "Albea",
+  "production_year_start": 2002,
+  "production_year_end": 2012,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 77,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1605,
+  "brand": "Fiat",
+  "model": "Barchetta",
+  "production_year_start": 1995,
+  "production_year_end": 2005,
+  "body_styles": [
+    "Roadster"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1606,
+  "brand": "Fiat",
+  "model": "Brava",
+  "production_year_start": 1995,
+  "production_year_end": 2001,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 103,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1607,
+  "brand": "Fiat",
+  "model": "Bravo",
+  "production_year_start": 2007,
+  "production_year_end": 2014,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Turbo",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1608,
+  "brand": "Fiat",
+  "model": "Cinquecento",
+  "production_year_start": 1991,
+  "production_year_end": 1998,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "0.9L Inline-4",
+      "power_hp": 39,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1609,
+  "brand": "Fiat",
+  "model": "Coupe",
+  "production_year_start": 1993,
+  "production_year_end": 2000,
+  "body_styles": [
+    "Coupe"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "2.0L Turbo Inline-4",
+      "power_hp": 220,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1610,
+  "brand": "Fiat",
+  "model": "Croma",
+  "production_year_start": 2005,
+  "production_year_end": 2010,
+  "body_styles": [
+    "Wagon"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "1.9L Diesel",
+      "power_hp": 150,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1611,
+  "brand": "Fiat",
+  "model": "Dino",
+  "production_year_start": 1966,
+  "production_year_end": 1973,
+  "body_styles": [
+    "Coupe"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "2.4L V6",
+      "power_hp": 180,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1612,
+  "brand": "Fiat",
+  "model": "Doblo",
+  "production_year_start": 2000,
+  "production_year_end": null,
+  "body_styles": [
+    "MPV"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Diesel",
+      "power_hp": 105,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1613,
+  "brand": "Fiat",
+  "model": "Ducato",
+  "production_year_start": 1981,
+  "production_year_end": null,
+  "body_styles": [
+    "Van"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "2.3L Diesel",
+      "power_hp": 140,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1614,
+  "brand": "Fiat",
+  "model": "Fiorino",
+  "production_year_start": 1977,
+  "production_year_end": null,
+  "body_styles": [
+    "Van"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "1.3L Diesel",
+      "power_hp": 95,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1615,
+  "brand": "Fiat",
+  "model": "Freemont",
+  "production_year_start": 2011,
+  "production_year_end": 2016,
+  "body_styles": [
+    "SUV"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "2.0L Diesel",
+      "power_hp": 170,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1616,
+  "brand": "Fiat",
+  "model": "Fullback",
+  "production_year_start": 2016,
+  "production_year_end": 2019,
+  "body_styles": [
+    "Pickup"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "2.4L Diesel",
+      "power_hp": 181,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1617,
+  "brand": "Fiat",
+  "model": "Grande Punto",
+  "production_year_start": 2005,
+  "production_year_end": 2013,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 77,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1618,
+  "brand": "Fiat",
+  "model": "Idea",
+  "production_year_start": 2003,
+  "production_year_end": 2012,
+  "body_styles": [
+    "MPV"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 95,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1619,
+  "brand": "Fiat",
+  "model": "Linea",
+  "production_year_start": 2007,
+  "production_year_end": 2018,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Turbo",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1620,
+  "brand": "Fiat",
+  "model": "Marea",
+  "production_year_start": 1996,
+  "production_year_end": 2002,
+  "body_styles": [
+    "Wagon"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 113,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1621,
+  "brand": "Fiat",
+  "model": "Multipla",
+  "production_year_start": 1998,
+  "production_year_end": 2010,
+  "body_styles": [
+    "MPV"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "1.9L Diesel",
+      "power_hp": 115,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1622,
+  "brand": "Fiat",
+  "model": "Palio",
+  "production_year_start": 1996,
+  "production_year_end": 2017,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 80,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1623,
+  "brand": "Fiat",
+  "model": "Panda",
+  "production_year_start": 1980,
+  "production_year_end": null,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.0L Mild Hybrid",
+      "power_hp": 70,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1624,
+  "brand": "Fiat",
+  "model": "Punto",
+  "production_year_start": 1993,
+  "production_year_end": 2018,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.2L Inline-4",
+      "power_hp": 69,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1625,
+  "brand": "Fiat",
+  "model": "Punto Evo",
+  "production_year_start": 2009,
+  "production_year_end": 2012,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 77,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1626,
+  "brand": "Fiat",
+  "model": "Qubo",
+  "production_year_start": 2008,
+  "production_year_end": 2020,
+  "body_styles": [
+    "MPV"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "1.3L Diesel",
+      "power_hp": 95,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1627,
+  "brand": "Fiat",
+  "model": "Regata",
+  "production_year_start": 1983,
+  "production_year_end": 1990,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 82,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1628,
+  "brand": "Fiat",
+  "model": "Ritmo",
+  "production_year_start": 1978,
+  "production_year_end": 1988,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1629,
+  "brand": "Fiat",
+  "model": "Scudo",
+  "production_year_start": 1995,
+  "production_year_end": 2016,
+  "body_styles": [
+    "Van"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "2.0L Diesel",
+      "power_hp": 128,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1630,
+  "brand": "Fiat",
+  "model": "Sedici",
+  "production_year_start": 2005,
+  "production_year_end": 2014,
+  "body_styles": [
+    "SUV"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1631,
+  "brand": "Fiat",
+  "model": "Seicento",
+  "production_year_start": 1998,
+  "production_year_end": 2010,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.1L Inline-4",
+      "power_hp": 54,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1632,
+  "brand": "Fiat",
+  "model": "Siena",
+  "production_year_start": 1996,
+  "production_year_end": 2017,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 80,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1633,
+  "brand": "Fiat",
+  "model": "Stilo",
+  "production_year_start": 2001,
+  "production_year_end": 2007,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 103,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1634,
+  "brand": "Fiat",
+  "model": "Strada",
+  "production_year_start": 1998,
+  "production_year_end": null,
+  "body_styles": [
+    "Pickup"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "1.3L Diesel",
+      "power_hp": 95,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1635,
+  "brand": "Fiat",
+  "model": "Talento",
+  "production_year_start": 2016,
+  "production_year_end": 2022,
+  "body_styles": [
+    "Van"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Diesel",
+      "power_hp": 125,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1636,
+  "brand": "Fiat",
+  "model": "Tempra",
+  "production_year_start": 1990,
+  "production_year_end": 1998,
+  "body_styles": [
+    "Sedan"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1637,
+  "brand": "Fiat",
+  "model": "Tipo",
+  "production_year_start": 2015,
+  "production_year_end": null,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.0L Turbo Inline-3",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual",
+        "Automatic"
+      ]
+    }
+  ]
+},
+{
+  "id": 1638,
+  "brand": "Fiat",
+  "model": "Topolino",
+  "production_year_start": 1936,
+  "production_year_end": 1955,
+  "body_styles": [
+    "City Car"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "0.6L Inline-4",
+      "power_hp": 16,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1639,
+  "brand": "Fiat",
+  "model": "Ulysse",
+  "production_year_start": 1994,
+  "production_year_end": 2010,
+  "body_styles": [
+    "MPV"
+  ],
+  "fuel_types": [
+    "Diesel"
+  ],
+  "engines": [
+    {
+      "name": "2.0L Diesel",
+      "power_hp": 136,
+      "fuel": "Diesel",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1640,
+  "brand": "Fiat",
+  "model": "Uno",
+  "production_year_start": 1983,
+  "production_year_end": 1995,
+  "body_styles": [
+    "Hatchback"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.1L Inline-4",
+      "power_hp": 55,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+},
+{
+  "id": 1641,
+  "brand": "Fiat",
+  "model": "X1/9",
+  "production_year_start": 1972,
+  "production_year_end": 1989,
+  "body_styles": [
+    "Targa"
+  ],
+  "fuel_types": [
+    "Petrol"
+  ],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 85,
+      "fuel": "Petrol",
+      "transmissions": [
+        "Manual"
+      ]
+    }
+  ]
+}
