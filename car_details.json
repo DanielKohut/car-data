@@ -27313,3 +27313,105 @@
     }
   ]
 }
+{
+  "id": 1642,
+  "brand": "Fisker",
+  "model": "Alaska",
+  "production_year_start": 2025,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 550,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1643,
+  "brand": "Fisker",
+  "model": "Emotion",
+  "production_year_start": 2025,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 575,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1644,
+  "brand": "Fisker",
+  "model": "Karma",
+  "production_year_start": 2011,
+  "production_year_end": 2012,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Plug-in Hybrid",
+      "power_hp": 403,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1645,
+  "brand": "Fisker",
+  "model": "Ocean",
+  "production_year_start": 2023,
+  "production_year_end": 2024,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 540,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1646,
+  "brand": "Fisker",
+  "model": "Pear",
+  "production_year_start": 2025,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Single Motor Electric",
+      "power_hp": 275,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1647,
+  "brand": "Fisker",
+  "model": "Ronin",
+  "production_year_start": 2026,
+  "production_year_end": null,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Triple Motor Electric",
+      "power_hp": 1000,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
