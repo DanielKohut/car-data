@@ -27721,3 +27721,326 @@
     }
   ]
 }
+{
+  "id": 1666,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Aspire",
+  "production_year_start": 2015,
+  "production_year_end": 2021,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.2L Inline-3",
+      "power_hp": 96,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1667,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Bantam",
+  "production_year_start": 1983,
+  "production_year_end": 2011,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 95,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1668,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Corsair",
+  "production_year_start": 1963,
+  "production_year_end": 1970,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.7L Inline-4",
+      "power_hp": 85,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1669,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Cortina (AU)",
+  "production_year_start": 1962,
+  "production_year_end": 1982,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1670,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Endeavour",
+  "production_year_start": 2003,
+  "production_year_end": 2021,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "3.2L Diesel",
+      "power_hp": 200,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1671,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Escape (Asia)",
+  "production_year_start": 2000,
+  "production_year_end": 2012,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.3L Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1672,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Everest",
+  "production_year_start": 2003,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Bi-Turbo Diesel",
+      "power_hp": 210,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1673,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Falcon",
+  "production_year_start": 1960,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.0L Inline-6",
+      "power_hp": 261,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1674,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Fairlane",
+  "production_year_start": 1959,
+  "production_year_end": 2007,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 220,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1675,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Fairmont",
+  "production_year_start": 1965,
+  "production_year_end": 2008,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.0L Inline-6",
+      "power_hp": 248,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1676,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Fiesta XR4",
+  "production_year_start": 2007,
+  "production_year_end": 2009,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1677,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Figo",
+  "production_year_start": 2010,
+  "production_year_end": 2021,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 110,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1678,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Ikon",
+  "production_year_start": 1999,
+  "production_year_end": 2011,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 95,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1679,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Laser",
+  "production_year_start": 1981,
+  "production_year_end": 2003,
+  "body_styles": ["Hatchback", "Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 125,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1680,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Lynx",
+  "production_year_start": 1998,
+  "production_year_end": 2002,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1681,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Ranger Raptor",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel", "Petrol"],
+  "engines": [
+    {
+      "name": "3.0L V6 Twin Turbo",
+      "power_hp": 392,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1682,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Spectron",
+  "production_year_start": 1983,
+  "production_year_end": 1997,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 110,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1683,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Telstar",
+  "production_year_start": 1982,
+  "production_year_end": 1999,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1684,
+  "brand": "Ford (Asia/Oceania)",
+  "model": "Territory",
+  "production_year_start": 2004,
+  "production_year_end": 2016,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.0L Inline-6",
+      "power_hp": 261,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
