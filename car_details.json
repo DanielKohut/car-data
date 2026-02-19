@@ -28809,3 +28809,156 @@
     }
   ]
 }
+{
+  "id": 1730,
+  "brand": "GAC Gonow",
+  "model": "Aoxuan G5",
+  "production_year_start": 2012,
+  "production_year_end": 2016,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 136,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1731,
+  "brand": "GAC Gonow",
+  "model": "Aoxuan GS",
+  "production_year_start": 2013,
+  "production_year_end": 2016,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1732,
+  "brand": "GAC Gonow",
+  "model": "Aoxuan GX5",
+  "production_year_start": 2011,
+  "production_year_end": 2016,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 136,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1733,
+  "brand": "GAC Gonow",
+  "model": "Aoxuan GX6",
+  "production_year_start": 2015,
+  "production_year_end": 2018,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1734,
+  "brand": "GAC Gonow",
+  "model": "Jetstar",
+  "production_year_start": 2007,
+  "production_year_end": 2014,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 103,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1735,
+  "brand": "GAC Gonow",
+  "model": "Starry",
+  "production_year_start": 2003,
+  "production_year_end": 2013,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1736,
+  "brand": "GAC Gonow",
+  "model": "Troy 100",
+  "production_year_start": 2012,
+  "production_year_end": 2017,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.5L Diesel",
+      "power_hp": 95,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1737,
+  "brand": "GAC Gonow",
+  "model": "Troy 200",
+  "production_year_start": 2014,
+  "production_year_end": 2018,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.8L Diesel",
+      "power_hp": 102,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1738,
+  "brand": "GAC Gonow",
+  "model": "Way 100",
+  "production_year_start": 2013,
+  "production_year_end": 2018,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.5L Diesel",
+      "power_hp": 95,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
