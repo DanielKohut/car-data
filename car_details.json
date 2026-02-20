@@ -28962,3 +28962,190 @@
     }
   ]
 }
+{
+  "id": 1739,
+  "brand": "Gardner Douglas",
+  "model": "GD 350",
+  "production_year_start": 1990,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V8",
+      "power_hp": 240,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1740,
+  "brand": "Gardner Douglas",
+  "model": "GD 350 Daytona",
+  "production_year_start": 1995,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V8",
+      "power_hp": 240,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1741,
+  "brand": "Gardner Douglas",
+  "model": "GD 427",
+  "production_year_start": 1992,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.0L V8",
+      "power_hp": 450,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1742,
+  "brand": "Gardner Douglas",
+  "model": "GD 427 Daytona",
+  "production_year_start": 1996,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.0L V8",
+      "power_hp": 450,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1743,
+  "brand": "Gardner Douglas",
+  "model": "GD 427 SC",
+  "production_year_start": 1998,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.0L V8",
+      "power_hp": 500,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1744,
+  "brand": "Gardner Douglas",
+  "model": "GD Euro",
+  "production_year_start": 2000,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.2L V8",
+      "power_hp": 430,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1745,
+  "brand": "Gardner Douglas",
+  "model": "GD SP",
+  "production_year_start": 2005,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 350,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1746,
+  "brand": "Gardner Douglas",
+  "model": "GD T70",
+  "production_year_start": 2007,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.2L V8",
+      "power_hp": 480,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1747,
+  "brand": "Gardner Douglas",
+  "model": "GD T70 Coupe",
+  "production_year_start": 2007,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.2L V8",
+      "power_hp": 500,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1748,
+  "brand": "Gardner Douglas",
+  "model": "GD T70 R",
+  "production_year_start": 2010,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "7.0L V8",
+      "power_hp": 550,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1749,
+  "brand": "Gardner Douglas",
+  "model": "GD T70 Spyder",
+  "production_year_start": 2008,
+  "production_year_end": null,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.2L V8",
+      "power_hp": 480,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
