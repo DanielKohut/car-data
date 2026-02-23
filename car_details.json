@@ -29149,3 +29149,394 @@
     }
   ]
 }
+{
+  "id": 1750,
+  "brand": "GAZ",
+  "model": "GAZ-A",
+  "production_year_start": 1932,
+  "production_year_end": 1936,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L Inline-4",
+      "power_hp": 40,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1751,
+  "brand": "GAZ",
+  "model": "GAZ-AA",
+  "production_year_start": 1932,
+  "production_year_end": 1950,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L Inline-4",
+      "power_hp": 50,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1752,
+  "brand": "GAZ",
+  "model": "GAZ-53",
+  "production_year_start": 1961,
+  "production_year_end": 1993,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L V8",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1753,
+  "brand": "GAZ",
+  "model": "GAZ-66",
+  "production_year_start": 1964,
+  "production_year_end": 1999,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L V8",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1754,
+  "brand": "GAZ",
+  "model": "GAZ-67",
+  "production_year_start": 1943,
+  "production_year_end": 1953,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L Inline-4",
+      "power_hp": 54,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1755,
+  "brand": "GAZ",
+  "model": "GAZ-3307",
+  "production_year_start": 1989,
+  "production_year_end": null,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L V8",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1756,
+  "brand": "GAZ",
+  "model": "GAZ-3309",
+  "production_year_start": 1994,
+  "production_year_end": null,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "4.7L Diesel",
+      "power_hp": 136,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1757,
+  "brand": "GAZ",
+  "model": "GAZelle",
+  "production_year_start": 1994,
+  "production_year_end": null,
+  "body_styles": ["Van", "Truck"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.7L Inline-4",
+      "power_hp": 106,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1758,
+  "brand": "GAZ",
+  "model": "GAZelle Next",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["Van", "Truck"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.8L Diesel",
+      "power_hp": 150,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1759,
+  "brand": "GAZ",
+  "model": "M13 Chaika",
+  "production_year_start": 1959,
+  "production_year_end": 1981,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.5L V8",
+      "power_hp": 195,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1760,
+  "brand": "GAZ",
+  "model": "M14 Chaika",
+  "production_year_start": 1977,
+  "production_year_end": 1988,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.5L V8",
+      "power_hp": 220,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1761,
+  "brand": "GAZ",
+  "model": "M20 Pobeda",
+  "production_year_start": 1946,
+  "production_year_end": 1958,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.1L Inline-4",
+      "power_hp": 50,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1762,
+  "brand": "GAZ",
+  "model": "M21 Volga",
+  "production_year_start": 1956,
+  "production_year_end": 1970,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 75,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1763,
+  "brand": "GAZ",
+  "model": "M22 Volga",
+  "production_year_start": 1962,
+  "production_year_end": 1970,
+  "body_styles": ["Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 75,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1764,
+  "brand": "GAZ",
+  "model": "M23 Volga",
+  "production_year_start": 1962,
+  "production_year_end": 1970,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.5L V8",
+      "power_hp": 195,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1765,
+  "brand": "GAZ",
+  "model": "M24 Volga",
+  "production_year_start": 1967,
+  "production_year_end": 1992,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 95,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1766,
+  "brand": "GAZ",
+  "model": "M72",
+  "production_year_start": 1955,
+  "production_year_end": 1958,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.1L Inline-4",
+      "power_hp": 55,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1767,
+  "brand": "GAZ",
+  "model": "M3102 Volga",
+  "production_year_start": 1982,
+  "production_year_end": 2009,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1768,
+  "brand": "GAZ",
+  "model": "Sadko Next",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "4.4L Diesel",
+      "power_hp": 149,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1769,
+  "brand": "GAZ",
+  "model": "Siber",
+  "production_year_start": 2008,
+  "production_year_end": 2010,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 143,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1770,
+  "brand": "GAZ",
+  "model": "Sobol",
+  "production_year_start": 1998,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.5L Diesel",
+      "power_hp": 120,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1771,
+  "brand": "GAZ",
+  "model": "Tigr",
+  "production_year_start": 2005,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "5.9L Diesel",
+      "power_hp": 205,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1772,
+  "brand": "GAZ",
+  "model": "Valdai",
+  "production_year_start": 2004,
+  "production_year_end": null,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "3.8L Diesel",
+      "power_hp": 150,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
