@@ -29540,3 +29540,275 @@
     }
   ]
 }
+{
+  "id": 1773,
+  "brand": "Gemballa",
+  "model": "Avalanche",
+  "production_year_start": 1984,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L Twin Turbo Flat-6",
+      "power_hp": 375,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1774,
+  "brand": "Gemballa",
+  "model": "BiTurbo",
+  "production_year_start": 1986,
+  "production_year_end": 1992,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L Twin Turbo Flat-6",
+      "power_hp": 450,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1775,
+  "brand": "Gemballa",
+  "model": "Cayenne Mirage",
+  "production_year_start": 2003,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.8L Twin Turbo V8",
+      "power_hp": 650,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1776,
+  "brand": "Gemballa",
+  "model": "Cyrrus",
+  "production_year_start": 1993,
+  "production_year_end": 1998,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Flat-6",
+      "power_hp": 380,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1777,
+  "brand": "Gemballa",
+  "model": "Enzo MIG-U1",
+  "production_year_start": 2009,
+  "production_year_end": 2010,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.0L V12",
+      "power_hp": 700,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1778,
+  "brand": "Gemballa",
+  "model": "Extremo",
+  "production_year_start": 1988,
+  "production_year_end": 1995,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L Flat-6",
+      "power_hp": 500,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1779,
+  "brand": "Gemballa",
+  "model": "GT 3.8",
+  "production_year_start": 2010,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L Flat-6",
+      "power_hp": 650,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1780,
+  "brand": "Gemballa",
+  "model": "GTR 500",
+  "production_year_start": 1999,
+  "production_year_end": 2004,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Twin Turbo Flat-6",
+      "power_hp": 500,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1781,
+  "brand": "Gemballa",
+  "model": "GTR 600",
+  "production_year_start": 2001,
+  "production_year_end": 2006,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Twin Turbo Flat-6",
+      "power_hp": 600,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1782,
+  "brand": "Gemballa",
+  "model": "GTR 700",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L Twin Turbo Flat-6",
+      "power_hp": 700,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1783,
+  "brand": "Gemballa",
+  "model": "GTR 750",
+  "production_year_start": 2009,
+  "production_year_end": 2015,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.0L Twin Turbo Flat-6",
+      "power_hp": 750,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1784,
+  "brand": "Gemballa",
+  "model": "Marsien",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L Twin Turbo Flat-6",
+      "power_hp": 750,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1785,
+  "brand": "Gemballa",
+  "model": "Mirage GT",
+  "production_year_start": 2007,
+  "production_year_end": 2010,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.7L V10",
+      "power_hp": 670,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1786,
+  "brand": "Gemballa",
+  "model": "Mistrale",
+  "production_year_start": 1989,
+  "production_year_end": 1993,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L Turbo Flat-6",
+      "power_hp": 400,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1787,
+  "brand": "Gemballa",
+  "model": "Tornado",
+  "production_year_start": 2012,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.8L Twin Turbo V8",
+      "power_hp": 720,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1788,
+  "brand": "Gemballa",
+  "model": "Typhoon",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.8L Twin Turbo V8",
+      "power_hp": 750,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
