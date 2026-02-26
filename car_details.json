@@ -29812,3 +29812,190 @@
     }
   ]
 }
+{
+  "id": 1789,
+  "brand": "Genesis",
+  "model": "Electrified G80",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 365,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1790,
+  "brand": "Genesis",
+  "model": "Electrified GV70",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 429,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1791,
+  "brand": "Genesis",
+  "model": "Equus",
+  "production_year_start": 1999,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 429,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1792,
+  "brand": "Genesis",
+  "model": "G70",
+  "production_year_start": 2017,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Inline-4",
+      "power_hp": 252,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1793,
+  "brand": "Genesis",
+  "model": "G80",
+  "production_year_start": 2016,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.5L Turbo Inline-4",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1794,
+  "brand": "Genesis",
+  "model": "G90",
+  "production_year_start": 2015,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L Twin Turbo V6",
+      "power_hp": 375,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1795,
+  "brand": "Genesis",
+  "model": "Genesis (BH)",
+  "production_year_start": 2008,
+  "production_year_end": 2013,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L V6",
+      "power_hp": 290,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1796,
+  "brand": "Genesis",
+  "model": "Genesis (DH)",
+  "production_year_start": 2013,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 420,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1797,
+  "brand": "Genesis",
+  "model": "GV60",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 429,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1798,
+  "brand": "Genesis",
+  "model": "GV70",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.5L Turbo Inline-4",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1799,
+  "brand": "Genesis",
+  "model": "GV80",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.5L Twin Turbo V6",
+      "power_hp": 375,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
