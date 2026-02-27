@@ -29999,3 +29999,428 @@
     }
   ]
 }
+{
+  "id": 1800,
+  "brand": "GMC",
+  "model": "Acadia",
+  "production_year_start": 2006,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L V6",
+      "power_hp": 310,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1801,
+  "brand": "GMC",
+  "model": "Caballero",
+  "production_year_start": 1978,
+  "production_year_end": 1987,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 170,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1802,
+  "brand": "GMC",
+  "model": "Canyon",
+  "production_year_start": 2004,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.7L Turbo Inline-4",
+      "power_hp": 310,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1803,
+  "brand": "GMC",
+  "model": "C-Series",
+  "production_year_start": 1960,
+  "production_year_end": 2002,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "6.0L V8",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1804,
+  "brand": "GMC",
+  "model": "Envoy",
+  "production_year_start": 1998,
+  "production_year_end": 2009,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.2L Inline-6",
+      "power_hp": 291,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1805,
+  "brand": "GMC",
+  "model": "Hummer EV Pickup",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Tri-Motor Electric",
+      "power_hp": 1000,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1806,
+  "brand": "GMC",
+  "model": "Hummer EV SUV",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Tri-Motor Electric",
+      "power_hp": 830,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1807,
+  "brand": "GMC",
+  "model": "Jimmy",
+  "production_year_start": 1970,
+  "production_year_end": 2005,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L V6",
+      "power_hp": 190,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1808,
+  "brand": "GMC",
+  "model": "K-Series",
+  "production_year_start": 1960,
+  "production_year_end": 2000,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.7L V8",
+      "power_hp": 210,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1809,
+  "brand": "GMC",
+  "model": "Safari",
+  "production_year_start": 1985,
+  "production_year_end": 2005,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L V6",
+      "power_hp": 190,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1810,
+  "brand": "GMC",
+  "model": "Savana",
+  "production_year_start": 1996,
+  "production_year_end": null,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "6.6L V8 Diesel",
+      "power_hp": 401,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1811,
+  "brand": "GMC",
+  "model": "Sierra 1500",
+  "production_year_start": 1999,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.3L V8",
+      "power_hp": 355,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1812,
+  "brand": "GMC",
+  "model": "Sierra 2500",
+  "production_year_start": 1999,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "6.6L V8 Diesel",
+      "power_hp": 470,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1813,
+  "brand": "GMC",
+  "model": "Sierra 3500",
+  "production_year_start": 1999,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "6.6L V8 Diesel",
+      "power_hp": 470,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1814,
+  "brand": "GMC",
+  "model": "Sierra EV",
+  "production_year_start": 2024,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 754,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1815,
+  "brand": "GMC",
+  "model": "Sonoma",
+  "production_year_start": 1982,
+  "production_year_end": 2004,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L V6",
+      "power_hp": 190,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1816,
+  "brand": "GMC",
+  "model": "Sprint",
+  "production_year_start": 1971,
+  "production_year_end": 1977,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 165,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1817,
+  "brand": "GMC",
+  "model": "Suburban",
+  "production_year_start": 1937,
+  "production_year_end": 1999,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.7L V8",
+      "power_hp": 210,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1818,
+  "brand": "GMC",
+  "model": "Syclone",
+  "production_year_start": 1991,
+  "production_year_end": 1992,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L Turbo V6",
+      "power_hp": 280,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1819,
+  "brand": "GMC",
+  "model": "Terrain",
+  "production_year_start": 2009,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 175,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1820,
+  "brand": "GMC",
+  "model": "TopKick",
+  "production_year_start": 1980,
+  "production_year_end": 2009,
+  "body_styles": ["Truck"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "7.8L Diesel",
+      "power_hp": 300,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1821,
+  "brand": "GMC",
+  "model": "Typhoon",
+  "production_year_start": 1992,
+  "production_year_end": 1993,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L Turbo V6",
+      "power_hp": 280,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1822,
+  "brand": "GMC",
+  "model": "Vandura",
+  "production_year_start": 1964,
+  "production_year_end": 1996,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.7L V8",
+      "power_hp": 210,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1823,
+  "brand": "GMC",
+  "model": "Yukon",
+  "production_year_start": 1992,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "5.3L V8",
+      "power_hp": 355,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1824,
+  "brand": "GMC",
+  "model": "Yukon XL",
+  "production_year_start": 2000,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "6.2L V8",
+      "power_hp": 420,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
