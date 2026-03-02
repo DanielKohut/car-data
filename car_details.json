@@ -30424,3 +30424,462 @@
     }
   ]
 }
+{
+  "id": 1825,
+  "brand": "Great Wall",
+  "model": "Coolbear",
+  "production_year_start": 2009,
+  "production_year_end": 2015,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1826,
+  "brand": "Great Wall",
+  "model": "Cowry",
+  "production_year_start": 2008,
+  "production_year_end": 2013,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 143,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1827,
+  "brand": "Great Wall",
+  "model": "Deer",
+  "production_year_start": 1996,
+  "production_year_end": 2010,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1828,
+  "brand": "Great Wall",
+  "model": "Florid",
+  "production_year_start": 2008,
+  "production_year_end": 2013,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.3L Inline-4",
+      "power_hp": 92,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1829,
+  "brand": "Great Wall",
+  "model": "Hover H3",
+  "production_year_start": 2010,
+  "production_year_end": 2017,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 122,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1830,
+  "brand": "Great Wall",
+  "model": "Hover H5",
+  "production_year_start": 2010,
+  "production_year_end": 2018,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Diesel",
+      "power_hp": 143,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1831,
+  "brand": "Great Wall",
+  "model": "Hover H6",
+  "production_year_start": 2011,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1832,
+  "brand": "Great Wall",
+  "model": "Hover H9",
+  "production_year_start": 2014,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Inline-4",
+      "power_hp": 245,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1833,
+  "brand": "Great Wall",
+  "model": "Lingao",
+  "production_year_start": 2007,
+  "production_year_end": 2010,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.3L Inline-4",
+      "power_hp": 87,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1834,
+  "brand": "Great Wall",
+  "model": "Pegasus",
+  "production_year_start": 2003,
+  "production_year_end": 2008,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1835,
+  "brand": "Great Wall",
+  "model": "Peri",
+  "production_year_start": 2007,
+  "production_year_end": 2010,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.3L Inline-4",
+      "power_hp": 88,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1836,
+  "brand": "Great Wall",
+  "model": "Phenom",
+  "production_year_start": 2008,
+  "production_year_end": 2013,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1837,
+  "brand": "Great Wall",
+  "model": "Poer",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel", "Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Diesel",
+      "power_hp": 161,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1838,
+  "brand": "Great Wall",
+  "model": "Poer King Kong",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 190,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1839,
+  "brand": "Great Wall",
+  "model": "Safe",
+  "production_year_start": 2002,
+  "production_year_end": 2010,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1840,
+  "brand": "Great Wall",
+  "model": "Sailor",
+  "production_year_start": 2001,
+  "production_year_end": 2010,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 103,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1841,
+  "brand": "Great Wall",
+  "model": "Sing",
+  "production_year_start": 2001,
+  "production_year_end": 2008,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1842,
+  "brand": "Great Wall",
+  "model": "Socool",
+  "production_year_start": 2003,
+  "production_year_end": 2008,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.8L Diesel",
+      "power_hp": 95,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1843,
+  "brand": "Great Wall",
+  "model": "Voleex C10",
+  "production_year_start": 2010,
+  "production_year_end": 2014,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.3L Inline-4",
+      "power_hp": 92,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1844,
+  "brand": "Great Wall",
+  "model": "Voleex C20",
+  "production_year_start": 2011,
+  "production_year_end": 2016,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1845,
+  "brand": "Great Wall",
+  "model": "Voleex C30",
+  "production_year_start": 2010,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 105,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1846,
+  "brand": "Great Wall",
+  "model": "Voleex C50",
+  "production_year_start": 2011,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 133,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1847,
+  "brand": "Great Wall",
+  "model": "Wingle 3",
+  "production_year_start": 2006,
+  "production_year_end": 2014,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.8L Diesel",
+      "power_hp": 95,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1848,
+  "brand": "Great Wall",
+  "model": "Wingle 5",
+  "production_year_start": 2009,
+  "production_year_end": 2020,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 150,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1849,
+  "brand": "Great Wall",
+  "model": "Wingle 6",
+  "production_year_start": 2014,
+  "production_year_end": 2022,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 143,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1850,
+  "brand": "Great Wall",
+  "model": "Wingle 7",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 160,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1851,
+  "brand": "Great Wall",
+  "model": "Wingle 8",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 190,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+}
