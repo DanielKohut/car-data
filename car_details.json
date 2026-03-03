@@ -30883,3 +30883,258 @@
     }
   ]
 }
+{
+  "id": 1852,
+  "brand": "Grecav",
+  "model": "Amica",
+  "production_year_start": 1993,
+  "production_year_end": 2006,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1853,
+  "brand": "Grecav",
+  "model": "Amica Break",
+  "production_year_start": 1995,
+  "production_year_end": 2006,
+  "body_styles": ["Wagon"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1854,
+  "brand": "Grecav",
+  "model": "Amica City",
+  "production_year_start": 1998,
+  "production_year_end": 2006,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1855,
+  "brand": "Grecav",
+  "model": "Eke Cabrio",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1856,
+  "brand": "Grecav",
+  "model": "Eke Pickup",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1857,
+  "brand": "Grecav",
+  "model": "Eke Sport",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1858,
+  "brand": "Grecav",
+  "model": "Eke Top",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1859,
+  "brand": "Grecav",
+  "model": "Eke Van",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Van"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1860,
+  "brand": "Grecav",
+  "model": "Grecav Roadster",
+  "production_year_start": 2008,
+  "production_year_end": 2013,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1861,
+  "brand": "Grecav",
+  "model": "ML 50",
+  "production_year_start": 2000,
+  "production_year_end": 2006,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1862,
+  "brand": "Grecav",
+  "model": "ML 75",
+  "production_year_start": 2002,
+  "production_year_end": 2006,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 6,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1863,
+  "brand": "Grecav",
+  "model": "ML Revolution",
+  "production_year_start": 2003,
+  "production_year_end": 2006,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 6,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1864,
+  "brand": "Grecav",
+  "model": "Opti",
+  "production_year_start": 2010,
+  "production_year_end": 2015,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1865,
+  "brand": "Grecav",
+  "model": "Primula",
+  "production_year_start": 1991,
+  "production_year_end": 1998,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 4,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1866,
+  "brand": "Grecav",
+  "model": "Sonique",
+  "production_year_start": 2007,
+  "production_year_end": 2012,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "0.5L Diesel",
+      "power_hp": 5,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
