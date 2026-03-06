@@ -31138,3 +31138,241 @@
     }
   ]
 }
+{
+  "id": 1867,
+  "brand": "GWM",
+  "model": "Cannon",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel", "Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 161,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1868,
+  "brand": "GWM",
+  "model": "Cannon Alpha",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.4L Turbo Diesel",
+      "power_hp": 184,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1869,
+  "brand": "GWM",
+  "model": "Ora 03",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 169,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1870,
+  "brand": "GWM",
+  "model": "Ora Ballet Cat",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 171,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1871,
+  "brand": "GWM",
+  "model": "Ora Funky Cat",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 169,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1872,
+  "brand": "GWM",
+  "model": "Ora Good Cat",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 143,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1873,
+  "brand": "GWM",
+  "model": "Ora Lightning Cat",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 204,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1874,
+  "brand": "GWM",
+  "model": "Poer",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel", "Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 161,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1875,
+  "brand": "GWM",
+  "model": "Poer King Kong",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 190,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1876,
+  "brand": "GWM",
+  "model": "Tank 300",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Inline-4",
+      "power_hp": 227,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1877,
+  "brand": "GWM",
+  "model": "Tank 400",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Hybrid",
+      "power_hp": 245,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1878,
+  "brand": "GWM",
+  "model": "Tank 500",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.0L Twin Turbo V6",
+      "power_hp": 349,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1879,
+  "brand": "GWM",
+  "model": "Tank 700",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "3.0L Turbo Hybrid",
+      "power_hp": 360,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1880,
+  "brand": "GWM",
+  "model": "Ute",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Diesel",
+      "power_hp": 161,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+}
