@@ -31376,3 +31376,326 @@
     }
   ]
 }
+{
+  "id": 1881,
+  "brand": "Hamann",
+  "model": "328 Competition",
+  "production_year_start": 1995,
+  "production_year_end": 2000,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.2L Inline-6",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1882,
+  "brand": "Hamann",
+  "model": "3.2 Compact",
+  "production_year_start": 1998,
+  "production_year_end": 2004,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.2L Inline-6",
+      "power_hp": 315,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1883,
+  "brand": "Hamann",
+  "model": "Anniversary Evo",
+  "production_year_start": 2007,
+  "production_year_end": 2012,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V10",
+      "power_hp": 600,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1884,
+  "brand": "Hamann",
+  "model": "Conqueror",
+  "production_year_start": 2005,
+  "production_year_end": 2012,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "3.6L Diesel",
+      "power_hp": 300,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1885,
+  "brand": "Hamann",
+  "model": "Conqueror II",
+  "production_year_start": 2012,
+  "production_year_end": 2018,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "4.4L Diesel",
+      "power_hp": 350,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1886,
+  "brand": "Hamann",
+  "model": "Flash Evo M",
+  "production_year_start": 2013,
+  "production_year_end": 2018,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.4L V8 Twin Turbo",
+      "power_hp": 720,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1887,
+  "brand": "Hamann",
+  "model": "F430 Black Miracle",
+  "production_year_start": 2007,
+  "production_year_end": 2010,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L V8",
+      "power_hp": 540,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1888,
+  "brand": "Hamann",
+  "model": "Guardian",
+  "production_year_start": 2009,
+  "production_year_end": 2015,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.4L V8 Twin Turbo",
+      "power_hp": 555,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1889,
+  "brand": "Hamann",
+  "model": "Hawk",
+  "production_year_start": 2010,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.4L V8 Twin Turbo",
+      "power_hp": 560,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1890,
+  "brand": "Hamann",
+  "model": "HM4",
+  "production_year_start": 2005,
+  "production_year_end": 2010,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.0L V8",
+      "power_hp": 420,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1891,
+  "brand": "Hamann",
+  "model": "HM5",
+  "production_year_start": 2006,
+  "production_year_end": 2012,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V10",
+      "power_hp": 507,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1892,
+  "brand": "Hamann",
+  "model": "Imperator",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.5L V8 Twin Turbo",
+      "power_hp": 544,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1893,
+  "brand": "Hamann",
+  "model": "memoR",
+  "production_year_start": 2012,
+  "production_year_end": 2016,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L Twin Turbo V8",
+      "power_hp": 650,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1894,
+  "brand": "Hamann",
+  "model": "Mi5Sion",
+  "production_year_start": 2012,
+  "production_year_end": 2018,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.4L V8 Twin Turbo",
+      "power_hp": 650,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1895,
+  "brand": "Hamann",
+  "model": "Porsche 911 Turbo Stallion",
+  "production_year_start": 2008,
+  "production_year_end": 2013,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L Twin Turbo Flat-6",
+      "power_hp": 630,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1896,
+  "brand": "Hamann",
+  "model": "Tycoon",
+  "production_year_start": 2008,
+  "production_year_end": 2014,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.4L V8 Twin Turbo",
+      "power_hp": 555,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1897,
+  "brand": "Hamann",
+  "model": "Tycoon Evo M",
+  "production_year_start": 2015,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.4L V8 Twin Turbo",
+      "power_hp": 670,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1898,
+  "brand": "Hamann",
+  "model": "Victory",
+  "production_year_start": 2009,
+  "production_year_end": 2014,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.5L V12",
+      "power_hp": 700,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1899,
+  "brand": "Hamann",
+  "model": "Victory II",
+  "production_year_start": 2013,
+  "production_year_end": 2018,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.5L V12",
+      "power_hp": 760,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
