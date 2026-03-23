@@ -31699,3 +31699,71 @@
     }
   ]
 }
+{
+  "id": 1900,
+  "brand": "Heinkel",
+  "model": "Kabine 150",
+  "production_year_start": 1956,
+  "production_year_end": 1957,
+  "body_styles": ["Microcar"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.15L Single-Cylinder",
+      "power_hp": 9,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1901,
+  "brand": "Heinkel",
+  "model": "Kabine 153",
+  "production_year_start": 1957,
+  "production_year_end": 1958,
+  "body_styles": ["Microcar"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.15L Single-Cylinder",
+      "power_hp": 9,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1902,
+  "brand": "Heinkel",
+  "model": "Kabine 154",
+  "production_year_start": 1958,
+  "production_year_end": 1960,
+  "body_styles": ["Microcar"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.15L Single-Cylinder",
+      "power_hp": 9,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1903,
+  "brand": "Heinkel",
+  "model": "Kabine 175",
+  "production_year_start": 1960,
+  "production_year_end": 1966,
+  "body_styles": ["Microcar"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.17L Single-Cylinder",
+      "power_hp": 10,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
