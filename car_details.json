@@ -31767,3 +31767,649 @@
     }
   ]
 }
+{
+  "id": 1904,
+  "brand": "Holden",
+  "model": "Acadia",
+  "production_year_start": 2018,
+  "production_year_end": 2020,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L V6",
+      "power_hp": 310,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1905,
+  "brand": "Holden",
+  "model": "Adventra",
+  "production_year_start": 2003,
+  "production_year_end": 2006,
+  "body_styles": ["Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.7L V8",
+      "power_hp": 250,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1906,
+  "brand": "Holden",
+  "model": "Apollo",
+  "production_year_start": 1989,
+  "production_year_end": 1997,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1907,
+  "brand": "Holden",
+  "model": "Astra",
+  "production_year_start": 1984,
+  "production_year_end": 2020,
+  "body_styles": ["Hatchback", "Sedan"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1908,
+  "brand": "Holden",
+  "model": "Barina",
+  "production_year_start": 1985,
+  "production_year_end": 2018,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1909,
+  "brand": "Holden",
+  "model": "Barina Spark",
+  "production_year_start": 2010,
+  "production_year_end": 2020,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.2L Inline-4",
+      "power_hp": 82,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1910,
+  "brand": "Holden",
+  "model": "Belmont",
+  "production_year_start": 1968,
+  "production_year_end": 1984,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L Inline-6",
+      "power_hp": 140,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1911,
+  "brand": "Holden",
+  "model": "Berlina",
+  "production_year_start": 1984,
+  "production_year_end": 2013,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L V6",
+      "power_hp": 250,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1912,
+  "brand": "Holden",
+  "model": "Brougham",
+  "production_year_start": 1968,
+  "production_year_end": 1971,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 200,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1913,
+  "brand": "Holden",
+  "model": "Business",
+  "production_year_start": 1969,
+  "production_year_end": 1971,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L Inline-6",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1914,
+  "brand": "Holden",
+  "model": "Calais",
+  "production_year_start": 1984,
+  "production_year_end": 2017,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L V6",
+      "power_hp": 286,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1915,
+  "brand": "Holden",
+  "model": "Calibra",
+  "production_year_start": 1991,
+  "production_year_end": 1997,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1916,
+  "brand": "Holden",
+  "model": "Camira",
+  "production_year_start": 1982,
+  "production_year_end": 1989,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1917,
+  "brand": "Holden",
+  "model": "Caprice",
+  "production_year_start": 1990,
+  "production_year_end": 2017,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.0L V8",
+      "power_hp": 360,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1918,
+  "brand": "Holden",
+  "model": "Captiva",
+  "production_year_start": 2006,
+  "production_year_end": 2018,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.2L Diesel",
+      "power_hp": 184,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1919,
+  "brand": "Holden",
+  "model": "Cascada",
+  "production_year_start": 2015,
+  "production_year_end": 2017,
+  "body_styles": ["Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Turbo",
+      "power_hp": 170,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1920,
+  "brand": "Holden",
+  "model": "Colorado",
+  "production_year_start": 2008,
+  "production_year_end": 2020,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.8L Turbo Diesel",
+      "power_hp": 200,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1921,
+  "brand": "Holden",
+  "model": "Combo",
+  "production_year_start": 1996,
+  "production_year_end": 2011,
+  "body_styles": ["Van"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1922,
+  "brand": "Holden",
+  "model": "Commodore",
+  "production_year_start": 1978,
+  "production_year_end": 2020,
+  "body_styles": ["Sedan", "Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L V6",
+      "power_hp": 286,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1923,
+  "brand": "Holden",
+  "model": "Crewman",
+  "production_year_start": 2003,
+  "production_year_end": 2007,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.7L V8",
+      "power_hp": 250,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1924,
+  "brand": "Holden",
+  "model": "Cruze",
+  "production_year_start": 2009,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan", "Hatchback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 141,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1925,
+  "brand": "Holden",
+  "model": "Drover",
+  "production_year_start": 1985,
+  "production_year_end": 1987,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.0L Inline-4",
+      "power_hp": 45,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
+{
+  "id": 1926,
+  "brand": "Holden",
+  "model": "Frontera",
+  "production_year_start": 1995,
+  "production_year_end": 2004,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 136,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1927,
+  "brand": "Holden",
+  "model": "Insignia",
+  "production_year_start": 2015,
+  "production_year_end": 2017,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo",
+      "power_hp": 250,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1928,
+  "brand": "Holden",
+  "model": "Jackaroo",
+  "production_year_start": 1981,
+  "production_year_end": 2004,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.2L V6",
+      "power_hp": 205,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1929,
+  "brand": "Holden",
+  "model": "Kingswood",
+  "production_year_start": 1968,
+  "production_year_end": 1984,
+  "body_styles": ["Sedan", "Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.2L Inline-6",
+      "power_hp": 170,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1930,
+  "brand": "Holden",
+  "model": "Monaro",
+  "production_year_start": 1968,
+  "production_year_end": 2006,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.0L V8",
+      "power_hp": 350,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1931,
+  "brand": "Holden",
+  "model": "One Tonner",
+  "production_year_start": 1971,
+  "production_year_end": 1984,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.3L Inline-6",
+      "power_hp": 140,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1932,
+  "brand": "Holden",
+  "model": "Premier",
+  "production_year_start": 1962,
+  "production_year_end": 1980,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.2L Inline-6",
+      "power_hp": 170,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1933,
+  "brand": "Holden",
+  "model": "Statesman",
+  "production_year_start": 1971,
+  "production_year_end": 1984,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 200,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1934,
+  "brand": "Holden",
+  "model": "Sunbird",
+  "production_year_start": 1976,
+  "production_year_end": 1980,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.9L Inline-4",
+      "power_hp": 85,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1935,
+  "brand": "Holden",
+  "model": "Torana",
+  "production_year_start": 1967,
+  "production_year_end": 1980,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 240,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1936,
+  "brand": "Holden",
+  "model": "Trailblazer",
+  "production_year_start": 2016,
+  "production_year_end": 2020,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.8L Diesel",
+      "power_hp": 200,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1937,
+  "brand": "Holden",
+  "model": "Ute",
+  "production_year_start": 1951,
+  "production_year_end": 2017,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L V6",
+      "power_hp": 286,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1938,
+  "brand": "Holden",
+  "model": "Vectra",
+  "production_year_start": 1997,
+  "production_year_end": 2008,
+  "body_styles": ["Sedan", "Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 147,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1939,
+  "brand": "Holden",
+  "model": "Viva",
+  "production_year_start": 2005,
+  "production_year_end": 2009,
+  "body_styles": ["Sedan", "Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 122,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1940,
+  "brand": "Holden",
+  "model": "Volt",
+  "production_year_start": 2012,
+  "production_year_end": 2015,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "1.4L Hybrid",
+      "power_hp": 149,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1941,
+  "brand": "Holden",
+  "model": "Zafira",
+  "production_year_start": 2001,
+  "production_year_end": 2005,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 147,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
