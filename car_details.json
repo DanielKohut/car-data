@@ -32413,3 +32413,513 @@
     }
   ]
 }
+{
+  "id": 1942,
+  "brand": "Honda",
+  "model": "Accord",
+  "production_year_start": 1976,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Hatchback", "Coupe", "Wagon"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Hybrid",
+      "power_hp": 204,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1943,
+  "brand": "Honda",
+  "model": "City",
+  "production_year_start": 1981,
+  "production_year_end": null,
+  "body_styles": ["Hatchback", "Sedan"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 121,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1944,
+  "brand": "Honda",
+  "model": "Civic",
+  "production_year_start": 1972,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Hatchback", "Coupe", "Wagon"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 158,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1945,
+  "brand": "Honda",
+  "model": "CR-V",
+  "production_year_start": 1995,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid", "Hydrogen"],
+  "engines": [
+    {
+      "name": "2.0L Hybrid",
+      "power_hp": 204,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1946,
+  "brand": "Honda",
+  "model": "CR-Z",
+  "production_year_start": 2010,
+  "production_year_end": 2016,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "1.5L Hybrid",
+      "power_hp": 124,
+      "fuel": "Hybrid",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1947,
+  "brand": "Honda",
+  "model": "Crossroad",
+  "production_year_start": 2007,
+  "production_year_end": 2010,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1948,
+  "brand": "Honda",
+  "model": "Element",
+  "production_year_start": 2003,
+  "production_year_end": 2011,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-4",
+      "power_hp": 166,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1949,
+  "brand": "Honda",
+  "model": "Fit",
+  "production_year_start": 2001,
+  "production_year_end": 2020,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 130,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1950,
+  "brand": "Honda",
+  "model": "Freed",
+  "production_year_start": 2008,
+  "production_year_end": null,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.5L Hybrid",
+      "power_hp": 123,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1951,
+  "brand": "Honda",
+  "model": "HR-V",
+  "production_year_start": 1998,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.5L Hybrid",
+      "power_hp": 131,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1952,
+  "brand": "Honda",
+  "model": "Insight",
+  "production_year_start": 1999,
+  "production_year_end": 2022,
+  "body_styles": ["Hatchback", "Sedan"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "1.5L Hybrid",
+      "power_hp": 151,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1953,
+  "brand": "Honda",
+  "model": "Integra",
+  "production_year_start": 1985,
+  "production_year_end": null,
+  "body_styles": ["Coupe", "Sedan", "Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 200,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1954,
+  "brand": "Honda",
+  "model": "Jazz",
+  "production_year_start": 2001,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.5L Hybrid",
+      "power_hp": 109,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1955,
+  "brand": "Honda",
+  "model": "Legend",
+  "production_year_start": 1985,
+  "production_year_end": null,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.5L V6 Hybrid",
+      "power_hp": 382,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1956,
+  "brand": "Honda",
+  "model": "Mobilio",
+  "production_year_start": 2001,
+  "production_year_end": null,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 118,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1957,
+  "brand": "Honda",
+  "model": "NSX",
+  "production_year_start": 1990,
+  "production_year_end": 2022,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.5L Twin-Turbo V6 Hybrid",
+      "power_hp": 573,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1958,
+  "brand": "Honda",
+  "model": "N-Box",
+  "production_year_start": 2011,
+  "production_year_end": null,
+  "body_styles": ["Microvan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 58,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1959,
+  "brand": "Honda",
+  "model": "N-One",
+  "production_year_start": 2012,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 58,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1960,
+  "brand": "Honda",
+  "model": "N-WGN",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "0.66L Inline-3",
+      "power_hp": 58,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1961,
+  "brand": "Honda",
+  "model": "Odyssey",
+  "production_year_start": 1994,
+  "production_year_end": null,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Hybrid",
+      "power_hp": 184,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1962,
+  "brand": "Honda",
+  "model": "Passport",
+  "production_year_start": 1993,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 280,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1963,
+  "brand": "Honda",
+  "model": "Pilot",
+  "production_year_start": 2002,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 285,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1964,
+  "brand": "Honda",
+  "model": "Prelude",
+  "production_year_start": 1978,
+  "production_year_end": 2001,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.2L Inline-4",
+      "power_hp": 200,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1965,
+  "brand": "Honda",
+  "model": "Prologue",
+  "production_year_start": 2024,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 300,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1966,
+  "brand": "Honda",
+  "model": "Ridgeline",
+  "production_year_start": 2005,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 280,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1967,
+  "brand": "Honda",
+  "model": "S2000",
+  "production_year_start": 1999,
+  "production_year_end": 2009,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 240,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1968,
+  "brand": "Honda",
+  "model": "Stepwgn",
+  "production_year_start": 1996,
+  "production_year_end": null,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Hybrid",
+      "power_hp": 184,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1969,
+  "brand": "Honda",
+  "model": "Stream",
+  "production_year_start": 2000,
+  "production_year_end": 2014,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 140,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1970,
+  "brand": "Honda",
+  "model": "WR-V",
+  "production_year_start": 2016,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 121,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 1971,
+  "brand": "Honda",
+  "model": "ZR-V",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Hybrid",
+      "power_hp": 184,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
