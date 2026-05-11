@@ -32923,3 +32923,377 @@
     }
   ]
 }
+{
+  "id": 1972,
+  "brand": "Hongqi",
+  "model": "CA72",
+  "production_year_start": 1958,
+  "production_year_end": 1965,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.6L V8",
+      "power_hp": 197,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1973,
+  "brand": "Hongqi",
+  "model": "CA770",
+  "production_year_start": 1965,
+  "production_year_end": 1981,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.6L V8",
+      "power_hp": 220,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1974,
+  "brand": "Hongqi",
+  "model": "E-HS3",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 310,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1975,
+  "brand": "Hongqi",
+  "model": "E-HS9",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 543,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1976,
+  "brand": "Hongqi",
+  "model": "EH7",
+  "production_year_start": 2024,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 619,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1977,
+  "brand": "Hongqi",
+  "model": "E-QM5",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 190,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1978,
+  "brand": "Hongqi",
+  "model": "Guoli",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "4.0L V8 Hybrid",
+      "power_hp": 400,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1979,
+  "brand": "Hongqi",
+  "model": "Guoya",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "3.0L V6 Hybrid",
+      "power_hp": 350,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1980,
+  "brand": "Hongqi",
+  "model": "Guoyue",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "3.0L V6 Hybrid",
+      "power_hp": 367,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1981,
+  "brand": "Hongqi",
+  "model": "H5",
+  "production_year_start": 2017,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Inline-4",
+      "power_hp": 224,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1982,
+  "brand": "Hongqi",
+  "model": "H6",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["Liftback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Inline-4",
+      "power_hp": 252,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1983,
+  "brand": "Hongqi",
+  "model": "H7",
+  "production_year_start": 2013,
+  "production_year_end": 2020,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L V6",
+      "power_hp": 231,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1984,
+  "brand": "Hongqi",
+  "model": "H9",
+  "production_year_start": 2020,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.0L V6 Supercharged",
+      "power_hp": 283,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1985,
+  "brand": "Hongqi",
+  "model": "HQ3",
+  "production_year_start": 2005,
+  "production_year_end": 2010,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.3L V8",
+      "power_hp": 280,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1986,
+  "brand": "Hongqi",
+  "model": "HQ9",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Hybrid",
+      "power_hp": 252,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1987,
+  "brand": "Hongqi",
+  "model": "HQE",
+  "production_year_start": 2009,
+  "production_year_end": 2017,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.0L V12",
+      "power_hp": 408,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1988,
+  "brand": "Hongqi",
+  "model": "HS3",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Turbo Inline-4",
+      "power_hp": 169,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1989,
+  "brand": "Hongqi",
+  "model": "HS5",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo Inline-4",
+      "power_hp": 224,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1990,
+  "brand": "Hongqi",
+  "model": "HS6",
+  "production_year_start": 2024,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Hybrid",
+      "power_hp": 245,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1991,
+  "brand": "Hongqi",
+  "model": "HS7",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.0L V6 Supercharged",
+      "power_hp": 337,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1992,
+  "brand": "Hongqi",
+  "model": "L5",
+  "production_year_start": 2014,
+  "production_year_end": null,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.0L V12",
+      "power_hp": 402,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 1993,
+  "brand": "Hongqi",
+  "model": "LS7",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.0L Twin-Turbo V8",
+      "power_hp": 360,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
