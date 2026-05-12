@@ -33297,3 +33297,445 @@
     }
   ]
 }
+{
+  "id": 1994,
+  "brand": "Horch",
+  "model": "8",
+  "production_year_start": 1926,
+  "production_year_end": 1930,
+  "body_styles": ["Sedan", "Tourer"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.1L Inline-8",
+      "power_hp": 60,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1995,
+  "brand": "Horch",
+  "model": "10",
+  "production_year_start": 1901,
+  "production_year_end": 1904,
+  "body_styles": ["Tourer"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-2",
+      "power_hp": 10,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1996,
+  "brand": "Horch",
+  "model": "10/35",
+  "production_year_start": 1923,
+  "production_year_end": 1926,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.6L Inline-4",
+      "power_hp": 35,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1997,
+  "brand": "Horch",
+  "model": "14/40",
+  "production_year_start": 1924,
+  "production_year_end": 1927,
+  "body_styles": ["Sedan", "Tourer"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L Inline-6",
+      "power_hp": 40,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1998,
+  "brand": "Horch",
+  "model": "18/50",
+  "production_year_start": 1927,
+  "production_year_end": 1930,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.5L Inline-8",
+      "power_hp": 50,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 1999,
+  "brand": "Horch",
+  "model": "25/60",
+  "production_year_start": 1928,
+  "production_year_end": 1931,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Inline-8",
+      "power_hp": 60,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2000,
+  "brand": "Horch",
+  "model": "33/80",
+  "production_year_start": 1929,
+  "production_year_end": 1932,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.8L Inline-8",
+      "power_hp": 80,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2001,
+  "brand": "Horch",
+  "model": "305",
+  "production_year_start": 1927,
+  "production_year_end": 1928,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.4L Inline-8",
+      "power_hp": 65,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2002,
+  "brand": "Horch",
+  "model": "350",
+  "production_year_start": 1928,
+  "production_year_end": 1931,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.0L Inline-8",
+      "power_hp": 80,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2003,
+  "brand": "Horch",
+  "model": "375",
+  "production_year_start": 1929,
+  "production_year_end": 1931,
+  "body_styles": ["Sedan", "Tourer"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.5L Inline-8",
+      "power_hp": 85,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2004,
+  "brand": "Horch",
+  "model": "400",
+  "production_year_start": 1930,
+  "production_year_end": 1932,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Inline-8",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2005,
+  "brand": "Horch",
+  "model": "670",
+  "production_year_start": 1931,
+  "production_year_end": 1934,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.0L V12",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2006,
+  "brand": "Horch",
+  "model": "780",
+  "production_year_start": 1932,
+  "production_year_end": 1934,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "8.0L V12",
+      "power_hp": 150,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2007,
+  "brand": "Horch",
+  "model": "830",
+  "production_year_start": 1933,
+  "production_year_end": 1940,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L V8",
+      "power_hp": 82,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2008,
+  "brand": "Horch",
+  "model": "830Bk",
+  "production_year_start": 1935,
+  "production_year_end": 1940,
+  "body_styles": ["Sedan", "Cabriolet"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V8",
+      "power_hp": 92,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2009,
+  "brand": "Horch",
+  "model": "830BL",
+  "production_year_start": 1935,
+  "production_year_end": 1940,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V8",
+      "power_hp": 92,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2010,
+  "brand": "Horch",
+  "model": "830 Sport",
+  "production_year_start": 1936,
+  "production_year_end": 1939,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V8",
+      "power_hp": 95,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2011,
+  "brand": "Horch",
+  "model": "850",
+  "production_year_start": 1935,
+  "production_year_end": 1940,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Inline-8",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2012,
+  "brand": "Horch",
+  "model": "850 Sport",
+  "production_year_start": 1936,
+  "production_year_end": 1940,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Inline-8",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2013,
+  "brand": "Horch",
+  "model": "851",
+  "production_year_start": 1937,
+  "production_year_end": 1940,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Inline-8",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2014,
+  "brand": "Horch",
+  "model": "853",
+  "production_year_start": 1935,
+  "production_year_end": 1940,
+  "body_styles": ["Cabriolet"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Inline-8",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2015,
+  "brand": "Horch",
+  "model": "853A",
+  "production_year_start": 1938,
+  "production_year_end": 1940,
+  "body_styles": ["Cabriolet"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Inline-8",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2016,
+  "brand": "Horch",
+  "model": "855",
+  "production_year_start": 1937,
+  "production_year_end": 1940,
+  "body_styles": ["Roadster"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L Inline-8",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2017,
+  "brand": "Horch",
+  "model": "930V",
+  "production_year_start": 1937,
+  "production_year_end": 1940,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L V8",
+      "power_hp": 92,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2018,
+  "brand": "Horch",
+  "model": "951",
+  "production_year_start": 1937,
+  "production_year_end": 1940,
+  "body_styles": ["Military"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V8",
+      "power_hp": 80,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2019,
+  "brand": "Horch",
+  "model": "951A",
+  "production_year_start": 1939,
+  "production_year_end": 1941,
+  "body_styles": ["Military"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.8L V8",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
