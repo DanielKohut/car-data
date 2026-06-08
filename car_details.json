@@ -33739,3 +33739,445 @@
     }
   ]
 }
+{
+  "id": 2020,
+  "brand": "Humber",
+  "model": "10",
+  "production_year_start": 1932,
+  "production_year_end": 1937,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.2L Inline-4",
+      "power_hp": 37,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2021,
+  "brand": "Humber",
+  "model": "11.4",
+  "production_year_start": 1921,
+  "production_year_end": 1925,
+  "body_styles": ["Tourer"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 35,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2022,
+  "brand": "Humber",
+  "model": "12",
+  "production_year_start": 1933,
+  "production_year_end": 1937,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.7L Inline-4",
+      "power_hp": 44,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2023,
+  "brand": "Humber",
+  "model": "14/40",
+  "production_year_start": 1925,
+  "production_year_end": 1929,
+  "body_styles": ["Tourer", "Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.1L Inline-4",
+      "power_hp": 40,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2024,
+  "brand": "Humber",
+  "model": "15",
+  "production_year_start": 1933,
+  "production_year_end": 1937,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.1L Inline-6",
+      "power_hp": 55,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2025,
+  "brand": "Humber",
+  "model": "16/50",
+  "production_year_start": 1929,
+  "production_year_end": 1932,
+  "body_styles": ["Tourer", "Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.4L Inline-6",
+      "power_hp": 50,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2026,
+  "brand": "Humber",
+  "model": "20/65",
+  "production_year_start": 1928,
+  "production_year_end": 1935,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L Inline-6",
+      "power_hp": 65,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2027,
+  "brand": "Humber",
+  "model": "8/18",
+  "production_year_start": 1922,
+  "production_year_end": 1925,
+  "body_styles": ["Tourer"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.0L Inline-4",
+      "power_hp": 18,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2028,
+  "brand": "Humber",
+  "model": "9/20",
+  "production_year_start": 1925,
+  "production_year_end": 1927,
+  "body_styles": ["Tourer"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.1L Inline-4",
+      "power_hp": 20,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2029,
+  "brand": "Humber",
+  "model": "9/28",
+  "production_year_start": 1927,
+  "production_year_end": 1932,
+  "body_styles": ["Tourer", "Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.2L Inline-4",
+      "power_hp": 28,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2030,
+  "brand": "Humber",
+  "model": "80",
+  "production_year_start": 1962,
+  "production_year_end": 1965,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 60,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2031,
+  "brand": "Humber",
+  "model": "90",
+  "production_year_start": 1954,
+  "production_year_end": 1957,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.3L Inline-4",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2032,
+  "brand": "Humber",
+  "model": "Armoured Car",
+  "production_year_start": 1940,
+  "production_year_end": 1945,
+  "body_styles": ["Military"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 90,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2033,
+  "brand": "Humber",
+  "model": "FWD",
+  "production_year_start": 1940,
+  "production_year_end": 1945,
+  "body_styles": ["Military"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 85,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2034,
+  "brand": "Humber",
+  "model": "Hawk",
+  "production_year_start": 1945,
+  "production_year_end": 1967,
+  "body_styles": ["Sedan", "Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.3L Inline-4",
+      "power_hp": 73,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2035,
+  "brand": "Humber",
+  "model": "Hornet",
+  "production_year_start": 1930,
+  "production_year_end": 1936,
+  "body_styles": ["Tourer", "Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.3L Inline-6",
+      "power_hp": 45,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2036,
+  "brand": "Humber",
+  "model": "Imperial",
+  "production_year_start": 1964,
+  "production_year_end": 1967,
+  "body_styles": ["Sedan", "Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L Inline-6",
+      "power_hp": 124,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2037,
+  "brand": "Humber",
+  "model": "Light Reconnaissance Car",
+  "production_year_start": 1940,
+  "production_year_end": 1943,
+  "body_styles": ["Military"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 85,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2038,
+  "brand": "Humber",
+  "model": "Pig",
+  "production_year_start": 1952,
+  "production_year_end": 1958,
+  "body_styles": ["Military"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2039,
+  "brand": "Humber",
+  "model": "Pullman",
+  "production_year_start": 1930,
+  "production_year_end": 1954,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2040,
+  "brand": "Humber",
+  "model": "Pullman Limousine",
+  "production_year_start": 1945,
+  "production_year_end": 1954,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2041,
+  "brand": "Humber",
+  "model": "Scout Car",
+  "production_year_start": 1942,
+  "production_year_end": 1945,
+  "body_styles": ["Military"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 87,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2042,
+  "brand": "Humber",
+  "model": "Snipe",
+  "production_year_start": 1930,
+  "production_year_end": 1948,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 85,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2043,
+  "brand": "Humber",
+  "model": "Super Pullman",
+  "production_year_start": 1938,
+  "production_year_end": 1940,
+  "body_styles": ["Limousine"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.1L Inline-6",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2044,
+  "brand": "Humber",
+  "model": "Super Snipe",
+  "production_year_start": 1938,
+  "production_year_end": 1967,
+  "body_styles": ["Sedan", "Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L Inline-6",
+      "power_hp": 124,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2045,
+  "brand": "Humber",
+  "model": "Vogue",
+  "production_year_start": 1963,
+  "production_year_end": 1966,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 74,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+}
