@@ -2553,7 +2553,10 @@
       "10",
       "11.4",
       "12",
+      "14/40",
       "15",
+      "16/50",
+      "20/65",
       "8/18",
       "9/20",
       "9/28",
@@ -2567,9 +2570,12 @@
       "Light Reconnaissance Car",
       "Pig",
       "Pullman",
+      "Pullman Limousine",
       "Scout Car",
       "Snipe",
-      "Super Snipe"
+      "Super Pullman",
+      "Super Snipe",
+      "Vogue"
     ],
     "Hummer": [
       "H1",
