@@ -34181,3 +34181,71 @@
     }
   ]
 }
+{
+  "id": 2046,
+  "brand": "Hummer",
+  "model": "H1",
+  "production_year_start": 1992,
+  "production_year_end": 2006,
+  "body_styles": ["SUV", "Pickup", "Wagon"],
+  "fuel_types": ["Diesel", "Petrol"],
+  "engines": [
+    {
+      "name": "6.5L V8 Turbo Diesel",
+      "power_hp": 195,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2047,
+  "brand": "Hummer",
+  "model": "H2",
+  "production_year_start": 2002,
+  "production_year_end": 2009,
+  "body_styles": ["SUV", "Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "6.2L V8",
+      "power_hp": 393,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2048,
+  "brand": "Hummer",
+  "model": "H3",
+  "production_year_start": 2005,
+  "production_year_end": 2010,
+  "body_styles": ["SUV", "Pickup"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.7L Inline-5",
+      "power_hp": 242,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2049,
+  "brand": "Hummer",
+  "model": "HX",
+  "production_year_start": 2008,
+  "production_year_end": 2008,
+  "body_styles": ["Concept SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.6L V6",
+      "power_hp": 304,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
