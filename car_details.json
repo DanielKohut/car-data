@@ -34249,3 +34249,700 @@
     }
   ]
 }
+{
+  "id": 2050,
+  "brand": "Hyundai",
+  "model": "Accent",
+  "production_year_start": 1994,
+  "production_year_end": 2022,
+  "body_styles": ["Sedan", "Hatchback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 120,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2051,
+  "brand": "Hyundai",
+  "model": "Atos",
+  "production_year_start": 1997,
+  "production_year_end": 2014,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.1L Inline-4",
+      "power_hp": 63,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2052,
+  "brand": "Hyundai",
+  "model": "Azera",
+  "production_year_start": 1986,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 290,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2053,
+  "brand": "Hyundai",
+  "model": "Bayon",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.0L Turbo",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2054,
+  "brand": "Hyundai",
+  "model": "Casper",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Electric"],
+  "engines": [
+    {
+      "name": "1.0L Inline-3",
+      "power_hp": 76,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2055,
+  "brand": "Hyundai",
+  "model": "Creta",
+  "production_year_start": 2014,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2056,
+  "brand": "Hyundai",
+  "model": "Elantra",
+  "production_year_start": 1990,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.0L Inline-4",
+      "power_hp": 147,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2057,
+  "brand": "Hyundai",
+  "model": "Excel",
+  "production_year_start": 1985,
+  "production_year_end": 2000,
+  "body_styles": ["Sedan", "Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 92,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2058,
+  "brand": "Hyundai",
+  "model": "Galloper",
+  "production_year_start": 1991,
+  "production_year_end": 2003,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.0L V6",
+      "power_hp": 141,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2059,
+  "brand": "Hyundai",
+  "model": "Genesis",
+  "production_year_start": 2008,
+  "production_year_end": 2016,
+  "body_styles": ["Sedan", "Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.0L V8",
+      "power_hp": 420,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2060,
+  "brand": "Hyundai",
+  "model": "Getz",
+  "production_year_start": 2002,
+  "production_year_end": 2011,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.4L Inline-4",
+      "power_hp": 97,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2061,
+  "brand": "Hyundai",
+  "model": "Grandeur",
+  "production_year_start": 1986,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2062,
+  "brand": "Hyundai",
+  "model": "H-1",
+  "production_year_start": 1997,
+  "production_year_end": 2021,
+  "body_styles": ["Van", "MPV"],
+  "fuel_types": ["Diesel", "Petrol"],
+  "engines": [
+    {
+      "name": "2.5L CRDi",
+      "power_hp": 170,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2063,
+  "brand": "Hyundai",
+  "model": "H350",
+  "production_year_start": 2014,
+  "production_year_end": 2021,
+  "body_styles": ["Van", "Chassis Cab"],
+  "fuel_types": ["Diesel"],
+  "engines": [
+    {
+      "name": "2.5L CRDi",
+      "power_hp": 170,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2064,
+  "brand": "Hyundai",
+  "model": "i10",
+  "production_year_start": 2007,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.0L Inline-3",
+      "power_hp": 67,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2065,
+  "brand": "Hyundai",
+  "model": "i20",
+  "production_year_start": 2008,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "1.0L Turbo",
+      "power_hp": 100,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2066,
+  "brand": "Hyundai",
+  "model": "i20 N",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Turbo",
+      "power_hp": 204,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2067,
+  "brand": "Hyundai",
+  "model": "i30",
+  "production_year_start": 2007,
+  "production_year_end": null,
+  "body_styles": ["Hatchback", "Wagon", "Fastback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.5L T-GDi",
+      "power_hp": 160,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2068,
+  "brand": "Hyundai",
+  "model": "i30 N",
+  "production_year_start": 2017,
+  "production_year_end": null,
+  "body_styles": ["Hatchback", "Fastback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo",
+      "power_hp": 280,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2069,
+  "brand": "Hyundai",
+  "model": "i40",
+  "production_year_start": 2011,
+  "production_year_end": 2022,
+  "body_styles": ["Sedan", "Wagon"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+      {
+        "name": "1.7L CRDi",
+        "power_hp": 141,
+        "fuel": "Diesel",
+        "transmissions": ["Manual", "Automatic"]
+      }
+  ]
+},
+{
+  "id": 2070,
+  "brand": "Hyundai",
+  "model": "Inster",
+  "production_year_start": 2024,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Electric Motor",
+      "power_hp": 115,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
+{
+  "id": 2071,
+  "brand": "Hyundai",
+  "model": "IONIQ",
+  "production_year_start": 2016,
+  "production_year_end": 2022,
+  "body_styles": ["Liftback"],
+  "fuel_types": ["Hybrid", "Plug-in Hybrid", "Electric"],
+  "engines": [
+    {
+      "name": "1.6L Hybrid",
+      "power_hp": 141,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2072,
+  "brand": "Hyundai",
+  "model": "IONIQ 5",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 325,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2073,
+  "brand": "Hyundai",
+  "model": "IONIQ 6",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 325,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2074,
+  "brand": "Hyundai",
+  "model": "IONIQ 9",
+  "production_year_start": 2025,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Electric"],
+  "engines": [
+    {
+      "name": "Dual Motor Electric",
+      "power_hp": 422,
+      "fuel": "Electric",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2075,
+  "brand": "Hyundai",
+  "model": "Kona",
+  "production_year_start": 2017,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid", "Electric"],
+  "engines": [
+    {
+      "name": "1.6L Hybrid",
+      "power_hp": 141,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2076,
+  "brand": "Hyundai",
+  "model": "Kona N",
+  "production_year_start": 2021,
+  "production_year_end": 2023,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo",
+      "power_hp": 280,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2077,
+  "brand": "Hyundai",
+  "model": "Lantra",
+  "production_year_start": 1990,
+  "production_year_end": 2000,
+  "body_styles": ["Sedan", "Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.8L Inline-4",
+      "power_hp": 128,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2078,
+  "brand": "Hyundai",
+  "model": "Matrix",
+  "production_year_start": 2001,
+  "production_year_end": 2010,
+  "body_styles": ["MPV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 103,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2079,
+  "brand": "Hyundai",
+  "model": "Nexo",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Hydrogen"],
+  "engines": [
+    {
+      "name": "Hydrogen Fuel Cell",
+      "power_hp": 161,
+      "fuel": "Hydrogen",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2080,
+  "brand": "Hyundai",
+  "model": "Palisade",
+  "production_year_start": 2018,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.8L V6",
+      "power_hp": 291,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2081,
+  "brand": "Hyundai",
+  "model": "Porter",
+  "production_year_start": 1977,
+  "production_year_end": null,
+  "body_styles": ["Pickup", "Chassis Cab"],
+  "fuel_types": ["Diesel", "Electric"],
+  "engines": [
+    {
+      "name": "2.5L CRDi",
+      "power_hp": 133,
+      "fuel": "Diesel",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2082,
+  "brand": "Hyundai",
+  "model": "Santa Fe",
+  "production_year_start": 2000,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel", "Hybrid", "Plug-in Hybrid"],
+  "engines": [
+    {
+      "name": "1.6L Turbo Hybrid",
+      "power_hp": 230,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2083,
+  "brand": "Hyundai",
+  "model": "Sonata",
+  "production_year_start": 1985,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "2.5L Inline-4",
+      "power_hp": 191,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2084,
+  "brand": "Hyundai",
+  "model": "Stellar",
+  "production_year_start": 1983,
+  "production_year_end": 1997,
+  "body_styles": ["Sedan", "Wagon"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 68,
+      "fuel": "Petrol",
+      "transmissions": ["Manual"]
+    }
+  ]
+},
+{
+  "id": 2085,
+  "brand": "Hyundai",
+  "model": "Terracan",
+  "production_year_start": 2001,
+  "production_year_end": 2007,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.9L CRDi",
+      "power_hp": 163,
+      "fuel": "Diesel",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2086,
+  "brand": "Hyundai",
+  "model": "Tucson",
+  "production_year_start": 2004,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel", "Hybrid", "Plug-in Hybrid"],
+  "engines": [
+    {
+      "name": "1.6L Turbo Hybrid",
+      "power_hp": 230,
+      "fuel": "Hybrid",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2087,
+  "brand": "Hyundai",
+  "model": "Veloster",
+  "production_year_start": 2011,
+  "production_year_end": 2022,
+  "body_styles": ["Coupe", "Hatchback"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L Turbo",
+      "power_hp": 275,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2088,
+  "brand": "Hyundai",
+  "model": "Venue",
+  "production_year_start": 2019,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "1.6L Inline-4",
+      "power_hp": 121,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2089,
+  "brand": "Hyundai",
+  "model": "Verna",
+  "production_year_start": 1994,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.5L Inline-4",
+      "power_hp": 115,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2090,
+  "brand": "Hyundai",
+  "model": "Xcent",
+  "production_year_start": 2014,
+  "production_year_end": 2020,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "1.2L Inline-4",
+      "power_hp": 83,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+}
