@@ -34946,3 +34946,72 @@
     }
   ]
 }
+{
+  "id": 2091,
+  "brand": "Ineos",
+  "model": "Grenadier Quartermaster",
+  "production_year_start": 2023,
+  "production_year_end": null,
+  "body_styles": ["Pickup"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.0L Turbo Inline-6",
+      "power_hp": 286,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    },
+    {
+      "name": "3.0L Turbo Diesel Inline-6",
+      "power_hp": 249,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2092,
+  "brand": "Ineos",
+  "model": "Grenadier Station Wagon",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.0L Turbo Inline-6",
+      "power_hp": 286,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    },
+    {
+      "name": "3.0L Turbo Diesel Inline-6",
+      "power_hp": 249,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2093,
+  "brand": "Ineos",
+  "model": "Grenadier Utility Wagon",
+  "production_year_start": 2022,
+  "production_year_end": null,
+  "body_styles": ["SUV", "Commercial Vehicle"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.0L Turbo Inline-6",
+      "power_hp": 286,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    },
+    {
+      "name": "3.0L Turbo Diesel Inline-6",
+      "power_hp": 249,
+      "fuel": "Diesel",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
