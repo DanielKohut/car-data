@@ -35015,3 +35015,360 @@
     }
   ]
 },
+{
+  "id": 2094,
+  "brand": "Infiniti",
+  "model": "EX",
+  "production_year_start": 2007,
+  "production_year_end": 2013,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 297,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2095,
+  "brand": "Infiniti",
+  "model": "FX",
+  "production_year_start": 2003,
+  "production_year_end": 2013,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.7L V6",
+      "power_hp": 320,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2096,
+  "brand": "Infiniti",
+  "model": "G",
+  "production_year_start": 1990,
+  "production_year_end": 2014,
+  "body_styles": ["Sedan", "Coupe", "Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.7L V6",
+      "power_hp": 328,
+      "fuel": "Petrol",
+      "transmissions": ["Manual", "Automatic"]
+    }
+  ]
+},
+{
+  "id": 2097,
+  "brand": "Infiniti",
+  "model": "I",
+  "production_year_start": 1995,
+  "production_year_end": 2004,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 255,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2098,
+  "brand": "Infiniti",
+  "model": "J",
+  "production_year_start": 1992,
+  "production_year_end": 1997,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L V6",
+      "power_hp": 210,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2099,
+  "brand": "Infiniti",
+  "model": "M",
+  "production_year_start": 2003,
+  "production_year_end": 2013,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.7L V6",
+      "power_hp": 330,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2100,
+  "brand": "Infiniti",
+  "model": "M30",
+  "production_year_start": 1989,
+  "production_year_end": 1992,
+  "body_styles": ["Coupe", "Convertible"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L V6",
+      "power_hp": 162,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2101,
+  "brand": "Infiniti",
+  "model": "Q30",
+  "production_year_start": 2015,
+  "production_year_end": 2019,
+  "body_styles": ["Hatchback"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo",
+      "power_hp": 211,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2102,
+  "brand": "Infiniti",
+  "model": "Q40",
+  "production_year_start": 2014,
+  "production_year_end": 2015,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.7L V6",
+      "power_hp": 328,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2103,
+  "brand": "Infiniti",
+  "model": "Q45",
+  "production_year_start": 1989,
+  "production_year_end": 2006,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "4.5L V8",
+      "power_hp": 340,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2104,
+  "brand": "Infiniti",
+  "model": "Q50",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Diesel", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.0L Twin-Turbo V6",
+      "power_hp": 300,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2105,
+  "brand": "Infiniti",
+  "model": "Q60",
+  "production_year_start": 2016,
+  "production_year_end": 2022,
+  "body_styles": ["Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.0L Twin-Turbo V6",
+      "power_hp": 400,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2106,
+  "brand": "Infiniti",
+  "model": "Q70",
+  "production_year_start": 2013,
+  "production_year_end": 2019,
+  "body_styles": ["Sedan"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.7L V6",
+      "power_hp": 330,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2107,
+  "brand": "Infiniti",
+  "model": "QX30",
+  "production_year_start": 2016,
+  "production_year_end": 2019,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "2.0L Turbo",
+      "power_hp": 211,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2108,
+  "brand": "Infiniti",
+  "model": "QX4",
+  "production_year_start": 1996,
+  "production_year_end": 2003,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 240,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2109,
+  "brand": "Infiniti",
+  "model": "QX50",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L VC-Turbo",
+      "power_hp": 268,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2110,
+  "brand": "Infiniti",
+  "model": "QX55",
+  "production_year_start": 2021,
+  "production_year_end": null,
+  "body_styles": ["SUV Coupe"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "2.0L VC-Turbo",
+      "power_hp": 268,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2111,
+  "brand": "Infiniti",
+  "model": "QX56",
+  "production_year_start": 2004,
+  "production_year_end": 2013,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.6L V8",
+      "power_hp": 400,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2112,
+  "brand": "Infiniti",
+  "model": "QX60",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Hybrid"],
+  "engines": [
+    {
+      "name": "3.5L V6",
+      "power_hp": 295,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2113,
+  "brand": "Infiniti",
+  "model": "QX70",
+  "production_year_start": 2013,
+  "production_year_end": 2017,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol", "Diesel"],
+  "engines": [
+    {
+      "name": "3.7L V6",
+      "power_hp": 320,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+},
+{
+  "id": 2114,
+  "brand": "Infiniti",
+  "model": "QX80",
+  "production_year_start": 2013,
+  "production_year_end": null,
+  "body_styles": ["SUV"],
+  "fuel_types": ["Petrol"],
+  "engines": [
+    {
+      "name": "5.6L V8",
+      "power_hp": 400,
+      "fuel": "Petrol",
+      "transmissions": ["Automatic"]
+    }
+  ]
+}
